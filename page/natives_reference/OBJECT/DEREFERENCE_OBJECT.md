@@ -1,0 +1,5 @@
+# DEREFERENCE_OBJECT `0xCEA40973`
+
+```cpp
+void DEREFERENCE_OBJECT(int _Unk0);
+```

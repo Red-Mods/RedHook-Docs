@@ -1,0 +1,5 @@
+# GET_DEBUG_DRAW_STATE `0xFF0B53EF`
+
+```cpp
+int GET_DEBUG_DRAW_STATE();
+```

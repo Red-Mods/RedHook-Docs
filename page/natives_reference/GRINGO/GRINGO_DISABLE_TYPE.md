@@ -1,0 +1,5 @@
+# GRINGO_DISABLE_TYPE `0xCB91CC6E`
+
+```cpp
+void GRINGO_DISABLE_TYPE(int _Unk0);
+```

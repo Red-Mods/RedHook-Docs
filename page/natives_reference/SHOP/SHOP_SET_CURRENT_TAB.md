@@ -1,0 +1,5 @@
+# SHOP_SET_CURRENT_TAB `0x3601E3E2`
+
+```cpp
+void SHOP_SET_CURRENT_TAB(int _Unk0);
+```

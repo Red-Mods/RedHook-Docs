@@ -1,0 +1,5 @@
+# SET_ALLOW_DEADEYE_LOCKS `0xA1BFC1A5`
+
+```cpp
+void SET_ALLOW_DEADEYE_LOCKS(int _Unk0, int _Unk1);
+```

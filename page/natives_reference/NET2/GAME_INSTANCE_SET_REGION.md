@@ -1,0 +1,5 @@
+# GAME_INSTANCE_SET_REGION `0x85049505`
+
+```cpp
+int GAME_INSTANCE_SET_REGION(int _Unk0, int _Unk1);
+```

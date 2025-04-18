@@ -1,0 +1,5 @@
+# ADVANCE_TIME_HOURS `0xD4FECCBC`
+
+```cpp
+void ADVANCE_TIME_HOURS(int _Unk0);
+```

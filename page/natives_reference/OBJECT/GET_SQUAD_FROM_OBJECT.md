@@ -1,0 +1,5 @@
+# GET_SQUAD_FROM_OBJECT `0xD0C471FB`
+
+```cpp
+int GET_SQUAD_FROM_OBJECT(int _Unk0);
+```

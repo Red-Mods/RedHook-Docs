@@ -1,0 +1,5 @@
+# GRINGO_SET_REUSE_DELAY `0x8C2914C4`
+
+```cpp
+void GRINGO_SET_REUSE_DELAY(int _Unk0, int _Unk1);
+```

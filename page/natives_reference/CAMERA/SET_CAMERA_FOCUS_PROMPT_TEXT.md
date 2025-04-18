@@ -1,0 +1,5 @@
+# SET_CAMERA_FOCUS_PROMPT_TEXT `0x21633E5F`
+
+```cpp
+void SET_CAMERA_FOCUS_PROMPT_TEXT(int _Unk0, int _Unk1);
+```

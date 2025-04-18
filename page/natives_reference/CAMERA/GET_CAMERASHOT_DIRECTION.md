@@ -1,0 +1,5 @@
+# GET_CAMERASHOT_DIRECTION `0x4670416D`
+
+```cpp
+void GET_CAMERASHOT_DIRECTION(int _Unk0, int _Unk1);
+```

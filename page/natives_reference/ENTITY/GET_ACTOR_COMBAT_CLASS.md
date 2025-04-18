@@ -1,0 +1,5 @@
+# GET_ACTOR_COMBAT_CLASS `0x0129B715`
+
+```cpp
+int GET_ACTOR_COMBAT_CLASS(int _Unk0);
+```

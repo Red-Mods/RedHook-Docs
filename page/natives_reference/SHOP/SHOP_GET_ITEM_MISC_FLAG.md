@@ -1,0 +1,5 @@
+# SHOP_GET_ITEM_MISC_FLAG `0x1BF8FD6D`
+
+```cpp
+int SHOP_GET_ITEM_MISC_FLAG(int _Unk0);
+```

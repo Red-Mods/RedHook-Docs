@@ -1,0 +1,5 @@
+# GET_MATERIAL_AT_VECTOR `0x5219B7D0`
+
+```cpp
+int GET_MATERIAL_AT_VECTOR(Vector3* _Position);
+```

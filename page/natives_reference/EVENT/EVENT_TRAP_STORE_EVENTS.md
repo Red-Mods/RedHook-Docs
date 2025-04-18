@@ -1,0 +1,5 @@
+# EVENT_TRAP_STORE_EVENTS `0x08765C6B`
+
+```cpp
+void EVENT_TRAP_STORE_EVENTS(int _Unk0, int _Unk1);
+```

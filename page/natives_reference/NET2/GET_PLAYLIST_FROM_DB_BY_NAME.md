@@ -1,0 +1,5 @@
+# GET_PLAYLIST_FROM_DB_BY_NAME `0xB514ECA7`
+
+```cpp
+int GET_PLAYLIST_FROM_DB_BY_NAME(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# GRINGO_LOAD_ANIMATION_FOR_USER `0x7D600F2F`
+
+```cpp
+void GRINGO_LOAD_ANIMATION_FOR_USER(int _Unk0, int _Unk1);
+```

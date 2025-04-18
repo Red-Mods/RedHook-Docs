@@ -1,0 +1,5 @@
+# IS_HARDCORE_ACTIVE `0x8701F1F6`
+
+```cpp
+bool IS_HARDCORE_ACTIVE();
+```

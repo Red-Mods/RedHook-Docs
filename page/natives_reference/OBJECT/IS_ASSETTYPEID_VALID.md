@@ -1,0 +1,5 @@
+# IS_ASSETTYPEID_VALID `0x214AFB8C`
+
+```cpp
+int IS_ASSETTYPEID_VALID(int _Unk0);
+```

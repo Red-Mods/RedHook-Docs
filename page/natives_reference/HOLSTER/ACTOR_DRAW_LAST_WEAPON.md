@@ -1,0 +1,5 @@
+# ACTOR_DRAW_LAST_WEAPON `0x8FFDCE5C`
+
+```cpp
+int ACTOR_DRAW_LAST_WEAPON(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# ACTOR_DATA_GRAVITY_LIMIT `0xF03CC7A7`
+
+```cpp
+void ACTOR_DATA_GRAVITY_LIMIT(int _Unk0);
+```

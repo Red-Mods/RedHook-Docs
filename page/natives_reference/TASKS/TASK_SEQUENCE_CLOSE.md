@@ -1,0 +1,5 @@
+# TASK_SEQUENCE_CLOSE `0x9EE3053B`
+
+```cpp
+void TASK_SEQUENCE_CLOSE();
+```

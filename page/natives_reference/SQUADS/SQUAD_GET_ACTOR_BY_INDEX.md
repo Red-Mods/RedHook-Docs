@@ -1,0 +1,5 @@
+# SQUAD_GET_ACTOR_BY_INDEX `0x5126039A`
+
+```cpp
+int SQUAD_GET_ACTOR_BY_INDEX(int _Unk0, int _Unk1);
+```

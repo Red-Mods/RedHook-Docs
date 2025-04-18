@@ -1,0 +1,5 @@
+# HORSE_UNLOCK_FRESHNESS `0x6AFA044B`
+
+```cpp
+int HORSE_UNLOCK_FRESHNESS(int _Unk0);
+```

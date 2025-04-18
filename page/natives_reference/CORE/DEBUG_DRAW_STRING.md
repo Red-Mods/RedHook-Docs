@@ -1,0 +1,5 @@
+# DEBUG_DRAW_STRING `0x993E45D8`
+
+```cpp
+void DEBUG_DRAW_STRING();
+```

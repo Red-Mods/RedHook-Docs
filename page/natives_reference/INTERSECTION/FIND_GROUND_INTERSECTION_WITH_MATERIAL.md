@@ -1,0 +1,5 @@
+# FIND_GROUND_INTERSECTION_WITH_MATERIAL `0x77964B0C`
+
+```cpp
+int FIND_GROUND_INTERSECTION_WITH_MATERIAL(int _Unk0, int _Unk1, int _Unk2, int _Unk3, int _Unk4);
+```

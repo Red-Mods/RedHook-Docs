@@ -1,0 +1,5 @@
+# GET_GRINGO_ACTIVATION_SPHERE `0xADA2EA30`
+
+```cpp
+void GET_GRINGO_ACTIVATION_SPHERE(int _Unk0, int _Unk1, int _Unk2);
+```

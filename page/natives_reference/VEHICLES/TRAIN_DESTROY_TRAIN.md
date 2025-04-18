@@ -1,0 +1,5 @@
+# TRAIN_DESTROY_TRAIN `0x74CECEB3`
+
+```cpp
+void TRAIN_DESTROY_TRAIN(int _Unk0);
+```

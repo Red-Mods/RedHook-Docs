@@ -1,0 +1,5 @@
+# IS_CAMERA_FOCUS_ACTIVE `0xCA8CC5CE`
+
+```cpp
+int IS_CAMERA_FOCUS_ACTIVE(int _Unk0);
+```

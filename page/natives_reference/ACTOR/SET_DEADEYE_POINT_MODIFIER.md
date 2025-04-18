@@ -1,0 +1,5 @@
+# SET_DEADEYE_POINT_MODIFIER `0x0486955B`
+
+```cpp
+void SET_DEADEYE_POINT_MODIFIER(int _Unk0, int _Unk1);
+```

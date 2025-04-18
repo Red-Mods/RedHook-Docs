@@ -1,0 +1,5 @@
+# GET_ACTOR_MAX_HEALTH `0xB69A84AF`
+
+```cpp
+float GET_ACTOR_MAX_HEALTH(Actor _Actor);
+```

@@ -1,0 +1,5 @@
+# SET_PROP_AI_OBSTACLE_ENABLED `0x0DC83543`
+
+```cpp
+int SET_PROP_AI_OBSTACLE_ENABLED(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# SET_TIME_ACCELERATION `0xB98C7AA5`
+
+```cpp
+void SET_TIME_ACCELERATION(float _Value);
+```

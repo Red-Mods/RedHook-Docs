@@ -1,0 +1,5 @@
+# SET_ALL_DOOR_LOCKS_VISIBLE `0x3B25299D`
+
+```cpp
+void SET_ALL_DOOR_LOCKS_VISIBLE(int _Unk0);
+```

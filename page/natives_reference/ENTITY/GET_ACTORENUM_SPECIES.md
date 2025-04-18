@@ -1,0 +1,5 @@
+# GET_ACTORENUM_SPECIES `0x6AC01FCB`
+
+```cpp
+int GET_ACTORENUM_SPECIES(int _Unk0);
+```

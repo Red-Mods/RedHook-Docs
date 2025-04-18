@@ -1,0 +1,5 @@
+# GET_CRIME_CRIMINAL `0xEC2C34A4`
+
+```cpp
+int GET_CRIME_CRIMINAL(int _Unk0);
+```

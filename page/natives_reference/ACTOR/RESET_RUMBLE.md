@@ -1,0 +1,5 @@
+# RESET_RUMBLE `0xB3BE2F95`
+
+```cpp
+void RESET_RUMBLE();
+```

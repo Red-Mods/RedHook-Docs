@@ -1,0 +1,5 @@
+# GET_CURRENT_GAME_TIME `0x5842B9D1`
+
+```cpp
+float GET_CURRENT_GAME_TIME();
+```

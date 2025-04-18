@@ -1,0 +1,5 @@
+# HAS_SOUND_FINISHED `0xE85AEC2E`
+
+```cpp
+int HAS_SOUND_FINISHED(int _Unk0);
+```

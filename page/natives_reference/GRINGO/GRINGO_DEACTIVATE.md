@@ -1,0 +1,5 @@
+# GRINGO_DEACTIVATE `0x25636669`
+
+```cpp
+int GRINGO_DEACTIVATE(int _Unk0);
+```

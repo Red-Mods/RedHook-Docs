@@ -1,0 +1,5 @@
+# ATTACH_SLOT_FROM_STRING `0x4A61BD63`
+
+```cpp
+int ATTACH_SLOT_FROM_STRING(int _Unk0);
+```

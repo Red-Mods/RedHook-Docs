@@ -1,0 +1,5 @@
+# SC_CHALLENGE_IS_ACTIVE `0x5D7197BC`
+
+```cpp
+int SC_CHALLENGE_IS_ACTIVE(int _Unk0);
+```

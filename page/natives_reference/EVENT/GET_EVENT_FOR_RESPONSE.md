@@ -1,0 +1,5 @@
+# GET_EVENT_FOR_RESPONSE `0x586714AE`
+
+```cpp
+int GET_EVENT_FOR_RESPONSE(int _Unk0);
+```

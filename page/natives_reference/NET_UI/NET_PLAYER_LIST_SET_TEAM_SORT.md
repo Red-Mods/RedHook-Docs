@@ -1,0 +1,5 @@
+# NET_PLAYER_LIST_SET_TEAM_SORT `0xA56B459C`
+
+```cpp
+void NET_PLAYER_LIST_SET_TEAM_SORT(bool disable);
+```

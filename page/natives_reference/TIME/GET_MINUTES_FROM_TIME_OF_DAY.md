@@ -1,0 +1,5 @@
+# GET_MINUTES_FROM_TIME_OF_DAY `0x7C3D1193`
+
+```cpp
+int GET_MINUTES_FROM_TIME_OF_DAY(int _Unk0);
+```

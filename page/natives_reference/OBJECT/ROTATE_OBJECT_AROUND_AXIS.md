@@ -1,0 +1,5 @@
+# ROTATE_OBJECT_AROUND_AXIS `0x3C45D66A`
+
+```cpp
+int ROTATE_OBJECT_AROUND_AXIS(int _Unk0, int _Unk1, int _Unk2);
+```

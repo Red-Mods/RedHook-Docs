@@ -1,0 +1,5 @@
+# FIRE_CREATE_HANDLE `0xBBAE9CBD`
+
+```cpp
+FireHandle FIRE_CREATE_HANDLE();
+```

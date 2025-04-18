@@ -1,0 +1,5 @@
+# NET_GAMER_SET_ACTOR_OVERRIDE `0x77D6ABF5`
+
+```cpp
+void NET_GAMER_SET_ACTOR_OVERRIDE(int _Unk0, int _Unk1);
+```

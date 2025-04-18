@@ -1,0 +1,5 @@
+# TRAIN_GET_LOD_LEVEL `0xD8E0EF01`
+
+```cpp
+int TRAIN_GET_LOD_LEVEL(int _Unk0);
+```

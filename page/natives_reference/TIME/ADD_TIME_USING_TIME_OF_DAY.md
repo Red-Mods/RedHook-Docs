@@ -1,0 +1,5 @@
+# ADD_TIME_USING_TIME_OF_DAY `0x2F7CB0E3`
+
+```cpp
+void ADD_TIME_USING_TIME_OF_DAY(int _Unk0, int _Unk1);
+```

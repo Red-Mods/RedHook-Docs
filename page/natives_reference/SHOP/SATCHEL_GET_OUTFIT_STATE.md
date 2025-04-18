@@ -1,0 +1,5 @@
+# SATCHEL_GET_OUTFIT_STATE `0x25EF49AD`
+
+```cpp
+int SATCHEL_GET_OUTFIT_STATE(int _Unk0);
+```

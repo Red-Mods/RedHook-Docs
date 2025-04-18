@@ -1,0 +1,5 @@
+# IS_OBJECT_ATTACHED `0xAD08BA79`
+
+```cpp
+int IS_OBJECT_ATTACHED(int _Unk0);
+```

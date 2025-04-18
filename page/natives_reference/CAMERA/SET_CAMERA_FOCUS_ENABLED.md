@@ -1,0 +1,5 @@
+# SET_CAMERA_FOCUS_ENABLED `0x78D29E49`
+
+```cpp
+void SET_CAMERA_FOCUS_ENABLED(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# GRINGO_SET_USABLE_BY_PLAYER `0x80317230`
+
+```cpp
+void GRINGO_SET_USABLE_BY_PLAYER(int _Unk0, int _Unk1, int _Unk2);
+```

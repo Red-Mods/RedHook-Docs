@@ -1,0 +1,5 @@
+# STOP_ALL_FIRE_IN_VOLUME `0xEC3A9EBB`
+
+```cpp
+void STOP_ALL_FIRE_IN_VOLUME();
+```

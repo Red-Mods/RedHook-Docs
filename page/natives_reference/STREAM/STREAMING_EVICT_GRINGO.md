@@ -1,0 +1,5 @@
+# STREAMING_EVICT_GRINGO `0xA02B6AAE`
+
+```cpp
+void STREAMING_EVICT_GRINGO(int _Unk0);
+```

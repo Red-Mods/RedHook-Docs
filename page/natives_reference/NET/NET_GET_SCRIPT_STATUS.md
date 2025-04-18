@@ -1,0 +1,5 @@
+# NET_GET_SCRIPT_STATUS `0x667DA125`
+
+```cpp
+int NET_GET_SCRIPT_STATUS();
+```

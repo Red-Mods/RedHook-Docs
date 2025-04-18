@@ -1,0 +1,5 @@
+# PLAY_WALLA_SOUND_FROM_ACTOR `0x4634B6BE`
+
+```cpp
+int PLAY_WALLA_SOUND_FROM_ACTOR(int _Unk0, int _Unk1, int _Unk2);
+```

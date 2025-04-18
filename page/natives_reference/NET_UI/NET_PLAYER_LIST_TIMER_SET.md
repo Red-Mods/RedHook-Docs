@@ -1,0 +1,5 @@
+# NET_PLAYER_LIST_TIMER_SET `0xBE7965C8`
+
+```cpp
+void NET_PLAYER_LIST_TIMER_SET(int _Unk0);
+```

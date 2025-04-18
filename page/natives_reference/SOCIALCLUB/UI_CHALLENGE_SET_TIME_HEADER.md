@@ -1,0 +1,5 @@
+# UI_CHALLENGE_SET_TIME_HEADER `0x761A6750`
+
+```cpp
+void UI_CHALLENGE_SET_TIME_HEADER(int _Unk0, int _Unk1);
+```

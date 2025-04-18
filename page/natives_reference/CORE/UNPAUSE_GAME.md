@@ -1,0 +1,5 @@
+# UNPAUSE_GAME `0x0BF2CD82`
+
+```cpp
+void UNPAUSE_GAME();
+```

@@ -1,0 +1,5 @@
+# GET_ACTOR_POSTURE `0xDB993A4F`
+
+```cpp
+int GET_ACTOR_POSTURE(int _Unk0);
+```

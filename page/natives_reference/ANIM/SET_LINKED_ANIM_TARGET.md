@@ -1,0 +1,5 @@
+# SET_LINKED_ANIM_TARGET `0x0A192D09`
+
+```cpp
+int SET_LINKED_ANIM_TARGET(int _Unk0, int _Unk1);
+```

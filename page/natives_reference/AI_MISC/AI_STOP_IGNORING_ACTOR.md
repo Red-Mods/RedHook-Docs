@@ -1,0 +1,5 @@
+# AI_STOP_IGNORING_ACTOR `0x98790639`
+
+```cpp
+bool AI_STOP_IGNORING_ACTOR(Actor _Actor);
+```

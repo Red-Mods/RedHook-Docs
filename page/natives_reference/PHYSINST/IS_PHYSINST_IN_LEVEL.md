@@ -1,0 +1,5 @@
+# IS_PHYSINST_IN_LEVEL `0x6243A6AF`
+
+```cpp
+int IS_PHYSINST_IN_LEVEL(int _Unk0);
+```

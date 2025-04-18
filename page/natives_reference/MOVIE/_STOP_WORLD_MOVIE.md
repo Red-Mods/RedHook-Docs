@@ -1,0 +1,5 @@
+# _STOP_WORLD_MOVIE `0x69FC319E`
+
+```cpp
+void _STOP_WORLD_MOVIE();
+```

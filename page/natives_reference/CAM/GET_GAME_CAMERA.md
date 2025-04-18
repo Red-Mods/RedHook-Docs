@@ -1,0 +1,5 @@
+# GET_GAME_CAMERA `0x6B7677BF`
+
+```cpp
+Camera GET_GAME_CAMERA();
+```

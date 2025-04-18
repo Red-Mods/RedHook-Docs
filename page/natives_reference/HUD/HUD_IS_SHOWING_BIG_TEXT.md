@@ -1,0 +1,5 @@
+# HUD_IS_SHOWING_BIG_TEXT `0x60135878`
+
+```cpp
+int HUD_IS_SHOWING_BIG_TEXT();
+```

@@ -1,0 +1,5 @@
+# GET_ART_GRINGO_LAYOUT `0x76FBF412`
+
+```cpp
+int GET_ART_GRINGO_LAYOUT();
+```

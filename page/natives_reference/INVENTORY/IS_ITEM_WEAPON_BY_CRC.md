@@ -1,0 +1,5 @@
+# IS_ITEM_WEAPON_BY_CRC `0x50C0E83F`
+
+```cpp
+int IS_ITEM_WEAPON_BY_CRC(int _Unk0);
+```

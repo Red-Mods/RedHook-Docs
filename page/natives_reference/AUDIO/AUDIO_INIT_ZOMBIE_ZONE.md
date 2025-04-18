@@ -1,0 +1,5 @@
+# AUDIO_INIT_ZOMBIE_ZONE `0x39EF8DA7`
+
+```cpp
+void AUDIO_INIT_ZOMBIE_ZONE();
+```

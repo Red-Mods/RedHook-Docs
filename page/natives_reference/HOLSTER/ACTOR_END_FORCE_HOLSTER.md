@@ -1,0 +1,5 @@
+# ACTOR_END_FORCE_HOLSTER `0x231E7034`
+
+```cpp
+int ACTOR_END_FORCE_HOLSTER(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# HORSE_LOCK_FRESHNESS `0x8754817D`
+
+```cpp
+int HORSE_LOCK_FRESHNESS(int _Unk0);
+```

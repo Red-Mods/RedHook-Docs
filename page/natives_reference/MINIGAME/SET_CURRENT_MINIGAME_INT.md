@@ -1,0 +1,5 @@
+# SET_CURRENT_MINIGAME_INT `0x0627DDEC`
+
+```cpp
+int SET_CURRENT_MINIGAME_INT(int _Unk0, int _Unk1);
+```

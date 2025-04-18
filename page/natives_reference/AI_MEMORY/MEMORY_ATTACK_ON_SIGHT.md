@@ -1,0 +1,5 @@
+# MEMORY_ATTACK_ON_SIGHT `0x5A83A1EA`
+
+```cpp
+void MEMORY_ATTACK_ON_SIGHT(int _Unk0, int _Unk1);
+```

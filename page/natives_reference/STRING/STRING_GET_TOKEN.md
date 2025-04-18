@@ -1,0 +1,5 @@
+# STRING_GET_TOKEN `0xEE2791E5`
+
+```cpp
+int STRING_GET_TOKEN(int _Unk0);
+```

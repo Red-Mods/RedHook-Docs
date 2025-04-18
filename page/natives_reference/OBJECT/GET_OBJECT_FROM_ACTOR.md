@@ -1,0 +1,5 @@
+# GET_OBJECT_FROM_ACTOR `0x4A2063EC`
+
+```cpp
+Object GET_OBJECT_FROM_ACTOR(Actor _Actor);
+```

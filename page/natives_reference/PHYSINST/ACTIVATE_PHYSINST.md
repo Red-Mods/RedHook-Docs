@@ -1,0 +1,5 @@
+# ACTIVATE_PHYSINST `0xC0961D18`
+
+```cpp
+void ACTIVATE_PHYSINST(int _Unk0);
+```

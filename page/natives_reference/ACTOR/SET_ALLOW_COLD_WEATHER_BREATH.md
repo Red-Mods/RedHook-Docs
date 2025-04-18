@@ -1,0 +1,5 @@
+# SET_ALLOW_COLD_WEATHER_BREATH `0xA4677DD2`
+
+```cpp
+void SET_ALLOW_COLD_WEATHER_BREATH(int _Unk0, int _Unk1);
+```

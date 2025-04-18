@@ -1,0 +1,5 @@
+# REMOVE_ACTION_TREE `0xBF4D0EFE`
+
+```cpp
+void REMOVE_ACTION_TREE(int _Unk0);
+```

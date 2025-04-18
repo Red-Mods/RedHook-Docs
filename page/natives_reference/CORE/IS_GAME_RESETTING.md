@@ -1,0 +1,5 @@
+# IS_GAME_RESETTING `0x3B1B6407`
+
+```cpp
+bool IS_GAME_RESETTING();
+```

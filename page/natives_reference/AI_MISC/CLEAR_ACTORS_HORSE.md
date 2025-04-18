@@ -1,0 +1,5 @@
+# CLEAR_ACTORS_HORSE `0xFEB74094`
+
+```cpp
+void CLEAR_ACTORS_HORSE(int _Unk0);
+```

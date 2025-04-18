@@ -1,0 +1,5 @@
+# ADD_PLAYER_DEADEYE_POINTS `0xE2C4AEE7`
+
+```cpp
+void ADD_PLAYER_DEADEYE_POINTS(int _Unk0, int _Unk1, int _Unk2);
+```

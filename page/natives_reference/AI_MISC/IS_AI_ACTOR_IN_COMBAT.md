@@ -1,0 +1,5 @@
+# IS_AI_ACTOR_IN_COMBAT `0x08D3CDF9`
+
+```cpp
+int IS_AI_ACTOR_IN_COMBAT(int _Unk0);
+```

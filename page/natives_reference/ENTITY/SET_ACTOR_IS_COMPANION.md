@@ -1,0 +1,5 @@
+# SET_ACTOR_IS_COMPANION `0x4C94EB9E`
+
+```cpp
+void SET_ACTOR_IS_COMPANION(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# IS_GAME_PAUSED `0x57246C02`
+
+```cpp
+bool IS_GAME_PAUSED();
+```

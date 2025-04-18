@@ -1,0 +1,5 @@
+# AI_GOAL_SHOOT_CLEAR `0xC43A9268`
+
+```cpp
+void AI_GOAL_SHOOT_CLEAR(int _Unk0);
+```

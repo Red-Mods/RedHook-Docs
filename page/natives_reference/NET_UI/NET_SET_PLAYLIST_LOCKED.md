@@ -1,0 +1,5 @@
+# NET_SET_PLAYLIST_LOCKED `0x9D9784B8`
+
+```cpp
+void NET_SET_PLAYLIST_LOCKED(int _Unk0, int _Unk1);
+```

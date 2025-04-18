@@ -1,0 +1,5 @@
+# GRINGO_GET_USE_COMPONENT_EXT `0xECD4F604`
+
+```cpp
+int GRINGO_GET_USE_COMPONENT_EXT(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# APPEND_JOURNAL_ENTRY `0x9C40CFAB`
+
+```cpp
+void APPEND_JOURNAL_ENTRY(int _Unk0, int _Unk1);
+```

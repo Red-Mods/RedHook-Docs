@@ -1,0 +1,5 @@
+# RELEASE_PERS_CHAR `0x19C3CF93`
+
+```cpp
+void RELEASE_PERS_CHAR(int _Unk0);
+```

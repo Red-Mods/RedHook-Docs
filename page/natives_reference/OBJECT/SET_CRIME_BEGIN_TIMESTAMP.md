@@ -1,0 +1,5 @@
+# SET_CRIME_BEGIN_TIMESTAMP `0x2AE7D51F`
+
+```cpp
+void SET_CRIME_BEGIN_TIMESTAMP(int _Unk0, int _Unk1);
+```

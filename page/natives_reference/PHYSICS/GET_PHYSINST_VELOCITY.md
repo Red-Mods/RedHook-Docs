@@ -1,0 +1,5 @@
+# GET_PHYSINST_VELOCITY `0x17B69196`
+
+```cpp
+int GET_PHYSINST_VELOCITY(int _Unk0, int _Unk1);
+```

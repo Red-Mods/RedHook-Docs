@@ -1,0 +1,5 @@
+# PRICK_PLAYER_FINGER `0x32F2D6F1`
+
+```cpp
+void PRICK_PLAYER_FINGER(int _Unk0);
+```

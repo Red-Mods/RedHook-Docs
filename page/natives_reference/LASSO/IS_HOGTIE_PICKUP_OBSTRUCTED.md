@@ -1,0 +1,5 @@
+# IS_HOGTIE_PICKUP_OBSTRUCTED `0x60D10483`
+
+```cpp
+int IS_HOGTIE_PICKUP_OBSTRUCTED(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# HAS_ACTION_TREE_LOADED `0xEEECD85E`
+
+```cpp
+int HAS_ACTION_TREE_LOADED(int _Unk0);
+```

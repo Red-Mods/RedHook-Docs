@@ -1,0 +1,5 @@
+# _RMPTFX_EFFECT_STOP `0xE18028C1`
+
+```cpp
+int _RMPTFX_EFFECT_STOP(int _Unk0);
+```

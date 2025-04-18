@@ -1,0 +1,5 @@
+# TEXTUREFX_ENABLED `0xF55B50ED`
+
+```cpp
+void TEXTUREFX_ENABLED(int _Unk0);
+```

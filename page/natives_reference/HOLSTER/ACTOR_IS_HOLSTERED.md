@@ -1,0 +1,5 @@
+# ACTOR_IS_HOLSTERED `0x6426CCD6`
+
+```cpp
+int ACTOR_IS_HOLSTERED(int _Unk0);
+```

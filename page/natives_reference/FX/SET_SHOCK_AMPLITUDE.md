@@ -1,0 +1,5 @@
+# SET_SHOCK_AMPLITUDE `0xC9FCD3EC`
+
+```cpp
+void SET_SHOCK_AMPLITUDE(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# SET_IS_MISSION_SCRIPT `0x15040CD2`
+
+```cpp
+void SET_IS_MISSION_SCRIPT(int _Unk0);
+```

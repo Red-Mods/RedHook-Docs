@@ -1,0 +1,5 @@
+# GET_ACTORSET_SIZE `0xA24F4799`
+
+```cpp
+int GET_ACTORSET_SIZE(int _Unk0);
+```

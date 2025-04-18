@@ -1,0 +1,5 @@
+# IS_ACTOR_LOCAL_PLAYER `0x6542CF26`
+
+```cpp
+bool IS_ACTOR_LOCAL_PLAYER(int actor);
+```

@@ -1,0 +1,5 @@
+# NET_IS_SESSION_CLIENT `0xFF65A07C`
+
+```cpp
+int NET_IS_SESSION_CLIENT();
+```

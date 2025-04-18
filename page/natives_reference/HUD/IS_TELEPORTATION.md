@@ -1,0 +1,5 @@
+# IS_TELEPORTATION `0x3E758743`
+
+```cpp
+int IS_TELEPORTATION(int _Unk0);
+```

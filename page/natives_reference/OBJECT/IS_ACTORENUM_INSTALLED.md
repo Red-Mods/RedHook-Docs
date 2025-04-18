@@ -1,0 +1,5 @@
+# IS_ACTORENUM_INSTALLED `0x9B903F45`
+
+```cpp
+int IS_ACTORENUM_INSTALLED(int _Unk0);
+```

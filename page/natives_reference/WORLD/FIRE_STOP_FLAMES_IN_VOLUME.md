@@ -1,0 +1,5 @@
+# FIRE_STOP_FLAMES_IN_VOLUME `0x11A65FFB`
+
+```cpp
+void FIRE_STOP_FLAMES_IN_VOLUME(int _Unk0);
+```

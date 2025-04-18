@@ -1,0 +1,5 @@
+# GET_TASK_NEXT_POINT_ON_PATH `0xF726557C`
+
+```cpp
+int GET_TASK_NEXT_POINT_ON_PATH(int _Unk0, int _Unk1);
+```

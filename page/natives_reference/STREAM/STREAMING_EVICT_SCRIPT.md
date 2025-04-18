@@ -1,0 +1,5 @@
+# STREAMING_EVICT_SCRIPT `0x570163E2`
+
+```cpp
+void STREAMING_EVICT_SCRIPT(int _Unk0);
+```

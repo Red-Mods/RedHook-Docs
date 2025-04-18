@@ -1,0 +1,5 @@
+# IS_ACTOR_IN_ACCURACY_RANGE `0x7E124E62`
+
+```cpp
+bool IS_ACTOR_IN_ACCURACY_RANGE(Actor _Actor);
+```

@@ -1,0 +1,5 @@
+# GRINGO_IS_COMPONENT_OF_TYPE `0x284DD17C`
+
+```cpp
+int GRINGO_IS_COMPONENT_OF_TYPE(int _Unk0, int _Unk1);
+```

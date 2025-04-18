@@ -1,0 +1,5 @@
+# IS_PHYSINST_FROZEN `0x789AA2B2`
+
+```cpp
+bool IS_PHYSINST_FROZEN(int _Unk0);
+```

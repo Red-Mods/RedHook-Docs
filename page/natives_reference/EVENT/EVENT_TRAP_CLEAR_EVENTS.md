@@ -1,0 +1,5 @@
+# EVENT_TRAP_CLEAR_EVENTS `0xDE9AA6E5`
+
+```cpp
+void EVENT_TRAP_CLEAR_EVENTS(int _Unk0);
+```

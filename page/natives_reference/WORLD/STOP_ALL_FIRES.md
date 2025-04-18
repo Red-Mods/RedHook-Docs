@@ -1,0 +1,5 @@
+# STOP_ALL_FIRES `0x9544570A`
+
+```cpp
+void STOP_ALL_FIRES();
+```

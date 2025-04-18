@@ -1,0 +1,5 @@
+# GET_TARGET_ACTOR `0x0EF7427B`
+
+```cpp
+Actor GET_TARGET_ACTOR();
+```

@@ -1,0 +1,5 @@
+# FLASH_INTRO_SHUTDOWN `0x18346D88`
+
+```cpp
+void FLASH_INTRO_SHUTDOWN();
+```

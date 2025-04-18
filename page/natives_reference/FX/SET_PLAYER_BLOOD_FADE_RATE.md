@@ -1,0 +1,5 @@
+# SET_PLAYER_BLOOD_FADE_RATE `0x9D9E093E`
+
+```cpp
+void SET_PLAYER_BLOOD_FADE_RATE(int _Unk0);
+```

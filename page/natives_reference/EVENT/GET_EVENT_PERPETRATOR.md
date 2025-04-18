@@ -1,0 +1,5 @@
+# GET_EVENT_PERPETRATOR `0x0B5431C9`
+
+```cpp
+int GET_EVENT_PERPETRATOR(int _Unk0);
+```

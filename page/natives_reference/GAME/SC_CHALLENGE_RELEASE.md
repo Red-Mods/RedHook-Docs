@@ -1,0 +1,5 @@
+# SC_CHALLENGE_RELEASE `0xD2513200`
+
+```cpp
+void SC_CHALLENGE_RELEASE(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# RESET_PROPS_IN_WORLD `0xB3E331AC`
+
+```cpp
+void RESET_PROPS_IN_WORLD();
+```

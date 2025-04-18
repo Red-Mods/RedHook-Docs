@@ -1,0 +1,5 @@
+# SET_HORSE_BREAK_INTRO `0x854ACCFE`
+
+```cpp
+int SET_HORSE_BREAK_INTRO(int _Unk0);
+```

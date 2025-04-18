@@ -1,0 +1,5 @@
+# SET_ZONE_RESERVE_GRINGOS `0xC43C4D76`
+
+```cpp
+void SET_ZONE_RESERVE_GRINGOS(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# SET_CUTSCENEOBJECT_PAUSED `0x18643DC2`
+
+```cpp
+void SET_CUTSCENEOBJECT_PAUSED(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# SPEECH_CONTEXT_INIT_DATA `0xD85BAFA8`
+
+```cpp
+void SPEECH_CONTEXT_INIT_DATA(int _Unk0);
+```

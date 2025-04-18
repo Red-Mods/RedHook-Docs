@@ -1,0 +1,5 @@
+# FLASH_INTRO_FADE_LOGO `0xBB2EABF9`
+
+```cpp
+void FLASH_INTRO_FADE_LOGO(int _Unk0);
+```

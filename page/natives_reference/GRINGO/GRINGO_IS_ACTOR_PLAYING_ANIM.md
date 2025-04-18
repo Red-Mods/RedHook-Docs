@@ -1,0 +1,5 @@
+# GRINGO_IS_ACTOR_PLAYING_ANIM `0x35279C3F`
+
+```cpp
+int GRINGO_IS_ACTOR_PLAYING_ANIM(int _Unk0, int _Unk1);
+```

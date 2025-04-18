@@ -1,0 +1,5 @@
+# IS_ACTOR_HOGTIE_ATTACHED `0x16EB367C`
+
+```cpp
+int IS_ACTOR_HOGTIE_ATTACHED(int _Unk0);
+```

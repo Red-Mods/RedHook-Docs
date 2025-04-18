@@ -1,0 +1,5 @@
+# NET_SCRIPTMSG_QUERY_HANDLER `0x4957E482`
+
+```cpp
+int NET_SCRIPTMSG_QUERY_HANDLER(int _Unk0, int _Unk1);
+```

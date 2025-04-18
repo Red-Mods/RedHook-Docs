@@ -1,0 +1,5 @@
+# SET_ZONE_POPULATION_COUNT_RANDOM `0xE339719A`
+
+```cpp
+void SET_ZONE_POPULATION_COUNT_RANDOM(int _Unk0, int _Unk1, int _Unk2);
+```

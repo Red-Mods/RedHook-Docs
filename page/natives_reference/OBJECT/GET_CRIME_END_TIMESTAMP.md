@@ -1,0 +1,5 @@
+# GET_CRIME_END_TIMESTAMP `0xD96DBABD`
+
+```cpp
+int GET_CRIME_END_TIMESTAMP(int _Unk0);
+```

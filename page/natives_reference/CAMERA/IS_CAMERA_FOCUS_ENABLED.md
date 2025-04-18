@@ -1,0 +1,5 @@
+# IS_CAMERA_FOCUS_ENABLED `0x80D63DAC`
+
+```cpp
+int IS_CAMERA_FOCUS_ENABLED(int _Unk0);
+```

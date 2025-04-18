@@ -1,0 +1,5 @@
+# IS_ACTOR_ON_LADDER `0xE975BE40`
+
+```cpp
+int IS_ACTOR_ON_LADDER(int _Unk0);
+```

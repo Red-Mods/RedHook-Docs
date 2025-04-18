@@ -1,0 +1,5 @@
+# SET_HUD_MAP_SCALE_DRIVE `0x364450B1`
+
+```cpp
+void SET_HUD_MAP_SCALE_DRIVE(int _Unk0);
+```

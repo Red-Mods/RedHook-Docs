@@ -1,0 +1,5 @@
+# AUDIO_INIT_MEXICAN_ARMY_AE_RANGE `0xD68E04BB`
+
+```cpp
+void AUDIO_INIT_MEXICAN_ARMY_AE_RANGE(int _Unk0, int _Unk1);
+```

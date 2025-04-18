@@ -1,0 +1,5 @@
+# NET_OBJECT_GET_SCRIPT_INT `0xCA6231C1`
+
+```cpp
+int NET_OBJECT_GET_SCRIPT_INT(int _Unk0);
+```

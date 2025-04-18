@@ -1,0 +1,5 @@
+# SET_CAMERASHOT_ASPECT_RATIO `0x3DEB0933`
+
+```cpp
+void SET_CAMERASHOT_ASPECT_RATIO(int _Unk0, int _Unk1);
+```

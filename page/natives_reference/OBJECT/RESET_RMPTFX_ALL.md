@@ -1,0 +1,5 @@
+# RESET_RMPTFX_ALL `0x0AFC0B99`
+
+```cpp
+int RESET_RMPTFX_ALL();
+```

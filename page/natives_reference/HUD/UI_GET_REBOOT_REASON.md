@@ -1,0 +1,5 @@
+# UI_GET_REBOOT_REASON `0x111554E2`
+
+```cpp
+int UI_GET_REBOOT_REASON(int _Unk0);
+```

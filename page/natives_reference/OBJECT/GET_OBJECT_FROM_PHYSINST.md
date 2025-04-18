@@ -1,0 +1,5 @@
+# GET_OBJECT_FROM_PHYSINST `0x0550E178`
+
+```cpp
+int GET_OBJECT_FROM_PHYSINST(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# NET_OBJECT_SET_SCRIPT_INT `0x1C147E14`
+
+```cpp
+void NET_OBJECT_SET_SCRIPT_INT(int _Unk0, int _Unk1);
+```

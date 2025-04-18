@@ -1,0 +1,5 @@
+# INIT_CAMERA_FROM_CHANNEL `0x41EA7325`
+
+```cpp
+void INIT_CAMERA_FROM_CHANNEL(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# UI_CHALLENGE_SET_OBJECTIVE_STYLE `0x4A598723`
+
+```cpp
+void UI_CHALLENGE_SET_OBJECTIVE_STYLE(int _Unk0, int _Unk1, int _Unk2);
+```

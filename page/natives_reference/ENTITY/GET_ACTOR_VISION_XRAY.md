@@ -1,0 +1,5 @@
+# GET_ACTOR_VISION_XRAY `0xBFABD82E`
+
+```cpp
+int GET_ACTOR_VISION_XRAY(int _Unk0);
+```

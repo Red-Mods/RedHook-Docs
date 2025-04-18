@@ -1,0 +1,5 @@
+# DESTROY_POINT_LIGHT `0x6BC96263`
+
+```cpp
+void DESTROY_POINT_LIGHT(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# SET_ACTOR_CAN_BE_BUMPTARGETED `0x57055A7D`
+
+```cpp
+void SET_ACTOR_CAN_BE_BUMPTARGETED(int _Unk0, int _Unk1);
+```

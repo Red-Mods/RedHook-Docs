@@ -1,0 +1,5 @@
+# CAMERASHOT_ADD_ARC_BEHAVIOR `0xA1C665E0`
+
+```cpp
+void CAMERASHOT_ADD_ARC_BEHAVIOR(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# AI_CLEAR_BURST_DURATION `0x01FD4402`
+
+```cpp
+void AI_CLEAR_BURST_DURATION(int _Unk0);
+```

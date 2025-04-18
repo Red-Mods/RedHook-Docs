@@ -1,0 +1,5 @@
+# CAN_ANYONE_OF_FACTION_SEE_OBJECT `0x656D3D26`
+
+```cpp
+bool CAN_ANYONE_OF_FACTION_SEE_OBJECT(int _Unk0, int _Unk1);
+```

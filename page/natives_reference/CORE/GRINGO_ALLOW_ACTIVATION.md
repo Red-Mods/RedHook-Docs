@@ -1,0 +1,5 @@
+# GRINGO_ALLOW_ACTIVATION `0x5E586923`
+
+```cpp
+void GRINGO_ALLOW_ACTIVATION(int _Unk0, int _Unk1);
+```

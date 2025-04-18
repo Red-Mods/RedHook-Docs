@@ -1,0 +1,5 @@
+# SET_PROP_TARGETABLE_AS_ENEMY `0x5895EBBE`
+
+```cpp
+void SET_PROP_TARGETABLE_AS_ENEMY(int _Unk0, int _Unk1);
+```

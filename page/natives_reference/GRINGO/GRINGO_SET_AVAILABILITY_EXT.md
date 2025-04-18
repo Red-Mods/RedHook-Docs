@@ -1,0 +1,5 @@
+# GRINGO_SET_AVAILABILITY_EXT `0xB78BC233`
+
+```cpp
+int GRINGO_SET_AVAILABILITY_EXT(int _Unk0, int _Unk1, int _Unk2);
+```

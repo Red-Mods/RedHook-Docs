@@ -1,0 +1,5 @@
+# IS_DISK_CACHE_PRIMED `0x4BA92498`
+
+```cpp
+bool IS_DISK_CACHE_PRIMED();
+```

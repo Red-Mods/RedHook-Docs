@@ -1,0 +1,5 @@
+# NET_START_LB_UPDATE `0x4D0C8AA4`
+
+```cpp
+void NET_START_LB_UPDATE(int _Unk0);
+```

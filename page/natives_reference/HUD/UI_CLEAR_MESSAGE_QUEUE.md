@@ -1,0 +1,5 @@
+# UI_CLEAR_MESSAGE_QUEUE `0x64DDB95D`
+
+```cpp
+void UI_CLEAR_MESSAGE_QUEUE(int _Unk0);
+```

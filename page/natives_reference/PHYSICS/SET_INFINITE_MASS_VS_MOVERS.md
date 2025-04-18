@@ -1,0 +1,5 @@
+# SET_INFINITE_MASS_VS_MOVERS `0xFD759593`
+
+```cpp
+void SET_INFINITE_MASS_VS_MOVERS(int _Unk0, int _Unk1);
+```

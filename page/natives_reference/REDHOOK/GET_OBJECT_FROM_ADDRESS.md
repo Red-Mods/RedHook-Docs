@@ -1,0 +1,5 @@
+# GET_OBJECT_FROM_ADDRESS `0xFB05516E`
+
+```cpp
+Object GET_OBJECT_FROM_ADDRESS(uintptr_t _Addr);
+```

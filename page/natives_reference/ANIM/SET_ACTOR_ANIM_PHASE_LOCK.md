@@ -1,0 +1,5 @@
+# SET_ACTOR_ANIM_PHASE_LOCK `0xB03616C2`
+
+```cpp
+void SET_ACTOR_ANIM_PHASE_LOCK(int _Unk0, int _Unk1);
+```

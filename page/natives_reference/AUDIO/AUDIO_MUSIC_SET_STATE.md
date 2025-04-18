@@ -1,0 +1,5 @@
+# AUDIO_MUSIC_SET_STATE `0x789C753C`
+
+```cpp
+void AUDIO_MUSIC_SET_STATE(int _Unk0);
+```

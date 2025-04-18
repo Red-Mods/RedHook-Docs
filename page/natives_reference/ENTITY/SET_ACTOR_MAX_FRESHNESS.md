@@ -1,0 +1,5 @@
+# SET_ACTOR_MAX_FRESHNESS `0xBADB24FB`
+
+```cpp
+int SET_ACTOR_MAX_FRESHNESS(int _Unk0, int _Unk1);
+```

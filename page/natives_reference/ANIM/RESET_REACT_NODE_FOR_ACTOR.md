@@ -1,0 +1,5 @@
+# RESET_REACT_NODE_FOR_ACTOR `0x7B17C5C3`
+
+```cpp
+void RESET_REACT_NODE_FOR_ACTOR(int _Unk0);
+```

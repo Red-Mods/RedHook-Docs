@@ -1,0 +1,5 @@
+# SET_WEAPON_SELECTION_ENABLED `0x2E84E682`
+
+```cpp
+void SET_WEAPON_SELECTION_ENABLED(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# SET_ACTOR_HARD_LOCK_AQUIRE_BONE_CASUAL `0x12A86E9D`
+
+```cpp
+void SET_ACTOR_HARD_LOCK_AQUIRE_BONE_CASUAL(Actor _Actor, const char* _BoneName);
+```

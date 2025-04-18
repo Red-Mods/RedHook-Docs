@@ -1,0 +1,5 @@
+# GET_NAV_QUERY_FROM_OBJECT `0x50A7E334`
+
+```cpp
+int GET_NAV_QUERY_FROM_OBJECT(int _Unk0);
+```

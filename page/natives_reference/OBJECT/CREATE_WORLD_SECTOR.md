@@ -1,0 +1,5 @@
+# CREATE_WORLD_SECTOR `0xC94CC336`
+
+```cpp
+int CREATE_WORLD_SECTOR(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# NET_ACTOR_GET_SCRIPT_INT `0x579C2014`
+
+```cpp
+int NET_ACTOR_GET_SCRIPT_INT(int _Unk0);
+```

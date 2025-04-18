@@ -1,0 +1,5 @@
+# CUTSCENEOBJECT_ADD_TRANSITION_EASE_OUT `0x1AD38A53`
+
+```cpp
+int CUTSCENEOBJECT_ADD_TRANSITION_EASE_OUT(int _Unk0, int _Unk1, int _Unk2, int _Unk3, int _Unk4, int _Unk5);
+```

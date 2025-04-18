@@ -1,0 +1,5 @@
+# AI_PREDICATE_OVERRIDE_CLEAR `0x1A137442`
+
+```cpp
+void AI_PREDICATE_OVERRIDE_CLEAR(int _Unk0, int _Unk1);
+```

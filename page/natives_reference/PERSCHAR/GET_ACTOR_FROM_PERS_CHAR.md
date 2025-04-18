@@ -1,0 +1,5 @@
+# GET_ACTOR_FROM_PERS_CHAR `0xE04ED21E`
+
+```cpp
+int GET_ACTOR_FROM_PERS_CHAR(int _Unk0);
+```

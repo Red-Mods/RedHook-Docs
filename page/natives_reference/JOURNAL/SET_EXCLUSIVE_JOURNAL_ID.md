@@ -1,0 +1,5 @@
+# SET_EXCLUSIVE_JOURNAL_ID `0x6398AF9A`
+
+```cpp
+void SET_EXCLUSIVE_JOURNAL_ID(int _Unk0);
+```

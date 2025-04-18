@@ -1,0 +1,5 @@
+# IS_LAUNCH_RETAIL `0x7CE2C2E1`
+
+```cpp
+bool IS_LAUNCH_RETAIL();
+```

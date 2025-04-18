@@ -1,0 +1,5 @@
+# SET_CAMERASHOT_PERSPECTIVE `0xD8D27321`
+
+```cpp
+void SET_CAMERASHOT_PERSPECTIVE(int _Unk0, int _Unk1);
+```

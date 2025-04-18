@@ -1,0 +1,5 @@
+# UI_HAS_CHEATED `0xBAB151CB`
+
+```cpp
+bool UI_HAS_CHEATED();
+```

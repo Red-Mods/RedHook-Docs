@@ -1,0 +1,5 @@
+# AI_RESET_FIRING_FSM `0x46F51754`
+
+```cpp
+void AI_RESET_FIRING_FSM(int _Unk0);
+```

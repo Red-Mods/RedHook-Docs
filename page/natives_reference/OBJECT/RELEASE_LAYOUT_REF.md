@@ -1,0 +1,5 @@
+# RELEASE_LAYOUT_REF `0xD9AC8830`
+
+```cpp
+void RELEASE_LAYOUT_REF(int _Unk0);
+```

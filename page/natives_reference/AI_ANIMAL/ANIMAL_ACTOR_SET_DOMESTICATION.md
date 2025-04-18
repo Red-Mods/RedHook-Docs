@@ -1,0 +1,5 @@
+# ANIMAL_ACTOR_SET_DOMESTICATION `0x58C36502`
+
+```cpp
+void ANIMAL_ACTOR_SET_DOMESTICATION(Actor _Actor, bool _Domestication);
+```

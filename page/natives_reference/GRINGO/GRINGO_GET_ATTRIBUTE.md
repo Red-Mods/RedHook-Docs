@@ -1,0 +1,5 @@
+# GRINGO_GET_ATTRIBUTE `0x19411B1F`
+
+```cpp
+int GRINGO_GET_ATTRIBUTE(int _Unk0, int _Unk1);
+```

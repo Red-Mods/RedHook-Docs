@@ -1,0 +1,5 @@
+# ITERATE_ON_PARTIAL_NAME `0x9624A938`
+
+```cpp
+void ITERATE_ON_PARTIAL_NAME(int _Unk0, int _Unk1);
+```

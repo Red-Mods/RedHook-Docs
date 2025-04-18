@@ -1,0 +1,5 @@
+# SET_PLAYER_CONTROL_CONFIG `0x01B84BCA`
+
+```cpp
+void SET_PLAYER_CONTROL_CONFIG(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# GET_JOURNAL_ENTRY_TYPE `0xF6FEC269`
+
+```cpp
+int GET_JOURNAL_ENTRY_TYPE(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# SET_VEHICLE_EJECTION_ENABLED `0x0ABD83C0`
+
+```cpp
+void SET_VEHICLE_EJECTION_ENABLED(Vehicle _Vehicle, bool _Enabled);
+```

@@ -1,0 +1,5 @@
+# IS_ACTOR_DRIVING_VEHICLE `0xDC99C124`
+
+```cpp
+bool IS_ACTOR_DRIVING_VEHICLE(Actor _Actor);
+```

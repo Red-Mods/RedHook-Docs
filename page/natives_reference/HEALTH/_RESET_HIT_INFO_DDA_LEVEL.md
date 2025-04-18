@@ -1,0 +1,5 @@
+# _RESET_HIT_INFO_DDA_LEVEL `0x1082715D`
+
+```cpp
+void _RESET_HIT_INFO_DDA_LEVEL();
+```

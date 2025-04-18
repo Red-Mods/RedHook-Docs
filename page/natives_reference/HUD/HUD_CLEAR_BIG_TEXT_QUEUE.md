@@ -1,0 +1,5 @@
+# HUD_CLEAR_BIG_TEXT_QUEUE `0x777A1CA2`
+
+```cpp
+void HUD_CLEAR_BIG_TEXT_QUEUE();
+```

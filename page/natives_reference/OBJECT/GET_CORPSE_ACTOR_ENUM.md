@@ -1,0 +1,5 @@
+# GET_CORPSE_ACTOR_ENUM `0x1FCC8FEF`
+
+```cpp
+int GET_CORPSE_ACTOR_ENUM(int _Unk0);
+```

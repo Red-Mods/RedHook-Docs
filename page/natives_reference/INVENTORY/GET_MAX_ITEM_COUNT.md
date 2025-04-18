@@ -1,0 +1,5 @@
+# GET_MAX_ITEM_COUNT `0xF52BA99F`
+
+```cpp
+int GET_MAX_ITEM_COUNT(int _Unk0);
+```

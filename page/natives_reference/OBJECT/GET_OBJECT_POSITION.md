@@ -1,0 +1,5 @@
+# GET_OBJECT_POSITION `0x31201B4C`
+
+```cpp
+Vector3 GET_OBJECT_POSITION(Object _Object);
+```

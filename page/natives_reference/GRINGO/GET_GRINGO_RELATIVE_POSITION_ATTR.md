@@ -1,0 +1,5 @@
+# GET_GRINGO_RELATIVE_POSITION_ATTR `0x1F74EE6C`
+
+```cpp
+int GET_GRINGO_RELATIVE_POSITION_ATTR(int _Unk0, int _Unk1, int _Unk2);
+```

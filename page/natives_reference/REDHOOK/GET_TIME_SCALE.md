@@ -1,0 +1,5 @@
+# GET_TIME_SCALE `0x8CFD581F`
+
+```cpp
+float GET_TIME_SCALE();
+```

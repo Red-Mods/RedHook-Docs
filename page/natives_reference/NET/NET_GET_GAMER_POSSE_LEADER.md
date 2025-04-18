@@ -1,0 +1,5 @@
+# NET_GET_GAMER_POSSE_LEADER `0xFC52BD15`
+
+```cpp
+int NET_GET_GAMER_POSSE_LEADER(int _Unk0);
+```

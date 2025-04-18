@@ -1,0 +1,5 @@
+# GET_CRIME_FROM_OBJECT `0xB578DB52`
+
+```cpp
+int GET_CRIME_FROM_OBJECT(int _Unk0);
+```

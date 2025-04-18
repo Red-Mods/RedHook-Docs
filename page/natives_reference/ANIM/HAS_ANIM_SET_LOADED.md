@@ -1,0 +1,5 @@
+# HAS_ANIM_SET_LOADED `0x4FFF397D`
+
+```cpp
+int HAS_ANIM_SET_LOADED(int _Unk0);
+```

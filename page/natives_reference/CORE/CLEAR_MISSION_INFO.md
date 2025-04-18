@@ -1,0 +1,5 @@
+# CLEAR_MISSION_INFO `0x02092A6E`
+
+```cpp
+void CLEAR_MISSION_INFO();
+```

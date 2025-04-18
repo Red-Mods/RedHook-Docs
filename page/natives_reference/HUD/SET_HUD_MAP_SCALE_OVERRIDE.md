@@ -1,0 +1,5 @@
+# SET_HUD_MAP_SCALE_OVERRIDE `0xB4614D11`
+
+```cpp
+void SET_HUD_MAP_SCALE_OVERRIDE(int _Unk0, int _Unk1);
+```

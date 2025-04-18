@@ -1,0 +1,5 @@
+# SET_ACTOR_MOVABLE_NAV_MESH `0xECEE9E20`
+
+```cpp
+void SET_ACTOR_MOVABLE_NAV_MESH(int _Unk0);
+```

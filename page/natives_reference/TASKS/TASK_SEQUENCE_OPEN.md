@@ -1,0 +1,5 @@
+# TASK_SEQUENCE_OPEN `0x8DA34524`
+
+```cpp
+int TASK_SEQUENCE_OPEN();
+```

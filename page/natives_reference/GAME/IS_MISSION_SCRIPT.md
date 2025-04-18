@@ -1,0 +1,5 @@
+# IS_MISSION_SCRIPT `0x5A9D0738`
+
+```cpp
+int IS_MISSION_SCRIPT();
+```

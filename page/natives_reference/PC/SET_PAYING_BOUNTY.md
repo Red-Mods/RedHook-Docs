@@ -1,0 +1,5 @@
+# SET_PAYING_BOUNTY `0xB0E60B63`
+
+```cpp
+int SET_PAYING_BOUNTY(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# SET_ACCESSORYSET_ON_SPAWN `0xC79F2BD3`
+
+```cpp
+void SET_ACCESSORYSET_ON_SPAWN(int _Unk0, int _Unk1, int _Unk2);
+```

@@ -1,0 +1,5 @@
+# CREATE_SQUAD_IN_LAYOUT `0xF7277A0F`
+
+```cpp
+int CREATE_SQUAD_IN_LAYOUT(int _Unk0, int _Unk1);
+```

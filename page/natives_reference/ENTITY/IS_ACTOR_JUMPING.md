@@ -1,0 +1,5 @@
+# IS_ACTOR_JUMPING `0xDFF96719`
+
+```cpp
+int IS_ACTOR_JUMPING(int _Unk0);
+```

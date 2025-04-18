@@ -1,0 +1,5 @@
+# GET_LAST_ATTACKER `0x2C0F211D`
+
+```cpp
+Actor GET_LAST_ATTACKER(Actor _Actor);
+```

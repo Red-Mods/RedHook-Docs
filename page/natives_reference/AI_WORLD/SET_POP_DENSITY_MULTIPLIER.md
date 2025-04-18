@@ -1,0 +1,5 @@
+# SET_POP_DENSITY_MULTIPLIER `0xE9C41DFE`
+
+```cpp
+void SET_POP_DENSITY_MULTIPLIER(float _Multiplier);
+```

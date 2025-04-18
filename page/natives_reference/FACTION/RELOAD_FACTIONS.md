@@ -1,0 +1,5 @@
+# RELOAD_FACTIONS `0x40ABFD17`
+
+```cpp
+void RELOAD_FACTIONS(int _Unk0);
+```

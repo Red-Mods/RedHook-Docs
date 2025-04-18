@@ -1,0 +1,5 @@
+# SHOP_SET_ITEM_QUANTITY `0x777CF9FA`
+
+```cpp
+void SHOP_SET_ITEM_QUANTITY(int _Unk0, int _Unk1);
+```

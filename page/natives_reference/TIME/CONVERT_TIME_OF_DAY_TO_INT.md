@@ -1,0 +1,5 @@
+# CONVERT_TIME_OF_DAY_TO_INT `0x57FC0E16`
+
+```cpp
+int CONVERT_TIME_OF_DAY_TO_INT(int _Unk0);
+```

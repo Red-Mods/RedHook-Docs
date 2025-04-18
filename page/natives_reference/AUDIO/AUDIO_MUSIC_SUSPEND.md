@@ -1,0 +1,5 @@
+# AUDIO_MUSIC_SUSPEND `0x56E3D235`
+
+```cpp
+void AUDIO_MUSIC_SUSPEND(int _Unk0);
+```

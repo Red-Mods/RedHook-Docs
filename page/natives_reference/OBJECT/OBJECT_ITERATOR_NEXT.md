@@ -1,0 +1,5 @@
+# OBJECT_ITERATOR_NEXT `0xD88DC865`
+
+```cpp
+int OBJECT_ITERATOR_NEXT(int _Unk0);
+```

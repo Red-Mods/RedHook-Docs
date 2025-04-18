@@ -1,0 +1,5 @@
+# SHOP_SET_PLAYER_BANK `0xB75FAD6A`
+
+```cpp
+void SHOP_SET_PLAYER_BANK(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# GATEWAY_UPDATE `0x96BD89B6`
+
+```cpp
+int GATEWAY_UPDATE(int _Unk0);
+```

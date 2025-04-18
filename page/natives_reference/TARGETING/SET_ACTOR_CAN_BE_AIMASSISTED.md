@@ -1,0 +1,5 @@
+# SET_ACTOR_CAN_BE_AIMASSISTED `0xAC8D3A0C`
+
+```cpp
+void SET_ACTOR_CAN_BE_AIMASSISTED(int _Unk0, int _Unk1);
+```

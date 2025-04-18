@@ -1,0 +1,5 @@
+# GET_LOCAL_PLAYER_NAME `0xA183D927`
+
+```cpp
+const char* GET_LOCAL_PLAYER_NAME();
+```

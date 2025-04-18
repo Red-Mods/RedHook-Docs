@@ -1,0 +1,5 @@
+# HAS_PROP_BEEN_DAMAGED `0x7151E7F0`
+
+```cpp
+int HAS_PROP_BEEN_DAMAGED(int _Unk0);
+```

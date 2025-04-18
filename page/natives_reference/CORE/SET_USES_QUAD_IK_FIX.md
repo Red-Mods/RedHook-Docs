@@ -1,0 +1,5 @@
+# SET_USES_QUAD_IK_FIX `0x2A04518E`
+
+```cpp
+int SET_USES_QUAD_IK_FIX(int _Unk0);
+```

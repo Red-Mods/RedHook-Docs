@@ -1,0 +1,5 @@
+# SET_ZONE_SPAWN_ONLY_AT_GRINGOS `0xD72DF5C6`
+
+```cpp
+void SET_ZONE_SPAWN_ONLY_AT_GRINGOS(int _Unk0, int _Unk1);
+```

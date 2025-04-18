@@ -1,0 +1,5 @@
+# NET_REQUEST_OBJECT `0x68EC589D`
+
+```cpp
+int NET_REQUEST_OBJECT(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# SC_CHALLENGE_CLEAN_UP `0xB7DE2AF2`
+
+```cpp
+void SC_CHALLENGE_CLEAN_UP(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# IS_PERS_CHAR_VALID `0x36CC24A4`
+
+```cpp
+int IS_PERS_CHAR_VALID(int _Unk0);
+```

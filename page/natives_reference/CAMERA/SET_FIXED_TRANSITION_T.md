@@ -1,0 +1,5 @@
+# SET_FIXED_TRANSITION_T `0x143A617C`
+
+```cpp
+void SET_FIXED_TRANSITION_T(int _Unk0, int _Unk1);
+```

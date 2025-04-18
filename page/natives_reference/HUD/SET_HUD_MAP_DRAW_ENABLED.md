@@ -1,0 +1,5 @@
+# SET_HUD_MAP_DRAW_ENABLED `0xA094152A`
+
+```cpp
+void SET_HUD_MAP_DRAW_ENABLED(int _Unk0);
+```

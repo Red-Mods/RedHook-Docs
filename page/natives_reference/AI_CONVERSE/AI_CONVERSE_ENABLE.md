@@ -1,0 +1,5 @@
+# AI_CONVERSE_ENABLE `0x43F59172`
+
+```cpp
+void AI_CONVERSE_ENABLE(int _Unk0);
+```

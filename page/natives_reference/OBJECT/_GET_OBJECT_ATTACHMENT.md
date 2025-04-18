@@ -1,0 +1,5 @@
+# _GET_OBJECT_ATTACHMENT `0x78B73E47`
+
+```cpp
+int _GET_OBJECT_ATTACHMENT(int _Unk0);
+```

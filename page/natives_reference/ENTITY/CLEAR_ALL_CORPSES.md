@@ -1,0 +1,5 @@
+# CLEAR_ALL_CORPSES `0x9028B082`
+
+```cpp
+void CLEAR_ALL_CORPSES();
+```

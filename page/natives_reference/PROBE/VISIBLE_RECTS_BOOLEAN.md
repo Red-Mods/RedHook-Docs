@@ -1,0 +1,5 @@
+# VISIBLE_RECTS_BOOLEAN `0x1D7845B7`
+
+```cpp
+void VISIBLE_RECTS_BOOLEAN(int _Unk0);
+```

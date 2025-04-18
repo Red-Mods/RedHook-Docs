@@ -1,0 +1,5 @@
+# GATEWAY_IS_DISABLED `0xB9F2F8BB`
+
+```cpp
+int GATEWAY_IS_DISABLED(int _Unk0);
+```

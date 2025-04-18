@@ -1,0 +1,5 @@
+# GRINGO_REPORT_USE_FINISHED `0x5C11B011`
+
+```cpp
+int GRINGO_REPORT_USE_FINISHED(int _Unk0, int _Unk1);
+```

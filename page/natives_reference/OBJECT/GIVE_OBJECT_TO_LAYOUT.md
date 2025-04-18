@@ -1,0 +1,5 @@
+# GIVE_OBJECT_TO_LAYOUT `0x2D160228`
+
+```cpp
+int GIVE_OBJECT_TO_LAYOUT(int _Unk0, int _Unk1);
+```

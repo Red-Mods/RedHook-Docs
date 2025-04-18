@@ -1,0 +1,5 @@
+# CLEAR_STAT_MESSAGE `0x906E0138`
+
+```cpp
+void CLEAR_STAT_MESSAGE();
+```

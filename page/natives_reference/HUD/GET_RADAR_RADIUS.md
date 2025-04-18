@@ -1,0 +1,5 @@
+# GET_RADAR_RADIUS `0x6B33CBCC`
+
+```cpp
+float GET_RADAR_RADIUS();
+```

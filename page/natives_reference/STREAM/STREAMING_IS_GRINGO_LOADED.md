@@ -1,0 +1,5 @@
+# STREAMING_IS_GRINGO_LOADED `0xA6C9DCEA`
+
+```cpp
+bool STREAMING_IS_GRINGO_LOADED(int _AssetId);
+```

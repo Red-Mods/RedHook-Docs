@@ -1,0 +1,5 @@
+# CREATE_OBJECT_ITERATOR `0xD8A12B74`
+
+```cpp
+Iterator CREATE_OBJECT_ITERATOR(Layout layout);
+```

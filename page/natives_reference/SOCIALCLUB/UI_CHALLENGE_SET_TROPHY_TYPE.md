@@ -1,0 +1,5 @@
+# UI_CHALLENGE_SET_TROPHY_TYPE `0x3731AC9F`
+
+```cpp
+void UI_CHALLENGE_SET_TROPHY_TYPE(int _Unk0, int _Unk1);
+```

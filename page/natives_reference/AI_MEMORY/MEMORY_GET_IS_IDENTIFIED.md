@@ -1,0 +1,5 @@
+# MEMORY_GET_IS_IDENTIFIED `0x0810A7BA`
+
+```cpp
+int MEMORY_GET_IS_IDENTIFIED(int _Unk0, int _Unk1);
+```

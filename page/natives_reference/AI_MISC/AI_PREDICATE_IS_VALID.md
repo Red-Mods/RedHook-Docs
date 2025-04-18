@@ -1,0 +1,5 @@
+# AI_PREDICATE_IS_VALID `0x1FEECD4C`
+
+```cpp
+int AI_PREDICATE_IS_VALID(int _Unk0);
+```

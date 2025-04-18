@@ -1,0 +1,5 @@
+# IS_OBJECTSET_VALID `0x552189FD`
+
+```cpp
+int IS_OBJECTSET_VALID(int _Unk0);
+```

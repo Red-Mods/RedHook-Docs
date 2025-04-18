@@ -1,0 +1,5 @@
+# IS_CURVE_QUERY_VALID `0x9398BE8F`
+
+```cpp
+int IS_CURVE_QUERY_VALID(int _Unk0);
+```

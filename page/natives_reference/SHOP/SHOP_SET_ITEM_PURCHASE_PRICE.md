@@ -1,0 +1,5 @@
+# SHOP_SET_ITEM_PURCHASE_PRICE `0xA40EFFFF`
+
+```cpp
+void SHOP_SET_ITEM_PURCHASE_PRICE(int _Unk0, int _Unk1);
+```

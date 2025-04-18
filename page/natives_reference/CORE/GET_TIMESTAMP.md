@@ -1,0 +1,5 @@
+# GET_TIMESTAMP `0xD66B6C8E`
+
+```cpp
+int GET_TIMESTAMP();
+```

@@ -1,0 +1,5 @@
+# CLEAR_LINKED_ANIM_TARGET `0xAC54E120`
+
+```cpp
+int CLEAR_LINKED_ANIM_TARGET(int _Unk0);
+```

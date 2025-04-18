@@ -1,0 +1,5 @@
+# GATEWAY_GET_VOLUME `0x987AD426`
+
+```cpp
+int GATEWAY_GET_VOLUME(int _Unk0);
+```

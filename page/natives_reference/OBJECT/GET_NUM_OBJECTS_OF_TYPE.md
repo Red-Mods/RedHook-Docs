@@ -1,0 +1,5 @@
+# GET_NUM_OBJECTS_OF_TYPE `0xADB08F12`
+
+```cpp
+int GET_NUM_OBJECTS_OF_TYPE(int _Unk0);
+```

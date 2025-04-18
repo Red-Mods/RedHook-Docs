@@ -1,0 +1,5 @@
+# ACTOR_FORCE_WEAPON_RENDER `0x1511D111`
+
+```cpp
+void ACTOR_FORCE_WEAPON_RENDER(int _Unk0, int _Unk1, int _Unk2);
+```

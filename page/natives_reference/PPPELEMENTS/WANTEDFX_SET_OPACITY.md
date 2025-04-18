@@ -1,0 +1,5 @@
+# WANTEDFX_SET_OPACITY `0x598815BD`
+
+```cpp
+void WANTEDFX_SET_OPACITY(float _Unk0);
+```

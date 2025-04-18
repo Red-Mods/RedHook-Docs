@@ -1,0 +1,5 @@
+# UI_TRANSITION_TO `0xD0F2D2B6`
+
+```cpp
+void UI_TRANSITION_TO(int _Unk0);
+```

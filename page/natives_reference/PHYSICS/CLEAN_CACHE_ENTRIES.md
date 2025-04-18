@@ -1,0 +1,5 @@
+# CLEAN_CACHE_ENTRIES `0x4C02E1E5`
+
+```cpp
+void CLEAN_CACHE_ENTRIES();
+```

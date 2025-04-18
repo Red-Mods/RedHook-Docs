@@ -1,0 +1,5 @@
+# CREATE_FIRE_ON_OBJECT `0xC587FA2B`
+
+```cpp
+int CREATE_FIRE_ON_OBJECT(Object _Object);
+```

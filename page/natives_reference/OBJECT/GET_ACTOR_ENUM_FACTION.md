@@ -1,0 +1,5 @@
+# GET_ACTOR_ENUM_FACTION `0x2803BDA8`
+
+```cpp
+int GET_ACTOR_ENUM_FACTION(int _Unk0);
+```

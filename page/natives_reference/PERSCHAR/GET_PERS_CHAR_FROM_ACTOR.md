@@ -1,0 +1,5 @@
+# GET_PERS_CHAR_FROM_ACTOR `0x69DA275F`
+
+```cpp
+int GET_PERS_CHAR_FROM_ACTOR(int _Unk0);
+```

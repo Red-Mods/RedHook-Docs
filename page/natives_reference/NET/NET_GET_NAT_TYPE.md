@@ -1,0 +1,5 @@
+# NET_GET_NAT_TYPE `0x31700C0A`
+
+```cpp
+int NET_GET_NAT_TYPE();
+```

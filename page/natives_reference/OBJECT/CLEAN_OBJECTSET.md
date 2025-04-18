@@ -1,0 +1,5 @@
+# CLEAN_OBJECTSET `0x11EE07B5`
+
+```cpp
+void CLEAN_OBJECTSET(int _Unk0);
+```

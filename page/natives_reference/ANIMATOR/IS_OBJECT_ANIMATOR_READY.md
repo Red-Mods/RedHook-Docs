@@ -1,0 +1,5 @@
+# IS_OBJECT_ANIMATOR_READY `0x554CF528`
+
+```cpp
+int IS_OBJECT_ANIMATOR_READY(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# SET_FIRST_PAY_CUTSCENE `0x7C730896`
+
+```cpp
+int SET_FIRST_PAY_CUTSCENE(int _Unk0);
+```

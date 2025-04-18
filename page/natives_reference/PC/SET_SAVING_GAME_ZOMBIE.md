@@ -1,0 +1,5 @@
+# SET_SAVING_GAME_ZOMBIE `0xA62D75BA`
+
+```cpp
+int SET_SAVING_GAME_ZOMBIE(int _Unk0);
+```

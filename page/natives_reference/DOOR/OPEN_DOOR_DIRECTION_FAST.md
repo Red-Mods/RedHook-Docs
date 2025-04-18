@@ -1,0 +1,5 @@
+# OPEN_DOOR_DIRECTION_FAST `0xBA51D02E`
+
+```cpp
+void OPEN_DOOR_DIRECTION_FAST(int _Unk0, int _Unk1);
+```

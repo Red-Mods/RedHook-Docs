@@ -1,0 +1,5 @@
+# SET_HUD_MAP_SCALE_WALK `0x7FF20D84`
+
+```cpp
+void SET_HUD_MAP_SCALE_WALK(int _Unk0);
+```

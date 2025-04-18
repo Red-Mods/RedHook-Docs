@@ -1,0 +1,5 @@
+# SET_CAMERA_FAR_CLIP_PLANE `0xD85EF521`
+
+```cpp
+void SET_CAMERA_FAR_CLIP_PLANE(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# AI_CONVERSE_DISABLE `0xEA86A817`
+
+```cpp
+void AI_CONVERSE_DISABLE(int _Unk0);
+```

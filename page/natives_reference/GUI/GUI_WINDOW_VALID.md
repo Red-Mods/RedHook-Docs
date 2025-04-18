@@ -1,0 +1,5 @@
+# GUI_WINDOW_VALID `0xA2E6FECB`
+
+```cpp
+int GUI_WINDOW_VALID(int _Unk0);
+```

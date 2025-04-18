@@ -1,0 +1,5 @@
+# GET_ACTOR_FACTION `0x52E2A611`
+
+```cpp
+int GET_ACTOR_FACTION(Actor _Actor);
+```

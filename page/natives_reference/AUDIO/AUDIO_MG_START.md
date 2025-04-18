@@ -1,0 +1,5 @@
+# AUDIO_MG_START `0xB3C3FF5E`
+
+```cpp
+void AUDIO_MG_START();
+```

@@ -1,0 +1,5 @@
+# ACTOR_DISABLE_WEAPON_RENDER `0x5E38B33C`
+
+```cpp
+void ACTOR_DISABLE_WEAPON_RENDER(int _Unk0, int _Unk1, int _Unk2);
+```

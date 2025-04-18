@@ -1,0 +1,5 @@
+# FIRE_SET_CONTROL_VOLUME `0x03240324`
+
+```cpp
+void FIRE_SET_CONTROL_VOLUME(int _Unk0, int _Unk1);
+```

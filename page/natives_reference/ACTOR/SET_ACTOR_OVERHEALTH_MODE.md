@@ -1,0 +1,5 @@
+# SET_ACTOR_OVERHEALTH_MODE `0xF2F77F44`
+
+```cpp
+void SET_ACTOR_OVERHEALTH_MODE(int _Unk0, int _Unk1);
+```

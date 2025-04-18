@@ -1,0 +1,5 @@
+# CREATE_OBJECT_LOCATOR `0x11069324`
+
+```cpp
+int CREATE_OBJECT_LOCATOR(int _Unk0, int _Unk1);
+```

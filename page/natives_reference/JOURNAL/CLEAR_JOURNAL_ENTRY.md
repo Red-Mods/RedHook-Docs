@@ -1,0 +1,5 @@
+# CLEAR_JOURNAL_ENTRY `0xB8B7B818`
+
+```cpp
+void CLEAR_JOURNAL_ENTRY(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# IS_FACTION_VALID `0x5E2F718D`
+
+```cpp
+int IS_FACTION_VALID(int _Unk0);
+```

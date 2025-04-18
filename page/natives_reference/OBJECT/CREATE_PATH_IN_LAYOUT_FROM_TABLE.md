@@ -1,0 +1,5 @@
+# CREATE_PATH_IN_LAYOUT_FROM_TABLE `0xB6709FF4`
+
+```cpp
+int CREATE_PATH_IN_LAYOUT_FROM_TABLE(int _Unk0, int _Unk1, int _Unk2);
+```

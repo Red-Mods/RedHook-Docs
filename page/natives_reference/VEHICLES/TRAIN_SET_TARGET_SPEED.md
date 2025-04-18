@@ -1,0 +1,5 @@
+# TRAIN_SET_TARGET_SPEED `0xEA2A8B79`
+
+```cpp
+void TRAIN_SET_TARGET_SPEED(int _Unk0, int _Unk1);
+```

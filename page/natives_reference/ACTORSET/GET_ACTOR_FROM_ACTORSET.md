@@ -1,0 +1,5 @@
+# GET_ACTOR_FROM_ACTORSET `0xC5202810`
+
+```cpp
+int GET_ACTOR_FROM_ACTORSET(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# NET_REGISTER_PLAYLIST_TYPE `0xA9459BB6`
+
+```cpp
+void NET_REGISTER_PLAYLIST_TYPE(int _Unk0, int _Unk1, int _Unk2);
+```

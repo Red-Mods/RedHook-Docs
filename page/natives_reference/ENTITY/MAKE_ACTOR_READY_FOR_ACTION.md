@@ -1,0 +1,5 @@
+# MAKE_ACTOR_READY_FOR_ACTION `0xF04335A6`
+
+```cpp
+int MAKE_ACTOR_READY_FOR_ACTION(int _Unk0, int _Unk1);
+```

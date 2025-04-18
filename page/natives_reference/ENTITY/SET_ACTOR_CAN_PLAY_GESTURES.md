@@ -1,0 +1,5 @@
+# SET_ACTOR_CAN_PLAY_GESTURES `0x50ED77F1`
+
+```cpp
+void SET_ACTOR_CAN_PLAY_GESTURES(int _Unk0, int _Unk1);
+```

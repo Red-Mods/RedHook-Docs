@@ -1,0 +1,5 @@
+# GET_ACTORS_HORSE `0x8DDE894F`
+
+```cpp
+int GET_ACTORS_HORSE(int _Unk0);
+```

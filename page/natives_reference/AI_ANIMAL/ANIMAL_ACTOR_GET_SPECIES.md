@@ -1,0 +1,5 @@
+# ANIMAL_ACTOR_GET_SPECIES `0x7D0E25DF`
+
+```cpp
+int ANIMAL_ACTOR_GET_SPECIES(int _Unk0);
+```

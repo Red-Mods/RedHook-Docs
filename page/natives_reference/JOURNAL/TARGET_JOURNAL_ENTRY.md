@@ -1,0 +1,5 @@
+# TARGET_JOURNAL_ENTRY `0xC3DC9490`
+
+```cpp
+void TARGET_JOURNAL_ENTRY(int _Unk0);
+```

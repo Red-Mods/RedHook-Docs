@@ -1,0 +1,5 @@
+# SET_ACTOR_IS_THE_BEASTMASTER `0x8392855D`
+
+```cpp
+void SET_ACTOR_IS_THE_BEASTMASTER(Actor _Actor, bool _Value);
+```

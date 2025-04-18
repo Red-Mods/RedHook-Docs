@@ -1,0 +1,5 @@
+# GET_LAST_NEAREST_POINT `0xB6E791F6`
+
+```cpp
+int GET_LAST_NEAREST_POINT(int _Unk0, int _Unk1);
+```

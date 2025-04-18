@@ -1,0 +1,5 @@
+# START_MINIGAME `0xE8184916`
+
+```cpp
+void START_MINIGAME(int _Unk0);
+```

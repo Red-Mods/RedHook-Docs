@@ -1,0 +1,5 @@
+# SET_ACTOR_GRINGO_RESTRICTION `0x527CB774`
+
+```cpp
+void SET_ACTOR_GRINGO_RESTRICTION(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# SQUAD_COMPUTE_CENTROID `0x142D9F3A`
+
+```cpp
+int SQUAD_COMPUTE_CENTROID(int _Unk0, int _Unk1);
+```

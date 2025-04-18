@@ -1,0 +1,5 @@
+# SATCHEL_SET_OUTFIT_STATE `0x0A87A573`
+
+```cpp
+void SATCHEL_SET_OUTFIT_STATE(int _Unk0, int _Unk1);
+```

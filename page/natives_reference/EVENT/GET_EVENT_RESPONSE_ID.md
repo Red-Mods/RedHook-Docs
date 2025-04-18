@@ -1,0 +1,5 @@
+# GET_EVENT_RESPONSE_ID `0xB573FF63`
+
+```cpp
+int GET_EVENT_RESPONSE_ID(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# IS_OBJECT_IN_OBJECTSET `0x0114FCBD`
+
+```cpp
+int IS_OBJECT_IN_OBJECTSET(int _Unk0, int _Unk1);
+```

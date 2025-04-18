@@ -1,0 +1,5 @@
+# SET_PLAYER_COMBATMODE `0x57595189`
+
+```cpp
+void SET_PLAYER_COMBATMODE(int _CombatMode);
+```

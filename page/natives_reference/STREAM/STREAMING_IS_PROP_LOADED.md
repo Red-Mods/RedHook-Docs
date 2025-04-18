@@ -1,0 +1,5 @@
+# STREAMING_IS_PROP_LOADED `0xD7F80035`
+
+```cpp
+bool STREAMING_IS_PROP_LOADED(int _AssetId);
+```

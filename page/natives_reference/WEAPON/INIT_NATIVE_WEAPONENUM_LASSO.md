@@ -1,0 +1,5 @@
+# INIT_NATIVE_WEAPONENUM_LASSO `0xF82711CC`
+
+```cpp
+void INIT_NATIVE_WEAPONENUM_LASSO(int _Unk0, int _Unk1, int _Unk2);
+```

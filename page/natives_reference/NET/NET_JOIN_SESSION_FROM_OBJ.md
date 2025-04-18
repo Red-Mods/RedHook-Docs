@@ -1,0 +1,5 @@
+# NET_JOIN_SESSION_FROM_OBJ `0x63034F52`
+
+```cpp
+int NET_JOIN_SESSION_FROM_OBJ(int _Unk0);
+```

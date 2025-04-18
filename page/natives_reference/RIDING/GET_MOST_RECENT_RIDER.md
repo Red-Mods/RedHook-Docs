@@ -1,0 +1,5 @@
+# GET_MOST_RECENT_RIDER `0x668E55C3`
+
+```cpp
+int GET_MOST_RECENT_RIDER(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# SET_BLIP_PAUSEMAP_ONLY `0xFF3DB575`
+
+```cpp
+void SET_BLIP_PAUSEMAP_ONLY(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# IS_MINIGAME_RUNNING `0x117D7E71`
+
+```cpp
+bool IS_MINIGAME_RUNNING();
+```

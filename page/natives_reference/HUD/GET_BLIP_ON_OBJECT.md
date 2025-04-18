@@ -1,0 +1,5 @@
+# GET_BLIP_ON_OBJECT `0xE3E30992`
+
+```cpp
+Blip GET_BLIP_ON_OBJECT(Object Obj);
+```

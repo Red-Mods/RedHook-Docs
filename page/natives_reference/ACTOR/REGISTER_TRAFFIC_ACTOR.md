@@ -1,0 +1,5 @@
+# REGISTER_TRAFFIC_ACTOR `0x67FA18A1`
+
+```cpp
+void REGISTER_TRAFFIC_ACTOR(int _Unk0, int _Unk1);
+```

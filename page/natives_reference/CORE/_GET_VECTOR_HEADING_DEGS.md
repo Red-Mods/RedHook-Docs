@@ -1,0 +1,5 @@
+# _GET_VECTOR_HEADING_DEGS `0x9C40E671`
+
+```cpp
+float _GET_VECTOR_HEADING_DEGS(Vector3* _Vector);
+```

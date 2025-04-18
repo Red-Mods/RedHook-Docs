@@ -1,0 +1,5 @@
+# GRINGO_GET_AVAILABILITY `0x6ADC74CE`
+
+```cpp
+int GRINGO_GET_AVAILABILITY(int _Unk0, int _Unk1);
+```

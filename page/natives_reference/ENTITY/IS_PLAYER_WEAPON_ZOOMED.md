@@ -1,0 +1,5 @@
+# IS_PLAYER_WEAPON_ZOOMED `0x0A842786`
+
+```cpp
+bool IS_PLAYER_WEAPON_ZOOMED(Actor _Actor);
+```

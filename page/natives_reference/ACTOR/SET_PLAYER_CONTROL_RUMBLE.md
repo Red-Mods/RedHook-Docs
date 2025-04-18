@@ -1,0 +1,5 @@
+# SET_PLAYER_CONTROL_RUMBLE `0x4590CE00`
+
+```cpp
+void SET_PLAYER_CONTROL_RUMBLE(int _Unk0, int _Unk1);
+```

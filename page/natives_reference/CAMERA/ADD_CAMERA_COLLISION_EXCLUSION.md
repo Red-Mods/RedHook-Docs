@@ -1,0 +1,5 @@
+# ADD_CAMERA_COLLISION_EXCLUSION `0x5BBFA4D7`
+
+```cpp
+void ADD_CAMERA_COLLISION_EXCLUSION(int _Unk0, int _Unk1, int _Unk2);
+```

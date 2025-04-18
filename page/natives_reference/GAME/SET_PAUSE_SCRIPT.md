@@ -1,0 +1,5 @@
+# SET_PAUSE_SCRIPT `0x9B71351C`
+
+```cpp
+void SET_PAUSE_SCRIPT(int _Unk0);
+```

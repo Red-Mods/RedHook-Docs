@@ -1,0 +1,5 @@
+# NET_REGISTER_GAME_TYPE `0xE822010A`
+
+```cpp
+void NET_REGISTER_GAME_TYPE(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# SET_ACTOR_UPDATE_PRIORITY `0x44C05EF6`
+
+```cpp
+void SET_ACTOR_UPDATE_PRIORITY(int _Unk0, int _Unk1);
+```

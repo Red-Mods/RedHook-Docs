@@ -1,0 +1,5 @@
+# ANIMAL_SPECIES_REL_SET_PLAY_BEG `0x70C48A1C`
+
+```cpp
+void ANIMAL_SPECIES_REL_SET_PLAY_BEG(int _Unk0, int _Unk1, int _Unk2);
+```

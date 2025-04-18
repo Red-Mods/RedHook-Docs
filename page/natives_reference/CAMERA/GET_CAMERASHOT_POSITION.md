@@ -1,0 +1,5 @@
+# GET_CAMERASHOT_POSITION `0x4D05D470`
+
+```cpp
+void GET_CAMERASHOT_POSITION(int _Unk0, int _Unk1);
+```

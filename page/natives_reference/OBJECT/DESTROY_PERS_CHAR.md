@@ -1,0 +1,5 @@
+# DESTROY_PERS_CHAR `0x4028CE77`
+
+```cpp
+void DESTROY_PERS_CHAR(int _Unk0);
+```

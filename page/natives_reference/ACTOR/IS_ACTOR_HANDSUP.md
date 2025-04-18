@@ -1,0 +1,5 @@
+# IS_ACTOR_HANDSUP `0xA5A24484`
+
+```cpp
+int IS_ACTOR_HANDSUP(int _Unk0);
+```

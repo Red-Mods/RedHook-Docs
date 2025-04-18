@@ -1,0 +1,5 @@
+# GET_SAGPLAYER_STAT_FLOAT `0x5545C218`
+
+```cpp
+int GET_SAGPLAYER_STAT_FLOAT(int _Unk0);
+```

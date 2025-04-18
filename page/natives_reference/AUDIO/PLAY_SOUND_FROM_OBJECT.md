@@ -1,0 +1,5 @@
+# PLAY_SOUND_FROM_OBJECT `0x6A515A49`
+
+```cpp
+int PLAY_SOUND_FROM_OBJECT(int _Unk0, int _Unk1);
+```

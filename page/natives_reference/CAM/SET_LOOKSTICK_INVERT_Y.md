@@ -1,0 +1,5 @@
+# SET_LOOKSTICK_INVERT_Y `0x063F900A`
+
+```cpp
+void SET_LOOKSTICK_INVERT_Y(int _Unk0);
+```

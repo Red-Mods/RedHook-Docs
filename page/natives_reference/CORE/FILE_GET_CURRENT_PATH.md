@@ -1,0 +1,5 @@
+# FILE_GET_CURRENT_PATH `0x6F323C5F`
+
+```cpp
+int FILE_GET_CURRENT_PATH();
+```

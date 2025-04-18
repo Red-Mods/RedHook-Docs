@@ -1,0 +1,5 @@
+# SET_ACTOR_ONE_SHOT_DEATH `0xCDC686B2`
+
+```cpp
+void SET_ACTOR_ONE_SHOT_DEATH(int _Unk0, int _Unk1);
+```

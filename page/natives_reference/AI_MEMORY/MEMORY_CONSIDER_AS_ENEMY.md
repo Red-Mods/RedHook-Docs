@@ -1,0 +1,5 @@
+# MEMORY_CONSIDER_AS_ENEMY `0x745A1BA3`
+
+```cpp
+void MEMORY_CONSIDER_AS_ENEMY(int _Unk0, int _Unk1);
+```

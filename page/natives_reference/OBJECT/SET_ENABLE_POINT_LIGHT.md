@@ -1,0 +1,5 @@
+# SET_ENABLE_POINT_LIGHT `0x5F66B23E`
+
+```cpp
+void SET_ENABLE_POINT_LIGHT(int _Unk0, int _Unk1);
+```

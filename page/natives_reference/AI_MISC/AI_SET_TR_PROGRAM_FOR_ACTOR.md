@@ -1,0 +1,5 @@
+# AI_SET_TR_PROGRAM_FOR_ACTOR `0x4D53AC21`
+
+```cpp
+void AI_SET_TR_PROGRAM_FOR_ACTOR(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# NET_PLAYER_LIST_ADD_GAMER_SLOT `0x805AC16A`
+
+```cpp
+int NET_PLAYER_LIST_ADD_GAMER_SLOT(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# GET_TIME_OF_DAY `0x4E1DE7A5`
+
+```cpp
+Time GET_TIME_OF_DAY();
+```

@@ -1,0 +1,5 @@
+# _GET_MOUSE_DELTA_Y `0x3A62D87D`
+
+```cpp
+float _GET_MOUSE_DELTA_Y();
+```

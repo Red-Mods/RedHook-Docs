@@ -1,0 +1,5 @@
+# AI_CLEAR_FIRE_DELAY `0xD6886191`
+
+```cpp
+void AI_CLEAR_FIRE_DELAY(int _Unk0);
+```

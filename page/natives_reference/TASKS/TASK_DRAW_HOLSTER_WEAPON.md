@@ -1,0 +1,5 @@
+# TASK_DRAW_HOLSTER_WEAPON `0xDB5F6B35`
+
+```cpp
+void TASK_DRAW_HOLSTER_WEAPON(int _Unk0, int _Unk1);
+```

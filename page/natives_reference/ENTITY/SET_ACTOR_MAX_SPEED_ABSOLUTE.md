@@ -1,0 +1,5 @@
+# SET_ACTOR_MAX_SPEED_ABSOLUTE `0x950B8870`
+
+```cpp
+void SET_ACTOR_MAX_SPEED_ABSOLUTE(Actor _Actor, int _Speed);
+```

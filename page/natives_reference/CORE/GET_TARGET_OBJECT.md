@@ -1,0 +1,5 @@
+# GET_TARGET_OBJECT `0x533AD3F2`
+
+```cpp
+Object GET_TARGET_OBJECT();
+```

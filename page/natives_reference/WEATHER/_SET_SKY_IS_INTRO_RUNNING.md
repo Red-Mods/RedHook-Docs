@@ -1,0 +1,5 @@
+# _SET_SKY_IS_INTRO_RUNNING `0x21A68D47`
+
+```cpp
+void _SET_SKY_IS_INTRO_RUNNING(bool _Unk0);
+```

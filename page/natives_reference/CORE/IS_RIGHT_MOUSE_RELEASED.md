@@ -1,0 +1,5 @@
+# IS_RIGHT_MOUSE_RELEASED `0xB59B352A`
+
+```cpp
+bool IS_RIGHT_MOUSE_RELEASED(int _Unk0);
+```

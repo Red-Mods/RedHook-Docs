@@ -1,0 +1,5 @@
+# CLEAR_ACTOR_MIN_SPEED `0x036D75D5`
+
+```cpp
+void CLEAR_ACTOR_MIN_SPEED(int _Unk0);
+```

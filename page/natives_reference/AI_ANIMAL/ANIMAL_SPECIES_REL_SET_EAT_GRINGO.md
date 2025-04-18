@@ -1,0 +1,5 @@
+# ANIMAL_SPECIES_REL_SET_EAT_GRINGO `0xB5A63B67`
+
+```cpp
+void ANIMAL_SPECIES_REL_SET_EAT_GRINGO(int _Unk0, int _Unk1, int _Unk2);
+```

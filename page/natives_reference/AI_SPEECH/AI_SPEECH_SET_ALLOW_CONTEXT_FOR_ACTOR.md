@@ -1,0 +1,5 @@
+# AI_SPEECH_SET_ALLOW_CONTEXT_FOR_ACTOR `0x6AAB4CD0`
+
+```cpp
+void AI_SPEECH_SET_ALLOW_CONTEXT_FOR_ACTOR(int _Unk0, int _Unk1, int _Unk2);
+```

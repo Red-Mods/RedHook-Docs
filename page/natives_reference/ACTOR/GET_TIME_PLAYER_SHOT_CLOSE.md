@@ -1,0 +1,5 @@
+# GET_TIME_PLAYER_SHOT_CLOSE `0x7F454A92`
+
+```cpp
+int GET_TIME_PLAYER_SHOT_CLOSE(int _Unk0);
+```

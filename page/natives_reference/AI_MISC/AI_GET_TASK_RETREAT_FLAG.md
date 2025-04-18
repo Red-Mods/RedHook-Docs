@@ -1,0 +1,5 @@
+# AI_GET_TASK_RETREAT_FLAG `0x9B742D25`
+
+```cpp
+int AI_GET_TASK_RETREAT_FLAG(int _Unk0);
+```

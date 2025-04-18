@@ -1,0 +1,5 @@
+# NET_GAMER_SETMY_JPN_TITLE `0xFD91BE0D`
+
+```cpp
+int NET_GAMER_SETMY_JPN_TITLE(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# AI_GLOBAL_CLEAR_DANGER `0xB6FCFFAA`
+
+```cpp
+void AI_GLOBAL_CLEAR_DANGER(int _Unk0);
+```

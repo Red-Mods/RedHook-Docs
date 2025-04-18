@@ -1,0 +1,5 @@
+# DISABLE_PLAYER_GRINGO_USE `0x6FCF6BC8`
+
+```cpp
+void DISABLE_PLAYER_GRINGO_USE(int _Unk0, int _Unk1);
+```

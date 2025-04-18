@@ -1,0 +1,5 @@
+# GET_PROFILE_TIME `0x6E189771`
+
+```cpp
+float GET_PROFILE_TIME();
+```

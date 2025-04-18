@@ -1,0 +1,5 @@
+# SET_CAMERA_FOLLOW_ACTOR `0x8EFDFE89`
+
+```cpp
+void SET_CAMERA_FOLLOW_ACTOR(Actor actor);
+```

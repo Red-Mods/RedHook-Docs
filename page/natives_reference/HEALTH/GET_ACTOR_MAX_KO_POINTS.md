@@ -1,0 +1,5 @@
+# GET_ACTOR_MAX_KO_POINTS `0xAFC96669`
+
+```cpp
+int GET_ACTOR_MAX_KO_POINTS(Actor _Actor);
+```

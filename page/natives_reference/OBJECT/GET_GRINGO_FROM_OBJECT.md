@@ -1,0 +1,5 @@
+# GET_GRINGO_FROM_OBJECT `0x8A01B64B`
+
+```cpp
+int GET_GRINGO_FROM_OBJECT(int _Unk0);
+```

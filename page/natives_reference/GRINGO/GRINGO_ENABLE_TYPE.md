@@ -1,0 +1,5 @@
+# GRINGO_ENABLE_TYPE `0xCB58D301`
+
+```cpp
+void GRINGO_ENABLE_TYPE(int _Unk0);
+```

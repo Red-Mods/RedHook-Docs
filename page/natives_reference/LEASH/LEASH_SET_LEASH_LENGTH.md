@@ -1,0 +1,5 @@
+# LEASH_SET_LEASH_LENGTH `0x14BEC6F5`
+
+```cpp
+int LEASH_SET_LEASH_LENGTH(int _Unk0, int _Unk1);
+```

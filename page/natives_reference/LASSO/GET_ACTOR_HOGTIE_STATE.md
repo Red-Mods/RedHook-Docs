@@ -1,0 +1,5 @@
+# GET_ACTOR_HOGTIE_STATE `0xF45D9723`
+
+```cpp
+int GET_ACTOR_HOGTIE_STATE(int actor);
+```

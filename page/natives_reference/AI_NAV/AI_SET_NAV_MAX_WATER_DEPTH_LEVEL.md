@@ -1,0 +1,5 @@
+# AI_SET_NAV_MAX_WATER_DEPTH_LEVEL `0x29D07F70`
+
+```cpp
+void AI_SET_NAV_MAX_WATER_DEPTH_LEVEL(int _Unk0, int _Unk1);
+```

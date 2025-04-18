@@ -1,0 +1,5 @@
+# GRINGO_DEBUG_CHECK_SOUND `0x5AC72FCC`
+
+```cpp
+void GRINGO_DEBUG_CHECK_SOUND(int _Unk0);
+```

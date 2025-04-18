@@ -1,0 +1,5 @@
+# DEACTIVATE_JOURNAL_ENTRY `0x196A1EDE`
+
+```cpp
+void DEACTIVATE_JOURNAL_ENTRY(int _Unk0, int _Unk1);
+```

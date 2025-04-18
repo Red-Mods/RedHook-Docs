@@ -1,0 +1,5 @@
+# DETACH_CAMERASHOT `0x059BBAA8`
+
+```cpp
+void DETACH_CAMERASHOT(int _Unk0);
+```

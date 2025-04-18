@@ -1,0 +1,5 @@
+# GRINGO_GET_PHYSINST `0x5EC1CABF`
+
+```cpp
+int GRINGO_GET_PHYSINST(int _Unk0);
+```

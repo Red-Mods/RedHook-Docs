@@ -1,0 +1,5 @@
+# ACCESSORIZE_HORSE `0x6C939AA7`
+
+```cpp
+int ACCESSORIZE_HORSE(int _Unk0, int _Unk1);
+```

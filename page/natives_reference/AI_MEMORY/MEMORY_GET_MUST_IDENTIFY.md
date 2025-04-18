@@ -1,0 +1,5 @@
+# MEMORY_GET_MUST_IDENTIFY `0x05B3D34F`
+
+```cpp
+int MEMORY_GET_MUST_IDENTIFY(int _Unk0, int _Unk1);
+```

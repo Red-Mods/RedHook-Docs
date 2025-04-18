@@ -1,0 +1,5 @@
+# CLEAR_AMBIENT_OBJECTS_VOLUME `0xBB77E597`
+
+```cpp
+void CLEAR_AMBIENT_OBJECTS_VOLUME(int _Unk0, int _Unk1);
+```

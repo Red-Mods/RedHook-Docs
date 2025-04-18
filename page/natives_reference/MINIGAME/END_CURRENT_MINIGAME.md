@@ -1,0 +1,5 @@
+# END_CURRENT_MINIGAME `0xCA746CD2`
+
+```cpp
+void END_CURRENT_MINIGAME();
+```

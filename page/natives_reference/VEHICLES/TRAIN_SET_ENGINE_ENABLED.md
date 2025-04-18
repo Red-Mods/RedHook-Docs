@@ -1,0 +1,5 @@
+# TRAIN_SET_ENGINE_ENABLED `0x6C62C522`
+
+```cpp
+void TRAIN_SET_ENGINE_ENABLED(int _Unk0, int _Unk1);
+```

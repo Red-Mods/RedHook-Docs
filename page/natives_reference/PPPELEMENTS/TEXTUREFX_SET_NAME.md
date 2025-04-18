@@ -1,0 +1,5 @@
+# TEXTUREFX_SET_NAME `0x6336182D`
+
+```cpp
+void TEXTUREFX_SET_NAME(int _Unk0);
+```

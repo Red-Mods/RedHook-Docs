@@ -1,0 +1,5 @@
+# CREATE_ROPE_FOR_BRIDGE_LEFT `0xC039BBF1`
+
+```cpp
+int CREATE_ROPE_FOR_BRIDGE_LEFT(int _Unk0, int _Unk1, int _Unk2);
+```

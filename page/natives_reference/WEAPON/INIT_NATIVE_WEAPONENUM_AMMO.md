@@ -1,0 +1,5 @@
+# INIT_NATIVE_WEAPONENUM_AMMO `0xCE5CCF2E`
+
+```cpp
+void INIT_NATIVE_WEAPONENUM_AMMO(int _Unk0, int _Unk1);
+```

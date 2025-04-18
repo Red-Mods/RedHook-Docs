@@ -1,0 +1,5 @@
+# ACTOR_CAN_BE_HARDLOCKED `0x1468DD56`
+
+```cpp
+bool ACTOR_CAN_BE_HARDLOCKED(int _Unk0, int _Unk1);
+```

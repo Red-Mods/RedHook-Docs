@@ -1,0 +1,5 @@
+# CREATE_CRIME_IN_LAYOUT `0xD60032F6`
+
+```cpp
+int CREATE_CRIME_IN_LAYOUT(int _Unk0);
+```

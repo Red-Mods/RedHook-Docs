@@ -1,0 +1,5 @@
+# ANIMAL_SPECIES_REL_SET_PLAY_GROWL `0x70DE500E`
+
+```cpp
+void ANIMAL_SPECIES_REL_SET_PLAY_GROWL(int _Unk0, int _Unk1, int _Unk2);
+```

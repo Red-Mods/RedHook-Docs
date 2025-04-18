@@ -1,0 +1,5 @@
+# MEMORY_PREFER_WALKING `0x2F7B60A4`
+
+```cpp
+void MEMORY_PREFER_WALKING(int _Unk0, int _Unk1);
+```

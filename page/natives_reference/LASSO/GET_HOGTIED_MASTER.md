@@ -1,0 +1,5 @@
+# GET_HOGTIED_MASTER `0x1580F3BF`
+
+```cpp
+int GET_HOGTIED_MASTER(int _Unk0);
+```

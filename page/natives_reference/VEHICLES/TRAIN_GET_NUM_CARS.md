@@ -1,0 +1,5 @@
+# TRAIN_GET_NUM_CARS `0xFB2F9989`
+
+```cpp
+int TRAIN_GET_NUM_CARS(int _Unk0);
+```

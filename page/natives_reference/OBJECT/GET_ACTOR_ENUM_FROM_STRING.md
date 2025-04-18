@@ -1,0 +1,5 @@
+# GET_ACTOR_ENUM_FROM_STRING `0xC739D1D2`
+
+```cpp
+int GET_ACTOR_ENUM_FROM_STRING(int _Unk0);
+```

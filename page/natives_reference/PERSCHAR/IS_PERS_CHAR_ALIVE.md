@@ -1,0 +1,5 @@
+# IS_PERS_CHAR_ALIVE `0x5F3A1B81`
+
+```cpp
+int IS_PERS_CHAR_ALIVE(int _Unk0);
+```

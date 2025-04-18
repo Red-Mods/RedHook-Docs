@@ -1,0 +1,5 @@
+# AUDIO_INIT_ZOMBIE_TOXIC_AE_RANGE `0xD6CC6907`
+
+```cpp
+void AUDIO_INIT_ZOMBIE_TOXIC_AE_RANGE(int _Unk0, int _Unk1);
+```

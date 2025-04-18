@@ -1,0 +1,5 @@
+# RESET_CAMERA_TARGETDOF `0x4643D2C7`
+
+```cpp
+void RESET_CAMERA_TARGETDOF(int _Unk0);
+```

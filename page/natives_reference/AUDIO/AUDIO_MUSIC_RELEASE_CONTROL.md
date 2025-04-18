@@ -1,0 +1,5 @@
+# AUDIO_MUSIC_RELEASE_CONTROL `0xA3A2984E`
+
+```cpp
+void AUDIO_MUSIC_RELEASE_CONTROL(int _Unk0, int _Unk1);
+```

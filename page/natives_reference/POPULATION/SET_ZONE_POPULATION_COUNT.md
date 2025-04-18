@@ -1,0 +1,5 @@
+# SET_ZONE_POPULATION_COUNT `0x1B271D85`
+
+```cpp
+void SET_ZONE_POPULATION_COUNT(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# GET_CENTER_OF_GRAVITY `0x31940E4C`
+
+```cpp
+int GET_CENTER_OF_GRAVITY(int _Unk0, int _Unk1);
+```

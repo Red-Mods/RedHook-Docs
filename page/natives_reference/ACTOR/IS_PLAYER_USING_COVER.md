@@ -1,0 +1,5 @@
+# IS_PLAYER_USING_COVER `0x724A2931`
+
+```cpp
+int IS_PLAYER_USING_COVER(int _Unk0);
+```

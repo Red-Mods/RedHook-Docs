@@ -1,0 +1,5 @@
+# SET_CAMERASHOT_TARGET_OBJECT `0x3F719473`
+
+```cpp
+void SET_CAMERASHOT_TARGET_OBJECT(int _Unk0, int _Unk1, int _Unk2);
+```

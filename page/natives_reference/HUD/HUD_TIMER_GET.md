@@ -1,0 +1,5 @@
+# HUD_TIMER_GET `0x1C6919EF`
+
+```cpp
+int HUD_TIMER_GET();
+```

@@ -1,0 +1,5 @@
+# FREE_FROM_HOGTIE `0x31AD57FE`
+
+```cpp
+void FREE_FROM_HOGTIE(int _Unk0);
+```

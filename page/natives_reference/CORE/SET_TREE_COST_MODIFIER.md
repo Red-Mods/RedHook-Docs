@@ -1,0 +1,5 @@
+# SET_TREE_COST_MODIFIER `0x81A7CDB6`
+
+```cpp
+int SET_TREE_COST_MODIFIER(int _Unk0);
+```

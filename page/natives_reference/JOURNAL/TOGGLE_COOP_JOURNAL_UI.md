@@ -1,0 +1,5 @@
+# TOGGLE_COOP_JOURNAL_UI `0x44A1ED5C`
+
+```cpp
+void TOGGLE_COOP_JOURNAL_UI(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# MEMORY_REPORT_POSITION_AUTO `0x2F589CDF`
+
+```cpp
+void MEMORY_REPORT_POSITION_AUTO(int _Unk0, int _Unk1, int _Unk2);
+```

@@ -1,0 +1,5 @@
+# GET_LAST_ATTACK_TARGET `0xEB40C2FC`
+
+```cpp
+Actor GET_LAST_ATTACK_TARGET(Actor actor);
+```

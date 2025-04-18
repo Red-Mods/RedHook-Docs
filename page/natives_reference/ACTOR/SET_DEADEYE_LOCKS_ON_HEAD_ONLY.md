@@ -1,0 +1,5 @@
+# SET_DEADEYE_LOCKS_ON_HEAD_ONLY `0x9375946B`
+
+```cpp
+void SET_DEADEYE_LOCKS_ON_HEAD_ONLY(Actor _Actor, bool _Enabled);
+```

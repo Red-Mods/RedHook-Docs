@@ -1,0 +1,5 @@
+# SET_WEATHER_TYPE_RAINY `0xA915DC46`
+
+```cpp
+void SET_WEATHER_TYPE_RAINY(int _Unk0);
+```

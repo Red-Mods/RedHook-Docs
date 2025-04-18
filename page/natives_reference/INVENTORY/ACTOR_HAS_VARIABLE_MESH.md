@@ -1,0 +1,5 @@
+# ACTOR_HAS_VARIABLE_MESH `0xA091179F`
+
+```cpp
+bool ACTOR_HAS_VARIABLE_MESH(Actor _Actor, int _Id);
+```

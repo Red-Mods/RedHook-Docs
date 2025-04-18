@@ -1,0 +1,5 @@
+# TOGGLE_ACTOR_ACTION_SIGNAL_ON `0x415F9BC3`
+
+```cpp
+void TOGGLE_ACTOR_ACTION_SIGNAL_ON(int _Unk0, int _Unk1, int _Unk2);
+```

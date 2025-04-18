@@ -1,0 +1,5 @@
+# RESET_RMPTFX_IN_VOLUME `0x547166A7`
+
+```cpp
+void RESET_RMPTFX_IN_VOLUME(int _Unk0);
+```

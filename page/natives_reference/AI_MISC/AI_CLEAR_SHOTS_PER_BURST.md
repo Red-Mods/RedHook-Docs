@@ -1,0 +1,5 @@
+# AI_CLEAR_SHOTS_PER_BURST `0x58A7B2A1`
+
+```cpp
+void AI_CLEAR_SHOTS_PER_BURST(int _Unk0);
+```

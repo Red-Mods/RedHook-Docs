@@ -1,0 +1,5 @@
+# SET_PLAYER_DISABLE_TARGETING `0x0959C27A`
+
+```cpp
+void SET_PLAYER_DISABLE_TARGETING(int _Unk0, int _Unk1);
+```

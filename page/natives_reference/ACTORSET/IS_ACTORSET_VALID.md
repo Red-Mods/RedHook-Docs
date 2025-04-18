@@ -1,0 +1,5 @@
+# IS_ACTORSET_VALID `0x76E8975E`
+
+```cpp
+int IS_ACTORSET_VALID(int _Unk0);
+```

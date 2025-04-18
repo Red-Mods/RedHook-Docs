@@ -1,0 +1,5 @@
+# GRINGO_LOAD_ANIMATION `0x78B655B1`
+
+```cpp
+void GRINGO_LOAD_ANIMATION(int _Unk0);
+```

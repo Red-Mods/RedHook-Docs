@@ -1,0 +1,5 @@
+# BINOCULARSFX_ENABLED `0xE6C1DBD9`
+
+```cpp
+void BINOCULARSFX_ENABLED(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# ADD_ACTOR_STAY_WITHIN_VOLUME `0xCDEF4316`
+
+```cpp
+void ADD_ACTOR_STAY_WITHIN_VOLUME(int _Unk0, int _Unk1);
+```

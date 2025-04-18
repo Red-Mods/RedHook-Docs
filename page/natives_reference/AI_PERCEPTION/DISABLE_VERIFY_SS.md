@@ -1,0 +1,5 @@
+# DISABLE_VERIFY_SS `0x5C580036`
+
+```cpp
+void DISABLE_VERIFY_SS(int _Unk0);
+```

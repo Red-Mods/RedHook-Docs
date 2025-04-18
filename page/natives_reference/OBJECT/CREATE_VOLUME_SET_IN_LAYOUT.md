@@ -1,0 +1,5 @@
+# CREATE_VOLUME_SET_IN_LAYOUT `0x177A3843`
+
+```cpp
+int CREATE_VOLUME_SET_IN_LAYOUT(int _Unk0, int _Unk1);
+```

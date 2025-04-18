@@ -1,0 +1,5 @@
+# GET_OBJECT_FROM_VOLUME `0xFADF0B96`
+
+```cpp
+int GET_OBJECT_FROM_VOLUME(int _Unk0);
+```

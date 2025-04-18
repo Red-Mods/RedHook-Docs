@@ -1,0 +1,5 @@
+# SET_AUTO_CONVERSATION_LOOK `0xA29B9458`
+
+```cpp
+void SET_AUTO_CONVERSATION_LOOK(int _Unk0, int _Unk1);
+```

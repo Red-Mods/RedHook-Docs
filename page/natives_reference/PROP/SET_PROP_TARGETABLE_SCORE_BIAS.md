@@ -1,0 +1,5 @@
+# SET_PROP_TARGETABLE_SCORE_BIAS `0x0E2B0212`
+
+```cpp
+void SET_PROP_TARGETABLE_SCORE_BIAS(int _Unk0, int _Unk1);
+```

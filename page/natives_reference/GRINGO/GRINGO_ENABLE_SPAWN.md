@@ -1,0 +1,5 @@
+# GRINGO_ENABLE_SPAWN `0xA5EDCA4A`
+
+```cpp
+int GRINGO_ENABLE_SPAWN(int _Unk0, int _Unk1);
+```

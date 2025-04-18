@@ -1,0 +1,5 @@
+# MEMORY_GET_IS_VISIBLE `0x45CE40FD`
+
+```cpp
+int MEMORY_GET_IS_VISIBLE(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# NET_SCRIPTMSG_ISPENDING `0xE2163ECC`
+
+```cpp
+int NET_SCRIPTMSG_ISPENDING(int _Unk0, int _Unk1);
+```

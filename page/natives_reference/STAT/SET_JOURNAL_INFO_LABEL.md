@@ -1,0 +1,5 @@
+# SET_JOURNAL_INFO_LABEL `0x40C2576F`
+
+```cpp
+void SET_JOURNAL_INFO_LABEL(int _Unk0, int _Unk1);
+```

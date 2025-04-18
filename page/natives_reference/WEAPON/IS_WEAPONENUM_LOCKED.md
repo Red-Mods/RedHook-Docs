@@ -1,0 +1,5 @@
+# IS_WEAPONENUM_LOCKED `0xCCE4A339`
+
+```cpp
+int IS_WEAPONENUM_LOCKED(int _Unk0);
+```

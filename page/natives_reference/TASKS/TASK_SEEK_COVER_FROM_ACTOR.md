@@ -1,0 +1,5 @@
+# TASK_SEEK_COVER_FROM_ACTOR `0xE1C8A1B3`
+
+```cpp
+void TASK_SEEK_COVER_FROM_ACTOR(int _Unk0, int _Unk1);
+```

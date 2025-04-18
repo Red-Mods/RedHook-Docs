@@ -1,0 +1,5 @@
+# GET_SHORT_SCRIPT_NAME `0x960DB7A5`
+
+```cpp
+const char* GET_SHORT_SCRIPT_NAME();
+```

@@ -1,0 +1,5 @@
+# GET_WEAPON_IN_HAND_CRC `0x0CDD6F94`
+
+```cpp
+int GET_WEAPON_IN_HAND_CRC(int _Unk0);
+```

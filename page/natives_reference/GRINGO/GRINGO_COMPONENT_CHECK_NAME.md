@@ -1,0 +1,5 @@
+# GRINGO_COMPONENT_CHECK_NAME `0xA766EA5C`
+
+```cpp
+int GRINGO_COMPONENT_CHECK_NAME(int _Unk0, int _Unk1);
+```

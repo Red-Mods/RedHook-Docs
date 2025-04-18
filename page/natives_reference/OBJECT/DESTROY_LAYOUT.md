@@ -1,0 +1,5 @@
+# DESTROY_LAYOUT `0xC1756F39`
+
+```cpp
+void DESTROY_LAYOUT(int _Unk0);
+```

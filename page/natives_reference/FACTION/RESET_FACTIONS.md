@@ -1,0 +1,5 @@
+# RESET_FACTIONS `0x28413943`
+
+```cpp
+void RESET_FACTIONS();
+```

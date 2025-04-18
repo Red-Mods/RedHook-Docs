@@ -1,0 +1,5 @@
+# STRINGS_ARE_EQUAL_CLAMPED `0xEC28CA8E`
+
+```cpp
+int STRINGS_ARE_EQUAL_CLAMPED(int _Unk0, int _Unk1, int _Unk2);
+```

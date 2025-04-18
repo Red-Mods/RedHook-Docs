@@ -1,0 +1,5 @@
+# SET_PHOSPHORUS_AMMO_ACTIVE `0xCA840DBB`
+
+```cpp
+void SET_PHOSPHORUS_AMMO_ACTIVE(bool _Active);
+```

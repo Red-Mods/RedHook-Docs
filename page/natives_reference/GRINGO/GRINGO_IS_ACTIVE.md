@@ -1,0 +1,5 @@
+# GRINGO_IS_ACTIVE `0xB8A48688`
+
+```cpp
+int GRINGO_IS_ACTIVE(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# SET_WEATHER_TYPE_GOOD `0xC4C59CA4`
+
+```cpp
+void SET_WEATHER_TYPE_GOOD(int _Unk0);
+```

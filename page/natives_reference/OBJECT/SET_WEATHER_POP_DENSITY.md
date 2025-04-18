@@ -1,0 +1,5 @@
+# SET_WEATHER_POP_DENSITY `0x03CD9C87`
+
+```cpp
+void SET_WEATHER_POP_DENSITY(int _Unk0, int _Unk1);
+```

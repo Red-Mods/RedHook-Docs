@@ -1,0 +1,5 @@
+# SET_STAMINA_BLINK `0x39F2E5F1`
+
+```cpp
+void SET_STAMINA_BLINK(int _Unk0);
+```

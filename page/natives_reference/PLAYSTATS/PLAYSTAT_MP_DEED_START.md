@@ -1,0 +1,5 @@
+# PLAYSTAT_MP_DEED_START `0x27A00456`
+
+```cpp
+void PLAYSTAT_MP_DEED_START(int _Unk0);
+```

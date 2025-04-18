@@ -1,0 +1,5 @@
+# HORSE_SET_CURR_FRESHNESS `0xF3976D70`
+
+```cpp
+int HORSE_SET_CURR_FRESHNESS(int _Unk0, int _Unk1);
+```

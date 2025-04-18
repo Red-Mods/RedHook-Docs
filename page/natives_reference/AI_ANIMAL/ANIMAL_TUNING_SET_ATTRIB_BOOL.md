@@ -1,0 +1,5 @@
+# ANIMAL_TUNING_SET_ATTRIB_BOOL `0x11150810`
+
+```cpp
+void ANIMAL_TUNING_SET_ATTRIB_BOOL(int _Unk0, int _Unk1, int _Unk2);
+```

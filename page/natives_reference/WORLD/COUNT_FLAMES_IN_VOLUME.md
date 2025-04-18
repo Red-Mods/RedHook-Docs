@@ -1,0 +1,5 @@
+# COUNT_FLAMES_IN_VOLUME `0x3DD3E1EB`
+
+```cpp
+int COUNT_FLAMES_IN_VOLUME(int _Unk0);
+```

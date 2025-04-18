@@ -1,0 +1,5 @@
+# LOAD_AUDIO_SPEECH_DATA `0xBFCF32D9`
+
+```cpp
+int LOAD_AUDIO_SPEECH_DATA(int _Unk0);
+```

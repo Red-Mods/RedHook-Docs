@@ -1,0 +1,5 @@
+# GET_LAYOUT_FROM_OBJECT `0x51D6DA2C`
+
+```cpp
+int GET_LAYOUT_FROM_OBJECT(int _Unk0);
+```

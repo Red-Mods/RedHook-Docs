@@ -1,0 +1,5 @@
+# SQUAD_MAKE_EMPTY `0x90D92CF1`
+
+```cpp
+void SQUAD_MAKE_EMPTY(int _Unk0);
+```

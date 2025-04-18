@@ -1,0 +1,5 @@
+# GRINGO_USABLE_BY_ACTOR_ENUM `0xE2DCFF34`
+
+```cpp
+int GRINGO_USABLE_BY_ACTOR_ENUM(int _Unk0, int _Unk1, int _Unk2);
+```

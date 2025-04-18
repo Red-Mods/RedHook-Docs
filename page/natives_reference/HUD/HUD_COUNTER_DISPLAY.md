@@ -1,0 +1,5 @@
+# HUD_COUNTER_DISPLAY `0x9A35DFC6`
+
+```cpp
+void HUD_COUNTER_DISPLAY(int _Unk0);
+```

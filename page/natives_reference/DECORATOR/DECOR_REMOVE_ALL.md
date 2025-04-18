@@ -1,0 +1,5 @@
+# DECOR_REMOVE_ALL `0xFDB9E349`
+
+```cpp
+int DECOR_REMOVE_ALL(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# _ACTOR_HAS_KO_POINTS `0x7A207FFE`
+
+```cpp
+int _ACTOR_HAS_KO_POINTS(int _Unk0);
+```

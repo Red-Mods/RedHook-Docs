@@ -1,0 +1,5 @@
+# GET_ACTOR_DRAFTED_TO `0xD89C14BA`
+
+```cpp
+int GET_ACTOR_DRAFTED_TO(int _Unk0);
+```

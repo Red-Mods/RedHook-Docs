@@ -1,0 +1,5 @@
+# SET_SAGPLAYER_STAT_FLOAT `0x2104B1C0`
+
+```cpp
+void SET_SAGPLAYER_STAT_FLOAT(int _Unk0, int _Unk1);
+```

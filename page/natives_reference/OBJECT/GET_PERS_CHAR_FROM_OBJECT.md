@@ -1,0 +1,5 @@
+# GET_PERS_CHAR_FROM_OBJECT `0x024B2FFC`
+
+```cpp
+int GET_PERS_CHAR_FROM_OBJECT(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# TERMINATE_SCRIPT `0x60A7FF09`
+
+```cpp
+void TERMINATE_SCRIPT(int _ScriptId);
+```

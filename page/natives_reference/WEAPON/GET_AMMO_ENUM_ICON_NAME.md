@@ -1,0 +1,5 @@
+# GET_AMMO_ENUM_ICON_NAME `0x2AF84928`
+
+```cpp
+int GET_AMMO_ENUM_ICON_NAME(int _Unk0);
+```

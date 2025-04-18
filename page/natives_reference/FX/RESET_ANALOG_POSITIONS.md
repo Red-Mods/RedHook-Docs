@@ -1,0 +1,5 @@
+# RESET_ANALOG_POSITIONS `0x4710FD93`
+
+```cpp
+void RESET_ANALOG_POSITIONS(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# SET_DEADEYE_BLINK `0xA543B120`
+
+```cpp
+void SET_DEADEYE_BLINK(int _Unk0);
+```

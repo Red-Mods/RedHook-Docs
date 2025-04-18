@@ -1,0 +1,5 @@
+# HIDE_RMPTFX_EFFECT `0x21BCC0A9`
+
+```cpp
+int HIDE_RMPTFX_EFFECT(int _Unk0);
+```

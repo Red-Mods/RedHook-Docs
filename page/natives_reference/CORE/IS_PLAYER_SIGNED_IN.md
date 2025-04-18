@@ -1,0 +1,5 @@
+# IS_PLAYER_SIGNED_IN `0xC3C0F1F2`
+
+```cpp
+bool IS_PLAYER_SIGNED_IN();
+```

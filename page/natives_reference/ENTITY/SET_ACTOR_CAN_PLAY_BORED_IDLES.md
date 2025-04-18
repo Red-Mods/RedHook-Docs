@@ -1,0 +1,5 @@
+# SET_ACTOR_CAN_PLAY_BORED_IDLES `0x0B5E1904`
+
+```cpp
+void SET_ACTOR_CAN_PLAY_BORED_IDLES(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# IS_VEHICLE_ENGINE_RUNNING `0x8257A916`
+
+```cpp
+bool IS_VEHICLE_ENGINE_RUNNING(Vehicle _Vehicle);
+```

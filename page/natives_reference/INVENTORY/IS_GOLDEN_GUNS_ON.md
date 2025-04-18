@@ -1,0 +1,5 @@
+# IS_GOLDEN_GUNS_ON `0x80B30545`
+
+```cpp
+bool IS_GOLDEN_GUNS_ON();
+```

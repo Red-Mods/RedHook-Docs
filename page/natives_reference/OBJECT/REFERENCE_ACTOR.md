@@ -1,0 +1,5 @@
+# REFERENCE_ACTOR `0xE9AABF2F`
+
+```cpp
+void REFERENCE_ACTOR(int _Unk0);
+```

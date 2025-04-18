@@ -1,0 +1,5 @@
+# LINK_OBJECT_ANIMATOR_TO_ACTOR `0xBEDB066C`
+
+```cpp
+int LINK_OBJECT_ANIMATOR_TO_ACTOR(int _Unk0, int _Unk1, int _Unk2);
+```

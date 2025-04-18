@@ -1,0 +1,5 @@
+# SET_ACTOR_ALLOW_BUMP_REACTIONS `0xC52B5F18`
+
+```cpp
+void SET_ACTOR_ALLOW_BUMP_REACTIONS(int _Unk0, int _Unk1);
+```

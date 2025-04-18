@@ -1,0 +1,5 @@
+# STOP_FORCE_LOOK_AT_COORD `0x6C194C1F`
+
+```cpp
+void STOP_FORCE_LOOK_AT_COORD(int _Unk0);
+```

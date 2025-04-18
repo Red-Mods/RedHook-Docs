@@ -1,0 +1,5 @@
+# UI_CHALLENGE_SET_OBJECTIVE `0x9CF5C747`
+
+```cpp
+void UI_CHALLENGE_SET_OBJECTIVE(int _Unk0, int _Unk1, int _Unk2);
+```

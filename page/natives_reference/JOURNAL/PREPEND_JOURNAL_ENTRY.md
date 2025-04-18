@@ -1,0 +1,5 @@
+# PREPEND_JOURNAL_ENTRY `0x87DC7F5B`
+
+```cpp
+void PREPEND_JOURNAL_ENTRY(int _Unk0, int _Unk1);
+```

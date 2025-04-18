@@ -1,0 +1,5 @@
+# GET_CRIME_OBJECTSET `0x72C52B55`
+
+```cpp
+int GET_CRIME_OBJECTSET(int _Unk0);
+```

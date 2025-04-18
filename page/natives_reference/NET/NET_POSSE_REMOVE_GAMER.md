@@ -1,0 +1,5 @@
+# NET_POSSE_REMOVE_GAMER `0x98A5CDC5`
+
+```cpp
+int NET_POSSE_REMOVE_GAMER(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# TASK_OVERRIDE_SET_MOVETYPE `0x172477F0`
+
+```cpp
+void TASK_OVERRIDE_SET_MOVETYPE(int _Unk0, int _Unk1);
+```

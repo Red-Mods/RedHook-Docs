@@ -1,0 +1,5 @@
+# GET_WEAPON_ENUM_FROM_CRC `0x2776B0F5`
+
+```cpp
+int GET_WEAPON_ENUM_FROM_CRC(int _Unk0);
+```

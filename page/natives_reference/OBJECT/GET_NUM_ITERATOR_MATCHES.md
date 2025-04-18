@@ -1,0 +1,5 @@
+# GET_NUM_ITERATOR_MATCHES `0xA3874D8A`
+
+```cpp
+int GET_NUM_ITERATOR_MATCHES(int _Unk0);
+```

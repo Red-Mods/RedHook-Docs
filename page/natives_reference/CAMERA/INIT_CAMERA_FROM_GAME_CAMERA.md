@@ -1,0 +1,5 @@
+# INIT_CAMERA_FROM_GAME_CAMERA `0x2615309A`
+
+```cpp
+void INIT_CAMERA_FROM_GAME_CAMERA(Camera _Camera);
+```

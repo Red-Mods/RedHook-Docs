@@ -1,0 +1,5 @@
+# NET_AUTHENTICATE_GAMER `0x8E0D7219`
+
+```cpp
+int NET_AUTHENTICATE_GAMER(int _Unk0, int _Unk1);
+```

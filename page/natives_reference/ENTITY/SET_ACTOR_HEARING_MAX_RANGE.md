@@ -1,0 +1,5 @@
+# SET_ACTOR_HEARING_MAX_RANGE `0x55AACDFD`
+
+```cpp
+int SET_ACTOR_HEARING_MAX_RANGE(int _Unk0, int _Unk1);
+```

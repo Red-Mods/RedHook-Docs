@@ -1,0 +1,5 @@
+# _SET_MELEE_MARKER_SIZE `0x1182C34F`
+
+```cpp
+void _SET_MELEE_MARKER_SIZE(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# INIT_NATIVE_ACTORENUM_DLC_HUMAN `0x1957B498`
+
+```cpp
+void INIT_NATIVE_ACTORENUM_DLC_HUMAN(int _Unk0, int _Unk1, int _Unk2, int _Unk3);
+```

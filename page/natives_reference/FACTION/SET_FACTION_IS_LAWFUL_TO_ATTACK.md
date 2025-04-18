@@ -1,0 +1,5 @@
+# SET_FACTION_IS_LAWFUL_TO_ATTACK `0xDCB960C5`
+
+```cpp
+void SET_FACTION_IS_LAWFUL_TO_ATTACK(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# SET_LIGHTNING_AMOUNT `0xF0C9645A`
+
+```cpp
+void SET_LIGHTNING_AMOUNT(float _Amount);
+```

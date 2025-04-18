@@ -1,0 +1,5 @@
+# _IS_CLIENT_DATA_VALID_FOR_SLOT `0xF81E2097`
+
+```cpp
+int _IS_CLIENT_DATA_VALID_FOR_SLOT(int _Unk0, int _Unk1);
+```

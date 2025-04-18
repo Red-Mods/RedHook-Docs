@@ -1,0 +1,5 @@
+# COMBAT_CLASS_AI_SET_ATTRIB_BOOL `0x69C5ADD2`
+
+```cpp
+void COMBAT_CLASS_AI_SET_ATTRIB_BOOL(int _Unk0, int _Unk1, int _Unk2);
+```

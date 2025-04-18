@@ -1,0 +1,5 @@
+# UI_CHEAT_GET_VALUE `0x94F5E63F`
+
+```cpp
+int UI_CHEAT_GET_VALUE(int _Unk0);
+```

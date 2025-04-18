@@ -1,0 +1,5 @@
+# MEMORY_GET_WAS_VISIBLE_WITHIN_TIME `0xC407497F`
+
+```cpp
+int MEMORY_GET_WAS_VISIBLE_WITHIN_TIME(int _Unk0, int _Unk1, int _Unk2);
+```

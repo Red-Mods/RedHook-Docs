@@ -1,0 +1,5 @@
+# DESTROY_LAYOUT_OBJECTS `0x28A2A4CC`
+
+```cpp
+void DESTROY_LAYOUT_OBJECTS(int _Unk0);
+```

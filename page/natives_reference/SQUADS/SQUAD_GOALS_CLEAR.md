@@ -1,0 +1,5 @@
+# SQUAD_GOALS_CLEAR `0xCA950EF0`
+
+```cpp
+void SQUAD_GOALS_CLEAR(int _Unk0);
+```

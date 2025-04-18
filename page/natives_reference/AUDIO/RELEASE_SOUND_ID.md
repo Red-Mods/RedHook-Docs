@@ -1,0 +1,5 @@
+# RELEASE_SOUND_ID `0x9C080899`
+
+```cpp
+void RELEASE_SOUND_ID(int _Unk0);
+```

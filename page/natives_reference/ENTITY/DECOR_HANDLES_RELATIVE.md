@@ -1,0 +1,5 @@
+# DECOR_HANDLES_RELATIVE `0x8DAC4359`
+
+```cpp
+int DECOR_HANDLES_RELATIVE(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# GET_LAST_ATTACK_TIME `0x69FA5315`
+
+```cpp
+int GET_LAST_ATTACK_TIME(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# REMOVE_ALL_PICKUPS `0x04BF00F0`
+
+```cpp
+void REMOVE_ALL_PICKUPS();
+```

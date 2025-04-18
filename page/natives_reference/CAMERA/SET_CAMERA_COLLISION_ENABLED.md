@@ -1,0 +1,5 @@
+# SET_CAMERA_COLLISION_ENABLED `0x7DA71AA7`
+
+```cpp
+void SET_CAMERA_COLLISION_ENABLED(int _Unk0, int _Unk1);
+```

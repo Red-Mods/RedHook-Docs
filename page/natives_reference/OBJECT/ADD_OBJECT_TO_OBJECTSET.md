@@ -1,0 +1,5 @@
+# ADD_OBJECT_TO_OBJECTSET `0x43FBBDE1`
+
+```cpp
+int ADD_OBJECT_TO_OBJECTSET(int _Unk0, int _Unk1);
+```

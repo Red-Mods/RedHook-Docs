@@ -1,0 +1,5 @@
+# COMBAT_CLASS_NAME_REGISTER_INT `0x8DE6AF29`
+
+```cpp
+void COMBAT_CLASS_NAME_REGISTER_INT(int _Unk0, int _Unk1);
+```

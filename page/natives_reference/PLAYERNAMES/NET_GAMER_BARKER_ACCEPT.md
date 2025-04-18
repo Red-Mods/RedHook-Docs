@@ -1,0 +1,5 @@
+# NET_GAMER_BARKER_ACCEPT `0xCE8F6304`
+
+```cpp
+void NET_GAMER_BARKER_ACCEPT(int _Unk0);
+```

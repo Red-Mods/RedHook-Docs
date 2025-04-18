@@ -1,0 +1,5 @@
+# ACTOR_GET_ITEM_CRC_AT_INDEX `0x7BF75BCE`
+
+```cpp
+int ACTOR_GET_ITEM_CRC_AT_INDEX(int _Unk0, int _Unk1);
+```

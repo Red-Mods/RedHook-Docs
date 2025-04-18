@@ -1,0 +1,5 @@
+# SET_ACTOR_SHOULD_TAUNT `0x199600FA`
+
+```cpp
+void SET_ACTOR_SHOULD_TAUNT(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# AI_PREDICATE_FIND_NAMED `0x31D76951`
+
+```cpp
+int AI_PREDICATE_FIND_NAMED(int _Unk0, int _Unk1);
+```

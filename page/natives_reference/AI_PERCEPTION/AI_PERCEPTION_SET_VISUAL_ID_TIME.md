@@ -1,0 +1,5 @@
+# AI_PERCEPTION_SET_VISUAL_ID_TIME `0xD786E8C7`
+
+```cpp
+void AI_PERCEPTION_SET_VISUAL_ID_TIME(int _Unk0, int _Unk1);
+```

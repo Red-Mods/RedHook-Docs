@@ -1,0 +1,5 @@
+# GET_GRAVE_FROM_OBJECT `0xA90E602F`
+
+```cpp
+int GET_GRAVE_FROM_OBJECT(int _Unk0);
+```

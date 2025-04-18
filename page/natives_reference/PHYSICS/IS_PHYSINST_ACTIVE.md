@@ -1,0 +1,5 @@
+# IS_PHYSINST_ACTIVE `0xAFB1DFA2`
+
+```cpp
+bool IS_PHYSINST_ACTIVE(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# NET_PLAYER_LIST_SET_TITLE `0x0547A660`
+
+```cpp
+void NET_PLAYER_LIST_SET_TITLE(int _Unk0);
+```

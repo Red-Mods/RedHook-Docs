@@ -1,0 +1,5 @@
+# SAVE_MANAGER_SET_SAVE_VERSION `0x8E867DDD`
+
+```cpp
+const char* SAVE_MANAGER_SET_SAVE_VERSION(const char* _Unk0);
+```

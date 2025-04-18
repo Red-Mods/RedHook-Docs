@@ -1,0 +1,5 @@
+# GET_DISTRICTS_NAME `0x0B2D5E4B`
+
+```cpp
+const char* GET_DISTRICTS_NAME();
+```

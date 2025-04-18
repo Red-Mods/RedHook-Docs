@@ -1,0 +1,5 @@
+# GET_PHYSINST_FROM_ACTOR `0x758F993A`
+
+```cpp
+int GET_PHYSINST_FROM_ACTOR(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# IS_ACTOR_READY_FOR_ACTION `0xFB2B0CCF`
+
+```cpp
+int IS_ACTOR_READY_FOR_ACTION(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# GET_USER_DEFINED_WAYPOINT `0x82F63365`
+
+```cpp
+bool GET_USER_DEFINED_WAYPOINT(Vector3* _Position);
+```

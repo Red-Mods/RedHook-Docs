@@ -1,0 +1,5 @@
+# ZOMBIE_DLC_LOAD_ASSETS `0x4A8066FB`
+
+```cpp
+bool ZOMBIE_DLC_LOAD_ASSETS();
+```

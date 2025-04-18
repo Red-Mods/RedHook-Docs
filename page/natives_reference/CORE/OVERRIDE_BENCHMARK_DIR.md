@@ -1,0 +1,5 @@
+# OVERRIDE_BENCHMARK_DIR `0xE8AB1D5B`
+
+```cpp
+const char* OVERRIDE_BENCHMARK_DIR(int _Unk0);
+```

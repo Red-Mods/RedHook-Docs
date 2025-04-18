@@ -1,0 +1,5 @@
+# STRINGTABLE_LENGTH `0x71D550C6`
+
+```cpp
+int STRINGTABLE_LENGTH(int _Unk0);
+```

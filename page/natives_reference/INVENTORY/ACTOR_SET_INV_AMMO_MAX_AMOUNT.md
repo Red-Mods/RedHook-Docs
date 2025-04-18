@@ -1,0 +1,5 @@
+# ACTOR_SET_INV_AMMO_MAX_AMOUNT `0x6ADAAD87`
+
+```cpp
+void ACTOR_SET_INV_AMMO_MAX_AMOUNT(int _Unk0, int _Unk1, int _Unk2);
+```

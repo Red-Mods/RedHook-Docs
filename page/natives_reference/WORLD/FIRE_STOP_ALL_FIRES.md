@@ -1,0 +1,5 @@
+# FIRE_STOP_ALL_FIRES `0x15001332`
+
+```cpp
+void FIRE_STOP_ALL_FIRES();
+```

@@ -1,0 +1,5 @@
+# UI_SET_HAS_CHEATED `0x7D0EFDD8`
+
+```cpp
+void UI_SET_HAS_CHEATED(int _Unk0);
+```

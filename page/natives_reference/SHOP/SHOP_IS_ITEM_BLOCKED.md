@@ -1,0 +1,5 @@
+# SHOP_IS_ITEM_BLOCKED `0xB954DE78`
+
+```cpp
+int SHOP_IS_ITEM_BLOCKED(int _Unk0);
+```

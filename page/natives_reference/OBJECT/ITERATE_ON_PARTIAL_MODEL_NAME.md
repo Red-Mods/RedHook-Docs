@@ -1,0 +1,5 @@
+# ITERATE_ON_PARTIAL_MODEL_NAME `0xD117DF0D`
+
+```cpp
+void ITERATE_ON_PARTIAL_MODEL_NAME(int _Unk0, int _Unk1);
+```

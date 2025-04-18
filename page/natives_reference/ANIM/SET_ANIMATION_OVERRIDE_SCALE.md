@@ -1,0 +1,5 @@
+# SET_ANIMATION_OVERRIDE_SCALE `0x3E30A514`
+
+```cpp
+void SET_ANIMATION_OVERRIDE_SCALE(int _Unk0, int _Unk1);
+```

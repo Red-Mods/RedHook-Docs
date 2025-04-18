@@ -1,0 +1,5 @@
+# STREAMING_REQUEST_PROP `0x38DC1F50`
+
+```cpp
+bool STREAMING_REQUEST_PROP(int _AssetId, bool _Unk);
+```

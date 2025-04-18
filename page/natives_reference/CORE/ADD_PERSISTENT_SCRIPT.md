@@ -1,0 +1,5 @@
+# ADD_PERSISTENT_SCRIPT `0x2F109475`
+
+```cpp
+void ADD_PERSISTENT_SCRIPT(int _ScriptId);
+```

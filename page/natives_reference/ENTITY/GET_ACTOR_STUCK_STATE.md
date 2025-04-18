@@ -1,0 +1,5 @@
+# GET_ACTOR_STUCK_STATE `0x7B4F9EAC`
+
+```cpp
+int GET_ACTOR_STUCK_STATE(int _Unk0);
+```

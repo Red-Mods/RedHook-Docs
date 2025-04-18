@@ -1,0 +1,5 @@
+# GRINGO_IS_CAPABLE_OF_USE `0x3DEA631B`
+
+```cpp
+int GRINGO_IS_CAPABLE_OF_USE(int _Unk0, int _Unk1);
+```

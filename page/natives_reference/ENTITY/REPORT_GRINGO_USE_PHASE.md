@@ -1,0 +1,5 @@
+# REPORT_GRINGO_USE_PHASE `0xA41B161C`
+
+```cpp
+void REPORT_GRINGO_USE_PHASE(int _Unk0, int _Unk1);
+```

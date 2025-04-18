@@ -1,0 +1,5 @@
+# GET_NUM_AVAILABLE_SEATS `0x3ACE659E`
+
+```cpp
+int GET_NUM_AVAILABLE_SEATS(Vehicle _Vehicle);
+```

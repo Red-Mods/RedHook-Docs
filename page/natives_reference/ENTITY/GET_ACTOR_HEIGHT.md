@@ -1,0 +1,5 @@
+# GET_ACTOR_HEIGHT `0xE173CE48`
+
+```cpp
+int GET_ACTOR_HEIGHT(int _Unk0);
+```

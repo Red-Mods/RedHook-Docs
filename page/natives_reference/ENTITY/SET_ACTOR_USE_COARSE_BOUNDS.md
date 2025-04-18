@@ -1,0 +1,5 @@
+# SET_ACTOR_USE_COARSE_BOUNDS `0x63925367`
+
+```cpp
+int SET_ACTOR_USE_COARSE_BOUNDS(int _Unk0, int _Unk1);
+```

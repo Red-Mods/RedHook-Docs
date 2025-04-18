@@ -1,0 +1,5 @@
+# _GET_VECTOR_HEADING_RADS `0xADF7D54B`
+
+```cpp
+int _GET_VECTOR_HEADING_RADS(int _Unk0);
+```

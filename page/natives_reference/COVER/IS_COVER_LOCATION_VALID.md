@@ -1,0 +1,5 @@
+# IS_COVER_LOCATION_VALID `0x90AD2C2D`
+
+```cpp
+bool IS_COVER_LOCATION_VALID(int _Unk0);
+```

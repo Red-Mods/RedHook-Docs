@@ -1,0 +1,5 @@
+# TRANSFORM_OBJECT_RELATIVE `0xC15C3361`
+
+```cpp
+int TRANSFORM_OBJECT_RELATIVE(int _Unk0, int _Unk1);
+```

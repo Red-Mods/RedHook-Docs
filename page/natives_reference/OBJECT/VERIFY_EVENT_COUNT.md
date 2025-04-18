@@ -1,0 +1,5 @@
+# VERIFY_EVENT_COUNT `0x24F3A0DB`
+
+```cpp
+void VERIFY_EVENT_COUNT(int _Unk0);
+```

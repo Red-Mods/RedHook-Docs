@@ -1,0 +1,5 @@
+# MEMORY_CLEAR_ALL `0x4485B246`
+
+```cpp
+void MEMORY_CLEAR_ALL(int _Unk0);
+```

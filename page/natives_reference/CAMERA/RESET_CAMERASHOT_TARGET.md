@@ -1,0 +1,5 @@
+# RESET_CAMERASHOT_TARGET `0xC3DDCE4D`
+
+```cpp
+void RESET_CAMERASHOT_TARGET(int _Unk0, int _Unk1);
+```

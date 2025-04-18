@@ -1,0 +1,5 @@
+# AI_PREDICATE_OVERRIDE_SET_BOOL `0x1117C85A`
+
+```cpp
+void AI_PREDICATE_OVERRIDE_SET_BOOL(int _Unk0, int _Unk1, int _Unk2);
+```

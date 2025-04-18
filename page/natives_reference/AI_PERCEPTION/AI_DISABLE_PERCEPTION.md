@@ -1,0 +1,5 @@
+# AI_DISABLE_PERCEPTION `0x8BBB7B12`
+
+```cpp
+void AI_DISABLE_PERCEPTION(int _Unk0);
+```

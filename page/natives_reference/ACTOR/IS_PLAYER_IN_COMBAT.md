@@ -1,0 +1,5 @@
+# IS_PLAYER_IN_COMBAT `0x6576AD43`
+
+```cpp
+int IS_PLAYER_IN_COMBAT(int _Unk0);
+```

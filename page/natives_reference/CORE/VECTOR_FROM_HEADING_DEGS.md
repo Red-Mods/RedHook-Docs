@@ -1,0 +1,5 @@
+# VECTOR_FROM_HEADING_DEGS `0x44986367`
+
+```cpp
+void VECTOR_FROM_HEADING_DEGS(int _Unk0, int _Unk1);
+```

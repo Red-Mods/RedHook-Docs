@@ -1,0 +1,5 @@
+# DLC_INIT_CONTENT `0xEC86DB0E`
+
+```cpp
+int DLC_INIT_CONTENT();
+```

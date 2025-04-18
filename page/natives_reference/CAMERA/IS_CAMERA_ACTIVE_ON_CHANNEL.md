@@ -1,0 +1,5 @@
+# IS_CAMERA_ACTIVE_ON_CHANNEL `0x02BD5362`
+
+```cpp
+int IS_CAMERA_ACTIVE_ON_CHANNEL(int _Unk0, int _Unk1);
+```

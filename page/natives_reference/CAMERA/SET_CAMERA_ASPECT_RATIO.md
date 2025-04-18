@@ -1,0 +1,5 @@
+# SET_CAMERA_ASPECT_RATIO `0xFAEE2667`
+
+```cpp
+void SET_CAMERA_ASPECT_RATIO(int _Unk0, int _Unk1);
+```

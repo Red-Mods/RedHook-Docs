@@ -1,0 +1,5 @@
+# NET_PLAYER_LIST_SET_TEAM_SCORE `0x84CD0651`
+
+```cpp
+void NET_PLAYER_LIST_SET_TEAM_SCORE(int _Unk0, int _Unk1, int _Unk2);
+```

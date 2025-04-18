@@ -1,0 +1,5 @@
+# UI_IS_MESSAGE_QUEUE_EMPTY `0x941FC468`
+
+```cpp
+int UI_IS_MESSAGE_QUEUE_EMPTY(int _Unk0);
+```

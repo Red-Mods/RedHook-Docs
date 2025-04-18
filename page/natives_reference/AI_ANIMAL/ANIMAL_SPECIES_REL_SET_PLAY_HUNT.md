@@ -1,0 +1,5 @@
+# ANIMAL_SPECIES_REL_SET_PLAY_HUNT `0x3F747178`
+
+```cpp
+void ANIMAL_SPECIES_REL_SET_PLAY_HUNT(int _Unk0, int _Unk1, int _Unk2);
+```

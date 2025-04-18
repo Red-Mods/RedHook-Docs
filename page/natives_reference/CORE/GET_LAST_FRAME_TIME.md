@@ -1,0 +1,5 @@
+# GET_LAST_FRAME_TIME `0x59466B4D`
+
+```cpp
+float GET_LAST_FRAME_TIME();
+```

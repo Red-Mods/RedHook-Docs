@@ -1,0 +1,5 @@
+# NET_OBJECT_LOCK_OWNERSHIP `0x8C7E41E2`
+
+```cpp
+int NET_OBJECT_LOCK_OWNERSHIP(int _Unk0, int _Unk1);
+```

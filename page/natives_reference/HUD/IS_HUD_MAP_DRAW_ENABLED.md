@@ -1,0 +1,5 @@
+# IS_HUD_MAP_DRAW_ENABLED `0xF5B7B208`
+
+```cpp
+bool IS_HUD_MAP_DRAW_ENABLED();
+```

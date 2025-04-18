@@ -1,0 +1,5 @@
+# AI_CLEAR_DONT_HARM_ACTOR `0xA737CCAC`
+
+```cpp
+void AI_CLEAR_DONT_HARM_ACTOR(int _Unk0);
+```

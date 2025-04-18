@@ -1,0 +1,5 @@
+# AI_ENABLE_PERCEPTION `0xAF77C42E`
+
+```cpp
+void AI_ENABLE_PERCEPTION(int _Unk0);
+```

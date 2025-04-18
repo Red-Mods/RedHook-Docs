@@ -1,0 +1,5 @@
+# ALLOW_TUMBLEWEEDS `0xFDE8DFCE`
+
+```cpp
+void ALLOW_TUMBLEWEEDS(int _Unk0);
+```

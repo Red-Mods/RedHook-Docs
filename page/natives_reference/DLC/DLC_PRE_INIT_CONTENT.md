@@ -1,0 +1,5 @@
+# DLC_PRE_INIT_CONTENT `0x0728B211`
+
+```cpp
+const char* DLC_PRE_INIT_CONTENT();
+```

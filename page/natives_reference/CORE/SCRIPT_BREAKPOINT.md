@@ -1,0 +1,5 @@
+# SCRIPT_BREAKPOINT `0xA81DABA3`
+
+```cpp
+void SCRIPT_BREAKPOINT(int _Unk0);
+```

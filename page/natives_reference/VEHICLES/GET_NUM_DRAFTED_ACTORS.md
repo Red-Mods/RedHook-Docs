@@ -1,0 +1,5 @@
+# GET_NUM_DRAFTED_ACTORS `0xDAB0D820`
+
+```cpp
+int GET_NUM_DRAFTED_ACTORS(int _Unk0);
+```

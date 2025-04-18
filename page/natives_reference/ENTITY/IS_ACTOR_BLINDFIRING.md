@@ -1,0 +1,5 @@
+# IS_ACTOR_BLINDFIRING `0x6396ABB7`
+
+```cpp
+int IS_ACTOR_BLINDFIRING(int _Unk0);
+```

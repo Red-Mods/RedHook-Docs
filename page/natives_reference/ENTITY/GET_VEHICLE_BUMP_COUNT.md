@@ -1,0 +1,5 @@
+# GET_VEHICLE_BUMP_COUNT `0x04CF7C3E`
+
+```cpp
+int GET_VEHICLE_BUMP_COUNT(int _Unk0);
+```

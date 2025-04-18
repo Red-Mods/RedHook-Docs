@@ -1,0 +1,5 @@
+# SATCHEL_SET_OUTFIT_TEXTURE `0x23EB81F0`
+
+```cpp
+void SATCHEL_SET_OUTFIT_TEXTURE(int _Unk0, int _Unk1);
+```

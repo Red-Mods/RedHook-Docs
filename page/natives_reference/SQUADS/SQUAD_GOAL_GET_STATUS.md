@@ -1,0 +1,5 @@
+# SQUAD_GOAL_GET_STATUS `0xC6AF3662`
+
+```cpp
+int SQUAD_GOAL_GET_STATUS(int _Unk0, int _Unk1);
+```

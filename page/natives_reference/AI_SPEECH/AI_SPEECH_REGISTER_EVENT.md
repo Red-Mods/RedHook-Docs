@@ -1,0 +1,5 @@
+# AI_SPEECH_REGISTER_EVENT `0xDD925074`
+
+```cpp
+void AI_SPEECH_REGISTER_EVENT(int _Unk0, int _Unk1);
+```

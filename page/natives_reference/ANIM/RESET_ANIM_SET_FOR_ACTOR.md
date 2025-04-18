@@ -1,0 +1,5 @@
+# RESET_ANIM_SET_FOR_ACTOR `0x7A6C5C2F`
+
+```cpp
+void RESET_ANIM_SET_FOR_ACTOR(int _Unk0, int _Unk1);
+```

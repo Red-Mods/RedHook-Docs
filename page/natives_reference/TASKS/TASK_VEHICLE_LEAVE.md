@@ -1,0 +1,5 @@
+# TASK_VEHICLE_LEAVE `0x6C1218A4`
+
+```cpp
+void TASK_VEHICLE_LEAVE(int _Unk0);
+```

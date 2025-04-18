@@ -1,0 +1,5 @@
+# GAME_ESTIMATE_MOUNT `0xBD3A0E6D`
+
+```cpp
+void GAME_ESTIMATE_MOUNT(int _Unk0);
+```

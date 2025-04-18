@@ -1,0 +1,5 @@
+# SET_PLAYER_PERFECT_ACCURACY `0x5F566576`
+
+```cpp
+void SET_PLAYER_PERFECT_ACCURACY(Player _Player, bool _Enabled);
+```

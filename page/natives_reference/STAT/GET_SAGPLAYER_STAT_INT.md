@@ -1,0 +1,5 @@
+# GET_SAGPLAYER_STAT_INT `0xE623B382`
+
+```cpp
+int GET_SAGPLAYER_STAT_INT(int _Unk0);
+```

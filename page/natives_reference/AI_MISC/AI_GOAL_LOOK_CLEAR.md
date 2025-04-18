@@ -1,0 +1,5 @@
+# AI_GOAL_LOOK_CLEAR `0x6AF3E54E`
+
+```cpp
+void AI_GOAL_LOOK_CLEAR(int _Unk0);
+```

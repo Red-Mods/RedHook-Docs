@@ -1,0 +1,5 @@
+# SET_ACTOR_CAN_BE_TARGETED `0xF1607937`
+
+```cpp
+void SET_ACTOR_CAN_BE_TARGETED(int _Unk0, int _Unk1);
+```

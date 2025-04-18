@@ -1,0 +1,5 @@
+# SET_CUTSCENEINPUTS_TARGET_GUID `0xF74B5ADE`
+
+```cpp
+int SET_CUTSCENEINPUTS_TARGET_GUID(int _Unk0, int _Unk1, int _Unk2);
+```

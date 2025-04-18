@@ -1,0 +1,5 @@
+# CURVE_CALCULATE_DISTANCE_BY_STEP_SIZE `0x39DA0B3A`
+
+```cpp
+int CURVE_CALCULATE_DISTANCE_BY_STEP_SIZE(int _Unk0, int _Unk1, int _Unk2, int _Unk3);
+```

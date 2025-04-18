@@ -1,0 +1,5 @@
+# GET_CURRENT_GRINGO `0x5D9DB7A5`
+
+```cpp
+int GET_CURRENT_GRINGO(int _Unk0);
+```

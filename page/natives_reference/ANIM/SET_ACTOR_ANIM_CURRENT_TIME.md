@@ -1,0 +1,5 @@
+# SET_ACTOR_ANIM_CURRENT_TIME `0x8626C1A0`
+
+```cpp
+int SET_ACTOR_ANIM_CURRENT_TIME(int _Unk0, int _Unk1);
+```

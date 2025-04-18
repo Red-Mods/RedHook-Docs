@@ -1,0 +1,5 @@
+# SET_ACTOR_VISION_FIELD_OF_VIEW `0xF8F3FE84`
+
+```cpp
+void SET_ACTOR_VISION_FIELD_OF_VIEW(Actor _Actor, int _Value);
+```

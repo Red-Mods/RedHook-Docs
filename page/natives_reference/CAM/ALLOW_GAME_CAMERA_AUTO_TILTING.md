@@ -1,0 +1,5 @@
+# ALLOW_GAME_CAMERA_AUTO_TILTING `0x9603D3B2`
+
+```cpp
+void ALLOW_GAME_CAMERA_AUTO_TILTING(int _Unk0, int _Unk1);
+```

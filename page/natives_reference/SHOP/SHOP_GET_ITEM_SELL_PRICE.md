@@ -1,0 +1,5 @@
+# SHOP_GET_ITEM_SELL_PRICE `0x42CBA241`
+
+```cpp
+int SHOP_GET_ITEM_SELL_PRICE(int _Unk0);
+```

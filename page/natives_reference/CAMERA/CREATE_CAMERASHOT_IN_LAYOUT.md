@@ -1,0 +1,5 @@
+# CREATE_CAMERASHOT_IN_LAYOUT `0x54A417F3`
+
+```cpp
+int CREATE_CAMERASHOT_IN_LAYOUT(int _Unk0, int _Unk1);
+```

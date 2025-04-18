@@ -1,0 +1,5 @@
+# SQUAD_GOAL_IS_VALID `0xFAD7A113`
+
+```cpp
+int SQUAD_GOAL_IS_VALID(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# GATEWAY_GET_MARKER `0xB62A4FB1`
+
+```cpp
+int GATEWAY_GET_MARKER(int _Unk0);
+```

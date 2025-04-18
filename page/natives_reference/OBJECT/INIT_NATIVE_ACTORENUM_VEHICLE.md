@@ -1,0 +1,5 @@
+# INIT_NATIVE_ACTORENUM_VEHICLE `0x6D0B8619`
+
+```cpp
+void INIT_NATIVE_ACTORENUM_VEHICLE(int _Unk0, int _Unk1, int _Unk2, int _Unk3);
+```

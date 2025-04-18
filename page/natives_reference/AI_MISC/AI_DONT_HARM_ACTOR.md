@@ -1,0 +1,5 @@
+# AI_DONT_HARM_ACTOR `0xB421AFCA`
+
+```cpp
+void AI_DONT_HARM_ACTOR(int _Unk0);
+```

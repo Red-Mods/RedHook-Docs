@@ -1,0 +1,5 @@
+# GET_TOTAL_MINUTES `0xC52F07A8`
+
+```cpp
+int GET_TOTAL_MINUTES(int _Unk0);
+```

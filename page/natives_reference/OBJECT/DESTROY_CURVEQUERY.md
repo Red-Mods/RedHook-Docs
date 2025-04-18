@@ -1,0 +1,5 @@
+# DESTROY_CURVEQUERY `0xDF93BD7C`
+
+```cpp
+void DESTROY_CURVEQUERY(int _Unk0);
+```

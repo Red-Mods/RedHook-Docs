@@ -1,0 +1,5 @@
+# OBJECT_ITERATOR_RESET `0x351A482F`
+
+```cpp
+void OBJECT_ITERATOR_RESET(int _Unk0);
+```

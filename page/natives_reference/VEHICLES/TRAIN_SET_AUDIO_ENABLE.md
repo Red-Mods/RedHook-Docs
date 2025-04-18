@@ -1,0 +1,5 @@
+# TRAIN_SET_AUDIO_ENABLE `0x6A9C8E5B`
+
+```cpp
+void TRAIN_SET_AUDIO_ENABLE(int _Unk0, int _Unk1);
+```

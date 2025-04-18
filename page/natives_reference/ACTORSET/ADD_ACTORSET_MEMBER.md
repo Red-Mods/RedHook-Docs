@@ -1,0 +1,5 @@
+# ADD_ACTORSET_MEMBER `0xE09DB6C1`
+
+```cpp
+int ADD_ACTORSET_MEMBER(int _Unk0, int _Unk1);
+```

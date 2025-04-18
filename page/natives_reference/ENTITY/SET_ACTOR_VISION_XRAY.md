@@ -1,0 +1,5 @@
+# SET_ACTOR_VISION_XRAY `0x8D5175A8`
+
+```cpp
+int SET_ACTOR_VISION_XRAY(int _Unk0, int _Unk1);
+```

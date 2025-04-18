@@ -1,0 +1,5 @@
+# IS_JOURNAL_ENTRY_IN_LIST `0xC17FE40A`
+
+```cpp
+int IS_JOURNAL_ENTRY_IN_LIST(int _Unk0, int _Unk1);
+```

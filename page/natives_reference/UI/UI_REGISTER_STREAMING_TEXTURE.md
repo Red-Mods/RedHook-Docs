@@ -1,0 +1,5 @@
+# UI_REGISTER_STREAMING_TEXTURE `0x1F9EE9E1`
+
+```cpp
+void UI_REGISTER_STREAMING_TEXTURE(int _Unk0, int _Unk1, int _Unk2, int _Unk3);
+```

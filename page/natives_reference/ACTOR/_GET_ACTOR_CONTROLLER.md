@@ -1,0 +1,5 @@
+# _GET_ACTOR_CONTROLLER `0x524F6981`
+
+```cpp
+Controller _GET_ACTOR_CONTROLLER(int ActorId);
+```

@@ -1,0 +1,5 @@
+# ACTOR_DRAW_ANY_WEAPON `0xD86BFBD8`
+
+```cpp
+int ACTOR_DRAW_ANY_WEAPON(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# NET_XP_TOTAL_REPORT_CHANGE `0xA6403262`
+
+```cpp
+void NET_XP_TOTAL_REPORT_CHANGE(int _Unk0, int _Unk1);
+```

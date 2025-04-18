@@ -1,0 +1,5 @@
+# COMBAT_CLASS_AI_SET_ATTRIB_FLOAT `0x80D51606`
+
+```cpp
+void COMBAT_CLASS_AI_SET_ATTRIB_FLOAT(int _Unk0, int _Unk1, int _Unk2);
+```

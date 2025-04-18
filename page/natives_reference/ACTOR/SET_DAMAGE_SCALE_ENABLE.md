@@ -1,0 +1,5 @@
+# SET_DAMAGE_SCALE_ENABLE `0xDA0CDC91`
+
+```cpp
+void SET_DAMAGE_SCALE_ENABLE(int _Unk0, int _Unk1);
+```

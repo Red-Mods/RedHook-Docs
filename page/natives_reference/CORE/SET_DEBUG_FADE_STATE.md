@@ -1,0 +1,5 @@
+# SET_DEBUG_FADE_STATE `0x73BE57AF`
+
+```cpp
+void SET_DEBUG_FADE_STATE(int _Unk0);
+```

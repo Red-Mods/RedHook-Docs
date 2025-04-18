@@ -1,0 +1,5 @@
+# _SET_BLIP_HEIGHT_ENABLED `0x6077F3AE`
+
+```cpp
+void _SET_BLIP_HEIGHT_ENABLED(int _Unk0, int _Unk1);
+```

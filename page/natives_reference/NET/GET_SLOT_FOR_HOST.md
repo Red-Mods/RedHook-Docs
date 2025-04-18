@@ -1,0 +1,5 @@
+# GET_SLOT_FOR_HOST `0x860FCDBD`
+
+```cpp
+int GET_SLOT_FOR_HOST();
+```

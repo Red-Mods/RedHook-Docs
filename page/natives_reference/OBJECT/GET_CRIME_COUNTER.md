@@ -1,0 +1,5 @@
+# GET_CRIME_COUNTER `0xB52BA7E6`
+
+```cpp
+int GET_CRIME_COUNTER(int _Unk0);
+```

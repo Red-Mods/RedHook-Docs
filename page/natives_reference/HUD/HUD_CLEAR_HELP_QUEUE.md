@@ -1,0 +1,5 @@
+# HUD_CLEAR_HELP_QUEUE `0x495164AD`
+
+```cpp
+void HUD_CLEAR_HELP_QUEUE();
+```

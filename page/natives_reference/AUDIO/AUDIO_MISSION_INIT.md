@@ -1,0 +1,5 @@
+# AUDIO_MISSION_INIT `0xEB8A51C2`
+
+```cpp
+void AUDIO_MISSION_INIT();
+```

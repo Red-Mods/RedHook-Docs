@@ -1,0 +1,5 @@
+# SET_LOCAL_PLAYER_VOICE `0xF0D28043`
+
+```cpp
+void SET_LOCAL_PLAYER_VOICE(int _Unk0);
+```

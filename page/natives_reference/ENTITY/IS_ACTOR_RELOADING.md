@@ -1,0 +1,5 @@
+# IS_ACTOR_RELOADING `0x39C518DB`
+
+```cpp
+bool IS_ACTOR_RELOADING(Actor _Actor);
+```

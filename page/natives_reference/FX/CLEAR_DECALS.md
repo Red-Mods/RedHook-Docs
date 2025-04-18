@@ -1,0 +1,5 @@
+# CLEAR_DECALS `0x43939FD8`
+
+```cpp
+void CLEAR_DECALS();
+```

@@ -1,0 +1,5 @@
+# GET_PROP_FROM_OBJECT `0xA7E9DA22`
+
+```cpp
+int GET_PROP_FROM_OBJECT(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# STREAMING_EVICT_ALL `0x7D432781`
+
+```cpp
+void STREAMING_EVICT_ALL();
+```

@@ -1,0 +1,5 @@
+# GATEWAY_GET_ACTOR `0x820699A8`
+
+```cpp
+int GATEWAY_GET_ACTOR(int _Unk0);
+```

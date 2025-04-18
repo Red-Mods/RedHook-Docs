@@ -1,0 +1,5 @@
+# DESTROY_ITERATOR `0xE284A10C`
+
+```cpp
+void DESTROY_ITERATOR(int _Unk0);
+```

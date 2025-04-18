@@ -1,0 +1,5 @@
+# GET_JOURNAL_ENTRY `0xC450C870`
+
+```cpp
+int GET_JOURNAL_ENTRY(int _Unk0);
+```

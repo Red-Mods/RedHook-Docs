@@ -1,0 +1,5 @@
+# GUI_CLOSE_WINDOW `0xFDED9B11`
+
+```cpp
+int GUI_CLOSE_WINDOW(int _Unk0);
+```

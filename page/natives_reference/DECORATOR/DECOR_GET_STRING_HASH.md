@@ -1,0 +1,5 @@
+# DECOR_GET_STRING_HASH `0x6A0FE2A0`
+
+```cpp
+int DECOR_GET_STRING_HASH(int _Unk0, int _Unk1);
+```

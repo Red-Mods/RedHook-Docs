@@ -1,0 +1,5 @@
+# UI_GET_NUM_CHILDREN `0xD3C7AEFA`
+
+```cpp
+int UI_GET_NUM_CHILDREN(int _Unk0);
+```

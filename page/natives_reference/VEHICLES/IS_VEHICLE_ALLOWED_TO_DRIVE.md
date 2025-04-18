@@ -1,0 +1,5 @@
+# IS_VEHICLE_ALLOWED_TO_DRIVE `0x1C391A44`
+
+```cpp
+bool IS_VEHICLE_ALLOWED_TO_DRIVE(Vehicle _Vehicle);
+```

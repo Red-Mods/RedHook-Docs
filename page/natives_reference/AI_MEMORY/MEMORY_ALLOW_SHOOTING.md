@@ -1,0 +1,5 @@
+# MEMORY_ALLOW_SHOOTING `0x937E1760`
+
+```cpp
+void MEMORY_ALLOW_SHOOTING(int _Unk0, int _Unk1);
+```

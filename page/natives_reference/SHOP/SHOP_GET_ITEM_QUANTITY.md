@@ -1,0 +1,5 @@
+# SHOP_GET_ITEM_QUANTITY `0xFAF37414`
+
+```cpp
+int SHOP_GET_ITEM_QUANTITY(int _Unk0);
+```

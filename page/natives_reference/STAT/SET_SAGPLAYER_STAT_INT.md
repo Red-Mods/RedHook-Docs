@@ -1,0 +1,5 @@
+# SET_SAGPLAYER_STAT_INT `0xF1A723D0`
+
+```cpp
+void SET_SAGPLAYER_STAT_INT(int _Unk0, int _Unk1);
+```

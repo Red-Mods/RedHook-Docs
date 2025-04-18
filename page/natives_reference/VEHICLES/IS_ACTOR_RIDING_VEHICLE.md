@@ -1,0 +1,5 @@
+# IS_ACTOR_RIDING_VEHICLE `0xDE19A1F9`
+
+```cpp
+bool IS_ACTOR_RIDING_VEHICLE(Actor _Actor);
+```

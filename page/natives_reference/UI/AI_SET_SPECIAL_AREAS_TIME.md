@@ -1,0 +1,5 @@
+# AI_SET_SPECIAL_AREAS_TIME `0xF53EB511`
+
+```cpp
+void AI_SET_SPECIAL_AREAS_TIME(int _Unk0, int _Unk1);
+```

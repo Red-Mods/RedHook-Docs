@@ -1,0 +1,5 @@
+# IS_PHYSINST_HIDE `0x445990D8`
+
+```cpp
+bool IS_PHYSINST_HIDE(int _Unk0);
+```

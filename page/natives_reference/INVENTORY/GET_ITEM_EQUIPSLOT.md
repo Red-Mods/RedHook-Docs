@@ -1,0 +1,5 @@
+# GET_ITEM_EQUIPSLOT `0x0E0EFB13`
+
+```cpp
+int GET_ITEM_EQUIPSLOT(int _Unk0);
+```

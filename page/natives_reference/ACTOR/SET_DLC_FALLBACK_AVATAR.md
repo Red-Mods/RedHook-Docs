@@ -1,0 +1,5 @@
+# SET_DLC_FALLBACK_AVATAR `0x1F0CD262`
+
+```cpp
+void SET_DLC_FALLBACK_AVATAR(int _Unk0);
+```

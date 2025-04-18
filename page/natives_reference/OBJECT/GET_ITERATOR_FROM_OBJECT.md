@@ -1,0 +1,5 @@
+# GET_ITERATOR_FROM_OBJECT `0xF5EE5874`
+
+```cpp
+int GET_ITERATOR_FROM_OBJECT(int _Unk0);
+```

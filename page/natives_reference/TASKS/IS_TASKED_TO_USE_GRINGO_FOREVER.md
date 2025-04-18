@@ -1,0 +1,5 @@
+# IS_TASKED_TO_USE_GRINGO_FOREVER `0x600A0EE4`
+
+```cpp
+int IS_TASKED_TO_USE_GRINGO_FOREVER(int _Unk0, int _Unk1);
+```

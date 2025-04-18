@@ -1,0 +1,5 @@
+# START_SCRIPT_CONVERSATION `0xE5DE7D9D`
+
+```cpp
+void START_SCRIPT_CONVERSATION(int _Unk0, int _Unk1);
+```

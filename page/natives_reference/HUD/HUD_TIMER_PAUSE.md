@@ -1,0 +1,5 @@
+# HUD_TIMER_PAUSE `0x3383E839`
+
+```cpp
+void HUD_TIMER_PAUSE();
+```

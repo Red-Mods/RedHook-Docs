@@ -1,0 +1,5 @@
+# TOGGLE_COVER_PROPS `0x288E4BFB`
+
+```cpp
+void TOGGLE_COVER_PROPS(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# NET_IS_POSSE_LEADER `0x1CAD6D29`
+
+```cpp
+int NET_IS_POSSE_LEADER();
+```

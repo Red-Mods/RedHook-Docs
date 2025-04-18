@@ -1,0 +1,5 @@
+# IS_DOOR_OPEN_IN_DIRECTION `0xDAD47AE6`
+
+```cpp
+int IS_DOOR_OPEN_IN_DIRECTION(int _Unk0, int _Unk1);
+```

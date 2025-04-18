@@ -1,0 +1,5 @@
+# HUD_TIMER_DISPLAY `0x149F9E46`
+
+```cpp
+void HUD_TIMER_DISPLAY(int _Unk0);
+```

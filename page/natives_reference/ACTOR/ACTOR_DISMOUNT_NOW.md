@@ -1,0 +1,5 @@
+# ACTOR_DISMOUNT_NOW `0x0666B436`
+
+```cpp
+void ACTOR_DISMOUNT_NOW(int _Unk0);
+```

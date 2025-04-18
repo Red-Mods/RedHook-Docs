@@ -1,0 +1,5 @@
+# SWITCH_ACTOR_ENUM_VARIATION `0x7AB17813`
+
+```cpp
+void SWITCH_ACTOR_ENUM_VARIATION(Actor _Actor, int _VariationId);
+```

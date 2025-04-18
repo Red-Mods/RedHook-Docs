@@ -1,0 +1,5 @@
+# SET_ZOMBIE_TARGET_MODE `0x8BE2D8B0`
+
+```cpp
+void SET_ZOMBIE_TARGET_MODE(int _Unk0);
+```

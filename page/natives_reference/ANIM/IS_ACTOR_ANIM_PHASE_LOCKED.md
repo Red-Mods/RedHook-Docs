@@ -1,0 +1,5 @@
+# IS_ACTOR_ANIM_PHASE_LOCKED `0xE0AC4B86`
+
+```cpp
+int IS_ACTOR_ANIM_PHASE_LOCKED(int _Unk0);
+```

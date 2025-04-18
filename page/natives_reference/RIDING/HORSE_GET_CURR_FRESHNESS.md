@@ -1,0 +1,5 @@
+# HORSE_GET_CURR_FRESHNESS `0xB8665D8A`
+
+```cpp
+int HORSE_GET_CURR_FRESHNESS(int _Unk0);
+```

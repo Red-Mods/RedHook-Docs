@@ -1,0 +1,5 @@
+# HUD_CLEAR_SMALL_TEXT `0x585F008A`
+
+```cpp
+void HUD_CLEAR_SMALL_TEXT();
+```

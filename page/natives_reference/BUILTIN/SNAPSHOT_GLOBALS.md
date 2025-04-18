@@ -1,0 +1,5 @@
+# SNAPSHOT_GLOBALS `0x5A25520E`
+
+```cpp
+void SNAPSHOT_GLOBALS();
+```

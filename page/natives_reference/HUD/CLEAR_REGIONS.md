@@ -1,0 +1,5 @@
+# CLEAR_REGIONS `0xB1DAEF0C`
+
+```cpp
+void CLEAR_REGIONS();
+```

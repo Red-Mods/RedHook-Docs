@@ -1,0 +1,5 @@
+# NET_GET_GAMER_HEX_COLOR `0x9BC05C90`
+
+```cpp
+int NET_GET_GAMER_HEX_COLOR(int _Unk0, int _Unk1);
+```

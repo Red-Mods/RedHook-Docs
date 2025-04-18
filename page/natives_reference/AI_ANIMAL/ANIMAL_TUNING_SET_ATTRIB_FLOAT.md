@@ -1,0 +1,5 @@
+# ANIMAL_TUNING_SET_ATTRIB_FLOAT `0xE36EA080`
+
+```cpp
+void ANIMAL_TUNING_SET_ATTRIB_FLOAT(int _Unk0, int _Unk1, int _Unk2);
+```

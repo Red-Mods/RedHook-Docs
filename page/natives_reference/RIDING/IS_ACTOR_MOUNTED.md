@@ -1,0 +1,5 @@
+# IS_ACTOR_MOUNTED `0xA3AB3708`
+
+```cpp
+int IS_ACTOR_MOUNTED(int _Unk0);
+```

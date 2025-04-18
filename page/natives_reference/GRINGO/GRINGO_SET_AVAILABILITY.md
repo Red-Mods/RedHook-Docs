@@ -1,0 +1,5 @@
+# GRINGO_SET_AVAILABILITY `0xF95DDBF2`
+
+```cpp
+void GRINGO_SET_AVAILABILITY(int _Unk0, int _Unk1);
+```

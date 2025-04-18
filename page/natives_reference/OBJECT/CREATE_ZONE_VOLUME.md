@@ -1,0 +1,5 @@
+# CREATE_ZONE_VOLUME `0xBB05B731`
+
+```cpp
+int CREATE_ZONE_VOLUME(int _Unk0);
+```

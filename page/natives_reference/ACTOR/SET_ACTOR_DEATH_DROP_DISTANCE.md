@@ -1,0 +1,5 @@
+# SET_ACTOR_DEATH_DROP_DISTANCE `0x9F6B04C8`
+
+```cpp
+void SET_ACTOR_DEATH_DROP_DISTANCE(int _Unk0, int _Unk1);
+```

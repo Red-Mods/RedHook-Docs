@@ -1,0 +1,5 @@
+# UI_CHALLENGE_SET_DESCRIPTION `0x2A39FD8A`
+
+```cpp
+void UI_CHALLENGE_SET_DESCRIPTION(int _Unk0, int _Unk1);
+```

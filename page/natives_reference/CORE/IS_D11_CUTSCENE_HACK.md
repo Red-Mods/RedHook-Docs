@@ -1,0 +1,5 @@
+# IS_D11_CUTSCENE_HACK `0xD90DB78D`
+
+```cpp
+bool IS_D11_CUTSCENE_HACK();
+```

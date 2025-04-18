@@ -1,0 +1,5 @@
+# SET_ZONE_RESTRICT_ACTORS `0xE0FDD026`
+
+```cpp
+void SET_ZONE_RESTRICT_ACTORS(int _Unk0, int _Unk1);
+```

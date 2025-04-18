@@ -1,0 +1,5 @@
+# NET_ACTOR_SET_EQUIP_TYPE `0x7837890B`
+
+```cpp
+void NET_ACTOR_SET_EQUIP_TYPE(int _Unk0);
+```

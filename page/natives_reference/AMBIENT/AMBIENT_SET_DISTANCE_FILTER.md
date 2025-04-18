@@ -1,0 +1,5 @@
+# AMBIENT_SET_DISTANCE_FILTER `0xA89B77A7`
+
+```cpp
+void AMBIENT_SET_DISTANCE_FILTER(int _Unk0, int _Unk1);
+```

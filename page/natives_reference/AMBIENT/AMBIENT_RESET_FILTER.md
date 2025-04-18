@@ -1,0 +1,5 @@
+# AMBIENT_RESET_FILTER `0x19B26C78`
+
+```cpp
+void AMBIENT_RESET_FILTER(int _Unk0);
+```

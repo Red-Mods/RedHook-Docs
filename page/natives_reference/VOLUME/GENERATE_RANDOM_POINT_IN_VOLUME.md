@@ -1,0 +1,5 @@
+# GENERATE_RANDOM_POINT_IN_VOLUME `0x9FC69F27`
+
+```cpp
+void GENERATE_RANDOM_POINT_IN_VOLUME(Volume _Volume, int _Unk1);
+```

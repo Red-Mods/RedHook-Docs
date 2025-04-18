@@ -1,0 +1,5 @@
+# _SET_ACTOR_FORCE_HIGH_LOD_UPDATE `0xA4E29C31`
+
+```cpp
+void _SET_ACTOR_FORCE_HIGH_LOD_UPDATE(int _Unk0, int _Unk1);
+```

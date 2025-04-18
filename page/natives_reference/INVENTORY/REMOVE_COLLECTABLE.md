@@ -1,0 +1,5 @@
+# REMOVE_COLLECTABLE `0x5889EBB7`
+
+```cpp
+void REMOVE_COLLECTABLE(int _Unk0, int _Unk1);
+```

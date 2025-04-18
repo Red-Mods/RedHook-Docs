@@ -1,0 +1,5 @@
+# GRINGO_ENABLE_PLAYER_CONTROL `0x0B853FD5`
+
+```cpp
+void GRINGO_ENABLE_PLAYER_CONTROL(int _Unk0, int _Unk1);
+```

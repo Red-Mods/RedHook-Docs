@@ -1,0 +1,5 @@
+# SET_PROP_COLLIDE_WITH_WORLD `0xCEC355CE`
+
+```cpp
+void SET_PROP_COLLIDE_WITH_WORLD(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# AI_SET_NAV_SUBGRID_CELL_SIZE `0xFF3CEFE2`
+
+```cpp
+void AI_SET_NAV_SUBGRID_CELL_SIZE(int _Unk0, int _Unk1);
+```

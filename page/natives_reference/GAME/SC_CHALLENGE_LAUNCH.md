@@ -1,0 +1,5 @@
+# SC_CHALLENGE_LAUNCH `0xCBBE41DD`
+
+```cpp
+int SC_CHALLENGE_LAUNCH(int _Unk0);
+```

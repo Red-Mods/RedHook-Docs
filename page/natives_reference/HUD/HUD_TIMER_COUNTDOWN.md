@@ -1,0 +1,5 @@
+# HUD_TIMER_COUNTDOWN `0xF4209CCC`
+
+```cpp
+void HUD_TIMER_COUNTDOWN(int _Unk0);
+```

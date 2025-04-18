@@ -1,0 +1,5 @@
+# GET_BLIP_IMPAIRMENT_MASK `0xD76F1E9A`
+
+```cpp
+int GET_BLIP_IMPAIRMENT_MASK(int _Unk0);
+```

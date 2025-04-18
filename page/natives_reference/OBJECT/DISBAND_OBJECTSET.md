@@ -1,0 +1,5 @@
+# DISBAND_OBJECTSET `0x179A07DD`
+
+```cpp
+void DISBAND_OBJECTSET(int _Unk0);
+```

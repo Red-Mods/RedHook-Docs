@@ -1,0 +1,5 @@
+# CREATE_POPULATION_SET_IN_LAYOUT `0x0B40BBE3`
+
+```cpp
+int CREATE_POPULATION_SET_IN_LAYOUT(int _Unk0, int _Unk1, int _Unk2);
+```

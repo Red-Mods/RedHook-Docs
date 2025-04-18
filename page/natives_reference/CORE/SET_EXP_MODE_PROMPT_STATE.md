@@ -1,0 +1,5 @@
+# SET_EXP_MODE_PROMPT_STATE `0x59F98CA9`
+
+```cpp
+void SET_EXP_MODE_PROMPT_STATE(int _Unk0);
+```

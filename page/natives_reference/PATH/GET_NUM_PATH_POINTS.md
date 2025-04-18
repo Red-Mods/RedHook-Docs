@@ -1,0 +1,5 @@
+# GET_NUM_PATH_POINTS `0xBD374C00`
+
+```cpp
+int GET_NUM_PATH_POINTS(int _Unk0);
+```

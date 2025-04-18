@@ -1,0 +1,5 @@
+# SET_GREETING_CONTEXT `0x9953D4FC`
+
+```cpp
+void SET_GREETING_CONTEXT(int _Unk0);
+```

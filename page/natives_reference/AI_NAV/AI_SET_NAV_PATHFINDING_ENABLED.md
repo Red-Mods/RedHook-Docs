@@ -1,0 +1,5 @@
+# AI_SET_NAV_PATHFINDING_ENABLED `0x4495F5FC`
+
+```cpp
+void AI_SET_NAV_PATHFINDING_ENABLED(int _Unk0, int _Unk1);
+```

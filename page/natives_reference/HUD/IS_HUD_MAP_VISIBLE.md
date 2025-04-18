@@ -1,0 +1,5 @@
+# IS_HUD_MAP_VISIBLE `0xCE043618`
+
+```cpp
+int IS_HUD_MAP_VISIBLE();
+```

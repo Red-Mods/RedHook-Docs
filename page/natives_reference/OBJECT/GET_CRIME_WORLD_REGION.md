@@ -1,0 +1,5 @@
+# GET_CRIME_WORLD_REGION `0x67F224B4`
+
+```cpp
+int GET_CRIME_WORLD_REGION(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# IS_ACTOR_JACKING_VEHICLE `0x1BA90C92`
+
+```cpp
+bool IS_ACTOR_JACKING_VEHICLE(Actor _Actor);
+```

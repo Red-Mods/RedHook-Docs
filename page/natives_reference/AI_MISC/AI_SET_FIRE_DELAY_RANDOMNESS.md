@@ -1,0 +1,5 @@
+# AI_SET_FIRE_DELAY_RANDOMNESS `0xC5873149`
+
+```cpp
+void AI_SET_FIRE_DELAY_RANDOMNESS(int _Unk0, int _Unk1);
+```

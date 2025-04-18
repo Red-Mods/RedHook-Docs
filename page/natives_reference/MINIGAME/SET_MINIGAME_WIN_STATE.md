@@ -1,0 +1,5 @@
+# SET_MINIGAME_WIN_STATE `0x8275FDD4`
+
+```cpp
+void SET_MINIGAME_WIN_STATE(int _Unk0);
+```

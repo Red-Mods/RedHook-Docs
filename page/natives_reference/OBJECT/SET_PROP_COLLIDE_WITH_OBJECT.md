@@ -1,0 +1,5 @@
+# SET_PROP_COLLIDE_WITH_OBJECT `0x77403213`
+
+```cpp
+void SET_PROP_COLLIDE_WITH_OBJECT(int _Unk0, int _Unk1, int _Unk2);
+```

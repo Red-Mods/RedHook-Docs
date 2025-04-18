@@ -1,0 +1,5 @@
+# INIT_NATIVE_WEAPONENUM_TURRET `0x82609DC7`
+
+```cpp
+void INIT_NATIVE_WEAPONENUM_TURRET(int _Unk0, int _Unk1, int _Unk2);
+```

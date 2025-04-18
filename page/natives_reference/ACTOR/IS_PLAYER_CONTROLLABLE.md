@@ -1,0 +1,5 @@
+# IS_PLAYER_CONTROLLABLE `0x9613C2D0`
+
+```cpp
+int IS_PLAYER_CONTROLLABLE(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# SET_DEADEYE_TARGETPAINT_ENABLE `0x5CD6E2C3`
+
+```cpp
+void SET_DEADEYE_TARGETPAINT_ENABLE(Actor _Actor, bool _Value);
+```

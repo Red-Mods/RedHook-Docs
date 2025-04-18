@@ -1,0 +1,5 @@
+# IMMEDIATELY_LASSO_TARGET `0x8F8EDCCF`
+
+```cpp
+int IMMEDIATELY_LASSO_TARGET(int _Unk0, int _Unk1, int _Unk2);
+```

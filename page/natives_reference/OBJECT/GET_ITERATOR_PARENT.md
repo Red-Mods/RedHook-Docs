@@ -1,0 +1,5 @@
+# GET_ITERATOR_PARENT `0x12AA009F`
+
+```cpp
+int GET_ITERATOR_PARENT(int _Unk0);
+```

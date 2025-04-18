@@ -1,0 +1,5 @@
+# IS_LOCAL_PLAYER_VALID `0x0ADC17E9`
+
+```cpp
+bool IS_LOCAL_PLAYER_VALID(Actor actorId);
+```

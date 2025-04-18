@@ -1,0 +1,5 @@
+# GET_PATH_NUM_POINTS `0x42A4CCD5`
+
+```cpp
+int GET_PATH_NUM_POINTS(int _Unk0);
+```

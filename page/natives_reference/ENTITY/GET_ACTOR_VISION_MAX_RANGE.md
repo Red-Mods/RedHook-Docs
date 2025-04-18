@@ -1,0 +1,5 @@
+# GET_ACTOR_VISION_MAX_RANGE `0x4A4B4B26`
+
+```cpp
+int GET_ACTOR_VISION_MAX_RANGE(int _Unk0);
+```

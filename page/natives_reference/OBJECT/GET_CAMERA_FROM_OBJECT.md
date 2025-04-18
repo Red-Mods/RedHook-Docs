@@ -1,0 +1,5 @@
+# GET_CAMERA_FROM_OBJECT `0xD4048969`
+
+```cpp
+int GET_CAMERA_FROM_OBJECT(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# ANIMAL_SPECIES_REL_SET_PLAY_CHASE `0x586904BD`
+
+```cpp
+void ANIMAL_SPECIES_REL_SET_PLAY_CHASE(int _Unk0, int _Unk1, int _Unk2);
+```

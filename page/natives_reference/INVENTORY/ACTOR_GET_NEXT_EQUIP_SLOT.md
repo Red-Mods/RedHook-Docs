@@ -1,0 +1,5 @@
+# ACTOR_GET_NEXT_EQUIP_SLOT `0xCC02BBD3`
+
+```cpp
+int ACTOR_GET_NEXT_EQUIP_SLOT(int _Unk0);
+```

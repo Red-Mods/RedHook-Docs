@@ -1,0 +1,5 @@
+# SHOP_IS_SELL_SELECTED `0x5A12BB48`
+
+```cpp
+int SHOP_IS_SELL_SELECTED();
+```

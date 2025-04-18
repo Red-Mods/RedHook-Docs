@@ -1,0 +1,5 @@
+# IS_PHYSINST_READY `0xE83E6A41`
+
+```cpp
+int IS_PHYSINST_READY(int _Unk0);
+```

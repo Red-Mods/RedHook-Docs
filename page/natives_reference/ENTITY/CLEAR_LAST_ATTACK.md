@@ -1,0 +1,5 @@
+# CLEAR_LAST_ATTACK `0x68D4A021`
+
+```cpp
+void CLEAR_LAST_ATTACK(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# IS_DEBUGKEY_PRESSED `0xCBC97619`
+
+```cpp
+bool IS_DEBUGKEY_PRESSED(KeyCode _KeyCode);
+```

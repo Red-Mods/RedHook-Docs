@@ -1,0 +1,5 @@
+# AI_IMPAIRMENT_MASK_MATCHES `0xB4A15D17`
+
+```cpp
+int AI_IMPAIRMENT_MASK_MATCHES(int _Unk0, int _Unk1);
+```

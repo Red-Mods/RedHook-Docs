@@ -1,0 +1,5 @@
+# IS_GPS_RECOMPUTE `0xAA322DFC`
+
+```cpp
+int IS_GPS_RECOMPUTE(int _Unk0);
+```

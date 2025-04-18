@@ -1,0 +1,5 @@
+# NET_TICKER_CLEAR `0x8A1D83F2`
+
+```cpp
+void NET_TICKER_CLEAR();
+```

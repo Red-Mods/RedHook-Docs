@@ -1,0 +1,5 @@
+# IS_ACTOR_PLAYING_NODE_IN_TREE `0x4E0300E2`
+
+```cpp
+int IS_ACTOR_PLAYING_NODE_IN_TREE(int _Unk0, int _Unk1);
+```

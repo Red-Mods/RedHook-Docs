@@ -1,0 +1,5 @@
+# SET_HUD_MAP_DRAW_ENABLED_TIMED `0x0DFF578A`
+
+```cpp
+void SET_HUD_MAP_DRAW_ENABLED_TIMED(int _Unk0, int _Unk1, int _Unk2);
+```

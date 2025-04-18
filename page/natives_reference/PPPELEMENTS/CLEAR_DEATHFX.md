@@ -1,0 +1,5 @@
+# CLEAR_DEATHFX `0x7E0CDD87`
+
+```cpp
+void CLEAR_DEATHFX();
+```

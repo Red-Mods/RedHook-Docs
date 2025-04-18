@@ -1,0 +1,5 @@
+# GET_PHYSINST_FROM_OBJECT `0xDB70DF0C`
+
+```cpp
+int GET_PHYSINST_FROM_OBJECT(int _Unk0);
+```

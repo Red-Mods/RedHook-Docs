@@ -1,0 +1,5 @@
+# NET_ALLOW_PLAYERS_TO_JOIN `0x408E28E2`
+
+```cpp
+void NET_ALLOW_PLAYERS_TO_JOIN(int _Unk0);
+```

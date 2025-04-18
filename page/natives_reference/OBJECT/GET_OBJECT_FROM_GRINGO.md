@@ -1,0 +1,5 @@
+# GET_OBJECT_FROM_GRINGO `0x111501F7`
+
+```cpp
+int GET_OBJECT_FROM_GRINGO(int _Unk0);
+```

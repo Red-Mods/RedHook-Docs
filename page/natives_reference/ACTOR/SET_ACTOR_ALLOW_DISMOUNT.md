@@ -1,0 +1,5 @@
+# SET_ACTOR_ALLOW_DISMOUNT `0xC550644A`
+
+```cpp
+void SET_ACTOR_ALLOW_DISMOUNT(int _Unk0, int _Unk1);
+```

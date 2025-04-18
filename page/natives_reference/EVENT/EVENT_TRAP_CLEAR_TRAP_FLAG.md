@@ -1,0 +1,5 @@
+# EVENT_TRAP_CLEAR_TRAP_FLAG `0xAA24E0CC`
+
+```cpp
+void EVENT_TRAP_CLEAR_TRAP_FLAG(int _Unk0);
+```

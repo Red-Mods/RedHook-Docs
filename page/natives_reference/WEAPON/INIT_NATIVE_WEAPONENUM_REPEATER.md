@@ -1,0 +1,5 @@
+# INIT_NATIVE_WEAPONENUM_REPEATER `0xA72B6620`
+
+```cpp
+void INIT_NATIVE_WEAPONENUM_REPEATER(int _Unk0, int _Unk1, int _Unk2);
+```

@@ -1,0 +1,5 @@
+# NET_GET_FREE_ROAM_MODE `0x81F24788`
+
+```cpp
+int NET_GET_FREE_ROAM_MODE();
+```

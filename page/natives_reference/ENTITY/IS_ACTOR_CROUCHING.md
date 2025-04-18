@@ -1,0 +1,5 @@
+# IS_ACTOR_CROUCHING `0xF6BF4242`
+
+```cpp
+bool IS_ACTOR_CROUCHING(Actor _Actor);
+```

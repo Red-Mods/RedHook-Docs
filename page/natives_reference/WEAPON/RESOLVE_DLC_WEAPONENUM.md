@@ -1,0 +1,5 @@
+# RESOLVE_DLC_WEAPONENUM `0xD291A820`
+
+```cpp
+void RESOLVE_DLC_WEAPONENUM(int _Unk0);
+```

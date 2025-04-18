@@ -1,0 +1,5 @@
+# INIT_NATIVE_ACTORENUM_RIDEABLE_ANIMAL `0x4D42E285`
+
+```cpp
+void INIT_NATIVE_ACTORENUM_RIDEABLE_ANIMAL(int _Unk0, int _Unk1, int _Unk2, int _Unk3);
+```

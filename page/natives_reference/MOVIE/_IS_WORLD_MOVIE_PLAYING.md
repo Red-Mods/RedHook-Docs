@@ -1,0 +1,5 @@
+# _IS_WORLD_MOVIE_PLAYING `0xD036DF91`
+
+```cpp
+bool _IS_WORLD_MOVIE_PLAYING();
+```

@@ -1,0 +1,5 @@
+# OBJECT_ITERATOR_PREV `0x91A3A831`
+
+```cpp
+int OBJECT_ITERATOR_PREV(int _Unk0);
+```

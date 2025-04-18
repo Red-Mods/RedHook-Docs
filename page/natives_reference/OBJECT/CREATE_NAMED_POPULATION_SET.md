@@ -1,0 +1,5 @@
+# CREATE_NAMED_POPULATION_SET `0xB0882841`
+
+```cpp
+int CREATE_NAMED_POPULATION_SET(int _Unk0, int _Unk1);
+```

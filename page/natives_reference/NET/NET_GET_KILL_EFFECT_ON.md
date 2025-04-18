@@ -1,0 +1,5 @@
+# NET_GET_KILL_EFFECT_ON `0xE5645CB3`
+
+```cpp
+bool NET_GET_KILL_EFFECT_ON();
+```

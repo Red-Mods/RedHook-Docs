@@ -1,0 +1,5 @@
+# GRINGO_HAS_ANIMSET_LOADED `0x2C57A529`
+
+```cpp
+int GRINGO_HAS_ANIMSET_LOADED(int _Unk0, int _Unk1);
+```

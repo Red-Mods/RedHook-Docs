@@ -1,0 +1,5 @@
+# STRING_NUM_TOKENS `0x7FB72180`
+
+```cpp
+int STRING_NUM_TOKENS();
+```

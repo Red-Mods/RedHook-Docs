@@ -1,0 +1,5 @@
+# GET_ITEM_IN_HAND_EQUIPSLOT `0x3A899B0E`
+
+```cpp
+int GET_ITEM_IN_HAND_EQUIPSLOT(int _Unk0);
+```

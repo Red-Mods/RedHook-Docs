@@ -1,0 +1,5 @@
+# SET_RADAR_TILES_VISIBLE `0x48DB367D`
+
+```cpp
+void SET_RADAR_TILES_VISIBLE(int _Unk0);
+```

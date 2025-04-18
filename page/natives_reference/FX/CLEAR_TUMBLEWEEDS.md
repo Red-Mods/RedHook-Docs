@@ -1,0 +1,5 @@
+# CLEAR_TUMBLEWEEDS `0x8852F896`
+
+```cpp
+void CLEAR_TUMBLEWEEDS();
+```

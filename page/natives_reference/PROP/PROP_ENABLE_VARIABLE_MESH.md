@@ -1,0 +1,5 @@
+# PROP_ENABLE_VARIABLE_MESH `0x8287F8B3`
+
+```cpp
+int PROP_ENABLE_VARIABLE_MESH(int _Unk0, int _Unk1, int _Unk2);
+```

@@ -1,0 +1,5 @@
+# STREAMING_EVICT_PROP `0xA8D12960`
+
+```cpp
+void STREAMING_EVICT_PROP(int _Unk0);
+```

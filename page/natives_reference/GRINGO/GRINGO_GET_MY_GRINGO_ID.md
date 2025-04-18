@@ -1,0 +1,5 @@
+# GRINGO_GET_MY_GRINGO_ID `0xAE7B3880`
+
+```cpp
+int GRINGO_GET_MY_GRINGO_ID();
+```

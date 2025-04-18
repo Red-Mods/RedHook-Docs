@@ -1,0 +1,5 @@
+# SET_OBJECT_ANIMATOR_ANIMATION `0xB57D4110`
+
+```cpp
+int SET_OBJECT_ANIMATOR_ANIMATION(int _Unk0, int _Unk1, int _Unk2);
+```

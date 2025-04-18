@@ -1,0 +1,5 @@
+# HUD_SET_SHOOT_BLIP_ICON_FOR_ACTOR `0x02755628`
+
+```cpp
+void HUD_SET_SHOOT_BLIP_ICON_FOR_ACTOR(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# GET_CRIME_FACTION `0xE2FE0673`
+
+```cpp
+int GET_CRIME_FACTION(int _Unk0);
+```

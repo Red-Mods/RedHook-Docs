@@ -1,0 +1,5 @@
+# GRINGO_LOAD_ANIMATION_FOR_ACTOR_ENUM_EXT `0x8EB5CE58`
+
+```cpp
+void GRINGO_LOAD_ANIMATION_FOR_ACTOR_ENUM_EXT(int _Unk0, int _Unk1, int _Unk2, int _Unk3);
+```

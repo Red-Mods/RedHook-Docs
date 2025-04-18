@@ -1,0 +1,5 @@
+# ANIMAL_SPECIES_FLOCK_SET_PARAMETER `0xBF12100D`
+
+```cpp
+void ANIMAL_SPECIES_FLOCK_SET_PARAMETER(int _Unk0, int _Unk1, int _Unk2, int _Unk3, int _Unk4);
+```

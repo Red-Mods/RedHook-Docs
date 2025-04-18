@@ -1,0 +1,5 @@
+# SCRIPT_DONE_LOADING `0x5401F0CA`
+
+```cpp
+void SCRIPT_DONE_LOADING();
+```

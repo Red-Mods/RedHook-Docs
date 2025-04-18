@@ -1,0 +1,5 @@
+# ATTACH_HOGTIE_ACTOR_TO_ACTOR `0xCC04895F`
+
+```cpp
+int ATTACH_HOGTIE_ACTOR_TO_ACTOR(int _Unk0, int _Unk1);
+```

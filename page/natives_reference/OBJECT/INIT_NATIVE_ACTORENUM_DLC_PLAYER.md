@@ -1,0 +1,5 @@
+# INIT_NATIVE_ACTORENUM_DLC_PLAYER `0x1904CC1D`
+
+```cpp
+void INIT_NATIVE_ACTORENUM_DLC_PLAYER(int _Unk0, int _Unk1, int _Unk2, int _Unk3);
+```

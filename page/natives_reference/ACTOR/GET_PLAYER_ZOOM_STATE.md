@@ -1,0 +1,5 @@
+# GET_PLAYER_ZOOM_STATE `0xBC521A38`
+
+```cpp
+int GET_PLAYER_ZOOM_STATE(int _Unk0);
+```

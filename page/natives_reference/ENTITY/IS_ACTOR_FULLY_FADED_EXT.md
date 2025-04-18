@@ -1,0 +1,5 @@
+# IS_ACTOR_FULLY_FADED_EXT `0x0CC3D8F6`
+
+```cpp
+int IS_ACTOR_FULLY_FADED_EXT(int _Unk0, int _Unk1);
+```

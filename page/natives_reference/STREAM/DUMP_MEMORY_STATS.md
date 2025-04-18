@@ -1,0 +1,5 @@
+# DUMP_MEMORY_STATS `0xCA99D3B4`
+
+```cpp
+void DUMP_MEMORY_STATS();
+```

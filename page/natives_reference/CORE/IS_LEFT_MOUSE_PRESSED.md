@@ -1,0 +1,5 @@
+# IS_LEFT_MOUSE_PRESSED `0x7D4535A1`
+
+```cpp
+bool IS_LEFT_MOUSE_PRESSED(int _Unk0);
+```

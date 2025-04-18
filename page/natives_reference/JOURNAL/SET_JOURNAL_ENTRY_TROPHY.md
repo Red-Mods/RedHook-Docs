@@ -1,0 +1,5 @@
+# SET_JOURNAL_ENTRY_TROPHY `0x5CB9D376`
+
+```cpp
+void SET_JOURNAL_ENTRY_TROPHY(int _Unk0, int _Unk1);
+```

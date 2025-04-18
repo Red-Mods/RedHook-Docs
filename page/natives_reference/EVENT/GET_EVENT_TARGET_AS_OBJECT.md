@@ -1,0 +1,5 @@
+# GET_EVENT_TARGET_AS_OBJECT `0xE2ED95CC`
+
+```cpp
+int GET_EVENT_TARGET_AS_OBJECT(int _Unk0);
+```

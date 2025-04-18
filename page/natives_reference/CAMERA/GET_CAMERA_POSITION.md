@@ -1,0 +1,5 @@
+# GET_CAMERA_POSITION `0x4A65F0B7`
+
+```cpp
+Vector3 GET_CAMERA_POSITION(Camera _Camera);
+```

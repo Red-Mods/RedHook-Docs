@@ -1,0 +1,5 @@
+# AUDIO_SHUT_OFF_WALLA `0x43C5F320`
+
+```cpp
+void AUDIO_SHUT_OFF_WALLA();
+```

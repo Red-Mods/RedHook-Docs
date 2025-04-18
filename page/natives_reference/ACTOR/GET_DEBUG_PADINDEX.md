@@ -1,0 +1,5 @@
+# GET_DEBUG_PADINDEX `0xB114332D`
+
+```cpp
+int GET_DEBUG_PADINDEX();
+```

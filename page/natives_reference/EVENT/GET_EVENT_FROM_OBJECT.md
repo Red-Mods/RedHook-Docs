@@ -1,0 +1,5 @@
+# GET_EVENT_FROM_OBJECT `0x184BD1BC`
+
+```cpp
+Object GET_EVENT_FROM_OBJECT(Object _Unk0);
+```

@@ -1,0 +1,5 @@
+# DOES_HORSE_HAVE_ACCESSORY `0x75D4E33F`
+
+```cpp
+int DOES_HORSE_HAVE_ACCESSORY(int _Unk0, int _Unk1);
+```

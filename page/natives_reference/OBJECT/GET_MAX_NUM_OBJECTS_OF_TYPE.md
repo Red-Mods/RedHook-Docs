@@ -1,0 +1,5 @@
+# GET_MAX_NUM_OBJECTS_OF_TYPE `0xA2866F3B`
+
+```cpp
+int GET_MAX_NUM_OBJECTS_OF_TYPE(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# SET_DUST_LEVEL_MID `0x8BA565F7`
+
+```cpp
+int SET_DUST_LEVEL_MID(int _Unk0);
+```

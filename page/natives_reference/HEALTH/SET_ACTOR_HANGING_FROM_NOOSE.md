@@ -1,0 +1,5 @@
+# SET_ACTOR_HANGING_FROM_NOOSE `0x5262C0F7`
+
+```cpp
+void SET_ACTOR_HANGING_FROM_NOOSE(Actor _Actor, int _Unk1);
+```

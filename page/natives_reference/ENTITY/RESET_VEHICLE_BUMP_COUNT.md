@@ -1,0 +1,5 @@
+# RESET_VEHICLE_BUMP_COUNT `0x0E9BA223`
+
+```cpp
+void RESET_VEHICLE_BUMP_COUNT(int _Unk0);
+```

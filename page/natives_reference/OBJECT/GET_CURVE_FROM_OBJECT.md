@@ -1,0 +1,5 @@
+# GET_CURVE_FROM_OBJECT `0x49D0DF2E`
+
+```cpp
+int GET_CURVE_FROM_OBJECT(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# MEMORY_PREFER_RIDING `0x1B72B0DD`
+
+```cpp
+void MEMORY_PREFER_RIDING(int _Unk0, int _Unk1);
+```

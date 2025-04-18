@@ -1,0 +1,5 @@
+# REQUEST_MISSION_AUDIO_BANK `0x916E37CA`
+
+```cpp
+int REQUEST_MISSION_AUDIO_BANK(const char* _Unk0);
+```

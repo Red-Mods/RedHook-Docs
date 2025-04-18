@@ -1,0 +1,5 @@
+# SET_FASTTRAVEL `0xBAE0A3F8`
+
+```cpp
+int SET_FASTTRAVEL(int _Unk0);
+```

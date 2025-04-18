@@ -1,0 +1,5 @@
+# SET_ZONE_POPULATION_IS_FLOCK `0x0B24CE10`
+
+```cpp
+void SET_ZONE_POPULATION_IS_FLOCK(int _Unk0, int _Unk1);
+```

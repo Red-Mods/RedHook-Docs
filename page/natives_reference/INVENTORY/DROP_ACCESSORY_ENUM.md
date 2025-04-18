@@ -1,0 +1,5 @@
+# DROP_ACCESSORY_ENUM `0x7FDDF876`
+
+```cpp
+int DROP_ACCESSORY_ENUM(int _Unk0, int _Unk1);
+```

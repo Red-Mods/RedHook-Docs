@@ -1,0 +1,5 @@
+# GET_OBJECT_OWNER `0x48B36E07`
+
+```cpp
+int GET_OBJECT_OWNER(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# IS_RMPTFX_FINISHED `0xD3A523FD`
+
+```cpp
+int IS_RMPTFX_FINISHED(int _Unk0);
+```

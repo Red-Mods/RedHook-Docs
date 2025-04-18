@@ -1,0 +1,5 @@
+# IS_LAYOUTREF_VALID `0xFC8E55ED`
+
+```cpp
+bool IS_LAYOUTREF_VALID(Layout Layout);
+```

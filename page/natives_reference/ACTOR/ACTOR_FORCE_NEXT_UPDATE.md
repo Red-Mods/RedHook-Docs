@@ -1,0 +1,5 @@
+# ACTOR_FORCE_NEXT_UPDATE `0x5C7F63E3`
+
+```cpp
+void ACTOR_FORCE_NEXT_UPDATE(int _Unk0);
+```

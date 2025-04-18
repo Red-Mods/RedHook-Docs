@@ -1,0 +1,5 @@
+# IS_ACTOR_REACTING `0xBFD6AE3D`
+
+```cpp
+int IS_ACTOR_REACTING(int _Unk0);
+```

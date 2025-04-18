@@ -1,0 +1,5 @@
+# TASK_SHOOT_ENEMIES_FROM_POSITION `0xCF8DB984`
+
+```cpp
+void TASK_SHOOT_ENEMIES_FROM_POSITION(int _Unk0, int _Unk1, int _Unk2, int _Unk3);
+```

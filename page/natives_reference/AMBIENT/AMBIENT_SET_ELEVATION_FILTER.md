@@ -1,0 +1,5 @@
+# AMBIENT_SET_ELEVATION_FILTER `0x1900A97E`
+
+```cpp
+void AMBIENT_SET_ELEVATION_FILTER(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# IS_ACTOR_USING_LEDGE `0xEBBE1CAC`
+
+```cpp
+int IS_ACTOR_USING_LEDGE(int _Unk0);
+```

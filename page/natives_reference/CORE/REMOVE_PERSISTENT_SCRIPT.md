@@ -1,0 +1,5 @@
+# REMOVE_PERSISTENT_SCRIPT `0xC605E92F`
+
+```cpp
+void REMOVE_PERSISTENT_SCRIPT(int _ScriptId);
+```

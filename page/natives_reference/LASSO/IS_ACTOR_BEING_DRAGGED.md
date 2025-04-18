@@ -1,0 +1,5 @@
+# IS_ACTOR_BEING_DRAGGED `0x5B792331`
+
+```cpp
+int IS_ACTOR_BEING_DRAGGED(int _Unk0, int _Unk1);
+```

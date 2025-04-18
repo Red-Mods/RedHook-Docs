@@ -1,0 +1,5 @@
+# GRINGO_SET_ALL_USES_OWNERSHIP `0x761BA4BD`
+
+```cpp
+void GRINGO_SET_ALL_USES_OWNERSHIP(int _Unk0, int _Unk1);
+```

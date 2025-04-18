@@ -1,0 +1,5 @@
+# SET_ZONE_FORCE_SPAWN_DISTANCE `0xE7F19909`
+
+```cpp
+void SET_ZONE_FORCE_SPAWN_DISTANCE(int _Unk0, int _Unk1);
+```

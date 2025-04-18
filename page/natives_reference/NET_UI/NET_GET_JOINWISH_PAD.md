@@ -1,0 +1,5 @@
+# NET_GET_JOINWISH_PAD `0x03962973`
+
+```cpp
+int NET_GET_JOINWISH_PAD();
+```

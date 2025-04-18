@@ -1,0 +1,5 @@
+# CREATE_POPULATION_SET `0xAF1D570B`
+
+```cpp
+int CREATE_POPULATION_SET(int _Unk0);
+```

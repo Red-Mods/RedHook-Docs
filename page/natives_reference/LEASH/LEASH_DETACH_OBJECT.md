@@ -1,0 +1,5 @@
+# LEASH_DETACH_OBJECT `0x951B8DF7`
+
+```cpp
+int LEASH_DETACH_OBJECT(int _Unk0, int _Unk1);
+```

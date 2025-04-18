@@ -1,0 +1,5 @@
+# SS_UNFINALIZE `0xBEDF7AA8`
+
+```cpp
+void SS_UNFINALIZE();
+```

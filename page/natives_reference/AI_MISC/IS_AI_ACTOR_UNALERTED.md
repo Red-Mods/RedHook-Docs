@@ -1,0 +1,5 @@
+# IS_AI_ACTOR_UNALERTED `0xC4D114A6`
+
+```cpp
+int IS_AI_ACTOR_UNALERTED(int _Unk0);
+```

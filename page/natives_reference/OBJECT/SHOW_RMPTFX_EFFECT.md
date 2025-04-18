@@ -1,0 +1,5 @@
+# SHOW_RMPTFX_EFFECT `0x5B417C9C`
+
+```cpp
+int SHOW_RMPTFX_EFFECT(int _Unk0);
+```

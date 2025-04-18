@@ -1,0 +1,5 @@
+# RESIZE_ACTOR_SET `0x83E043A6`
+
+```cpp
+void RESIZE_ACTOR_SET();
+```

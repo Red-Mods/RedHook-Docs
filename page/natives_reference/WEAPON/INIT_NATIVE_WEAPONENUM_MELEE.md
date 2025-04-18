@@ -1,0 +1,5 @@
+# INIT_NATIVE_WEAPONENUM_MELEE `0xA6C4E59F`
+
+```cpp
+void INIT_NATIVE_WEAPONENUM_MELEE(int _Unk0, int _Unk1, int _Unk2);
+```

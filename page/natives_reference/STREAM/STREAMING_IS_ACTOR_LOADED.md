@@ -1,0 +1,5 @@
+# STREAMING_IS_ACTOR_LOADED `0x7DF72579`
+
+```cpp
+bool STREAMING_IS_ACTOR_LOADED(ActorModel _Model, int _Unk);
+```

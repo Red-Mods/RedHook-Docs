@@ -1,0 +1,5 @@
+# GET_GAME_EDITION `0xB5401D4A`
+
+```cpp
+int GET_GAME_EDITION();
+```

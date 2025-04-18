@@ -1,0 +1,5 @@
+# ENABLE_USE_CONTEXTS `0xFEA58D57`
+
+```cpp
+void ENABLE_USE_CONTEXTS(bool _Value);
+```

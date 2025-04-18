@@ -1,0 +1,5 @@
+# SET_BRIDGE_STIFFNESS `0x987FD4F6`
+
+```cpp
+void SET_BRIDGE_STIFFNESS(int _Unk0, int _Unk1);
+```

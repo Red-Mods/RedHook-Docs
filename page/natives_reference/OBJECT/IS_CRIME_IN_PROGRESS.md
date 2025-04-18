@@ -1,0 +1,5 @@
+# IS_CRIME_IN_PROGRESS `0x85C58BE1`
+
+```cpp
+int IS_CRIME_IN_PROGRESS(int _Unk0);
+```

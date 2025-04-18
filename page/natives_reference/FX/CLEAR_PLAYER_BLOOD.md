@@ -1,0 +1,5 @@
+# CLEAR_PLAYER_BLOOD `0x807C9D01`
+
+```cpp
+void CLEAR_PLAYER_BLOOD();
+```

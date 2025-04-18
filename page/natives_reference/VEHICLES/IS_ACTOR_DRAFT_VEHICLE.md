@@ -1,0 +1,5 @@
+# IS_ACTOR_DRAFT_VEHICLE `0x5D41D423`
+
+```cpp
+bool IS_ACTOR_DRAFT_VEHICLE(Actor _Actor);
+```

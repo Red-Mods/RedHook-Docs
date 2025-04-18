@@ -1,0 +1,5 @@
+# CANCEL_TIME_WARP `0xAF50E8A1`
+
+```cpp
+void CANCEL_TIME_WARP(int _Unk0);
+```

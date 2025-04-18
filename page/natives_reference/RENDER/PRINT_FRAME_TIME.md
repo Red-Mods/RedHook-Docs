@@ -1,0 +1,5 @@
+# PRINT_FRAME_TIME `0xB84DE79E`
+
+```cpp
+void PRINT_FRAME_TIME(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# GET_DAMAGE_BY_LOCAL_PLAYER `0x8C221B4D`
+
+```cpp
+int GET_DAMAGE_BY_LOCAL_PLAYER(int _Unk0);
+```

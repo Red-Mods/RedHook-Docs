@@ -1,0 +1,5 @@
+# SET_ZONE_POPULATION_TYPE `0xFC30948B`
+
+```cpp
+void SET_ZONE_POPULATION_TYPE(int _Unk0, int _Unk1);
+```

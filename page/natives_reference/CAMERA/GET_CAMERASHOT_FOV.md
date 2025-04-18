@@ -1,0 +1,5 @@
+# GET_CAMERASHOT_FOV `0xEAD6167D`
+
+```cpp
+int GET_CAMERASHOT_FOV(int _Unk0);
+```

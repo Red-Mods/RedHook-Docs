@@ -1,0 +1,5 @@
+# AI_GLOBAL_SET_PERMANENT_DANGER `0x64C177FB`
+
+```cpp
+void AI_GLOBAL_SET_PERMANENT_DANGER(int _Unk0, int _Unk1);
+```

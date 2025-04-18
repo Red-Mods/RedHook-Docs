@@ -1,0 +1,5 @@
+# _GET_TYPE_ID_USING_ACTOR_ENUM `0x55E6227E`
+
+```cpp
+int _GET_TYPE_ID_USING_ACTOR_ENUM(int _Unk0, int _Unk1);
+```

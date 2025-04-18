@@ -1,0 +1,5 @@
+# GET_THIS_SCRIPT_ID `0x9C424E0D`
+
+```cpp
+int GET_THIS_SCRIPT_ID();
+```

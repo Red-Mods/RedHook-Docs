@@ -1,0 +1,5 @@
+# SET_OBJECT_ANIMATOR_NODE `0xB9D7B63B`
+
+```cpp
+int SET_OBJECT_ANIMATOR_NODE(int _Unk0, int _Unk1);
+```

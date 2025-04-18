@@ -1,0 +1,5 @@
+# SET_USING_BINOCULARS `0x14664FF4`
+
+```cpp
+int SET_USING_BINOCULARS(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# GET_LOCAL_SLOT `0xAD68A22E`
+
+```cpp
+int GET_LOCAL_SLOT();
+```

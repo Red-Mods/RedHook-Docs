@@ -1,0 +1,5 @@
+# SET_MAX_DEADEYE_POINTS `0x526D45B7`
+
+```cpp
+void SET_MAX_DEADEYE_POINTS(int _Unk0, int _Unk1);
+```

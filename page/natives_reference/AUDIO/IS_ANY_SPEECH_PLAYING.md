@@ -1,0 +1,5 @@
+# IS_ANY_SPEECH_PLAYING `0x2B74A6D6`
+
+```cpp
+bool IS_ANY_SPEECH_PLAYING(Actor _Actor);
+```

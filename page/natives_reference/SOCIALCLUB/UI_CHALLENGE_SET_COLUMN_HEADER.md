@@ -1,0 +1,5 @@
+# UI_CHALLENGE_SET_COLUMN_HEADER `0xAFC9071D`
+
+```cpp
+void UI_CHALLENGE_SET_COLUMN_HEADER(int _Unk0, int _Unk1, int _Unk2);
+```

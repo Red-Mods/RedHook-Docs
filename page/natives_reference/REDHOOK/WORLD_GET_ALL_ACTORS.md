@@ -1,0 +1,5 @@
+# WORLD_GET_ALL_ACTORS `0xD892AD02`
+
+```cpp
+int WORLD_GET_ALL_ACTORS(Actor* _Array);
+```

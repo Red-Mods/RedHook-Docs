@@ -1,0 +1,5 @@
+# RELEASE_LAYOUT_OBJECTS `0xE78E66F0`
+
+```cpp
+void RELEASE_LAYOUT_OBJECTS(int _Unk0);
+```

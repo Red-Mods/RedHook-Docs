@@ -1,0 +1,5 @@
+# GET_CRIME_VICTIM `0xD2FD7CB6`
+
+```cpp
+int GET_CRIME_VICTIM(int _Unk0);
+```

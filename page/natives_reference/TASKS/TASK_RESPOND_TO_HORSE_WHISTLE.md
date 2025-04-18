@@ -1,0 +1,5 @@
+# TASK_RESPOND_TO_HORSE_WHISTLE `0x69B924A7`
+
+```cpp
+void TASK_RESPOND_TO_HORSE_WHISTLE(int _Unk0, int _Unk1);
+```

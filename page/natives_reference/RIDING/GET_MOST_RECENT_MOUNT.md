@@ -1,0 +1,5 @@
+# GET_MOST_RECENT_MOUNT `0x708E450F`
+
+```cpp
+int GET_MOST_RECENT_MOUNT(int _Unk0);
+```

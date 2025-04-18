@@ -1,0 +1,5 @@
+# CLEAR_NEWSPAPER `0x4486E8C7`
+
+```cpp
+void CLEAR_NEWSPAPER();
+```

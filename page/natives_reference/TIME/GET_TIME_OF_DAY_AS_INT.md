@@ -1,0 +1,5 @@
+# GET_TIME_OF_DAY_AS_INT `0x061A2A3C`
+
+```cpp
+int GET_TIME_OF_DAY_AS_INT();
+```

@@ -1,0 +1,5 @@
+# GET_OBJECT_FROM_EVENT `0xB64DDA6F`
+
+```cpp
+int GET_OBJECT_FROM_EVENT(int _Unk0);
+```

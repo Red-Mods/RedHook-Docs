@@ -1,0 +1,5 @@
+# IS_EXITFLAG_SET `0x687ECC3C`
+
+```cpp
+bool IS_EXITFLAG_SET();
+```

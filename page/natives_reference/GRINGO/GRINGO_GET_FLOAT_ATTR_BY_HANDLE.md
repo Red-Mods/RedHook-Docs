@@ -1,0 +1,5 @@
+# GRINGO_GET_FLOAT_ATTR_BY_HANDLE `0xF573B7DE`
+
+```cpp
+int GRINGO_GET_FLOAT_ATTR_BY_HANDLE(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# NET_GET_GAMER_POSSE_SIZE `0xB6006EA9`
+
+```cpp
+int NET_GET_GAMER_POSSE_SIZE(int _Unk0);
+```

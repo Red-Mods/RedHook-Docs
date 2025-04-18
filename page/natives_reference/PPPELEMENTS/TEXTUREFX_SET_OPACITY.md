@@ -1,0 +1,5 @@
+# TEXTUREFX_SET_OPACITY `0xE613AE52`
+
+```cpp
+void TEXTUREFX_SET_OPACITY(int _Unk0);
+```

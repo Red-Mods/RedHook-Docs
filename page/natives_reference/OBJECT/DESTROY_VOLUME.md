@@ -1,0 +1,5 @@
+# DESTROY_VOLUME `0x8CAB944F`
+
+```cpp
+void DESTROY_VOLUME(int _Unk0);
+```

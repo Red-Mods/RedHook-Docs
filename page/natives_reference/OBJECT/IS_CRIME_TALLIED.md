@@ -1,0 +1,5 @@
+# IS_CRIME_TALLIED `0x72A048B7`
+
+```cpp
+int IS_CRIME_TALLIED(int _Unk0);
+```

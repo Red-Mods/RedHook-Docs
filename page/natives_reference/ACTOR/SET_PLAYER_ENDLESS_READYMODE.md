@@ -1,0 +1,5 @@
+# SET_PLAYER_ENDLESS_READYMODE `0xD0E08B5E`
+
+```cpp
+void SET_PLAYER_ENDLESS_READYMODE(int _Unk0, int _Unk1);
+```

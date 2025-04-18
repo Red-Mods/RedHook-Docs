@@ -1,0 +1,5 @@
+# LINK_ACTORENUM_TO_POPULATION `0x0C1B8DEA`
+
+```cpp
+void LINK_ACTORENUM_TO_POPULATION(int _Unk0, int _Unk1, int _Unk2);
+```

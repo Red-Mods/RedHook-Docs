@@ -1,0 +1,5 @@
+# GET_AMBIENT_LAYOUT `0xB52A3D48`
+
+```cpp
+Layout GET_AMBIENT_LAYOUT();
+```

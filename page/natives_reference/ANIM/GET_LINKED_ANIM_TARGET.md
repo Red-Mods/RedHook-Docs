@@ -1,0 +1,5 @@
+# GET_LINKED_ANIM_TARGET `0xA4E9E7EE`
+
+```cpp
+int GET_LINKED_ANIM_TARGET(int _Unk0);
+```

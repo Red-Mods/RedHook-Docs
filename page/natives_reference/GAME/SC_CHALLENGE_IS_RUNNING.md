@@ -1,0 +1,5 @@
+# SC_CHALLENGE_IS_RUNNING `0x79F09AC7`
+
+```cpp
+int SC_CHALLENGE_IS_RUNNING(int _Unk0);
+```

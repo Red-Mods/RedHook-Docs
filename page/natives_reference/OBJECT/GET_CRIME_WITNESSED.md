@@ -1,0 +1,5 @@
+# GET_CRIME_WITNESSED `0xE07C2D99`
+
+```cpp
+int GET_CRIME_WITNESSED(int _Unk0);
+```

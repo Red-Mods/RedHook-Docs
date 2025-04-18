@@ -1,0 +1,5 @@
+# SET_MOUNTS_AS_PASSENGER `0xDC6DEE92`
+
+```cpp
+void SET_MOUNTS_AS_PASSENGER(int _Unk0, int _Unk1);
+```

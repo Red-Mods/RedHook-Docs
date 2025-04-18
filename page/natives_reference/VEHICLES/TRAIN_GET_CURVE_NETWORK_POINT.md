@@ -1,0 +1,5 @@
+# TRAIN_GET_CURVE_NETWORK_POINT `0xC5A04EC7`
+
+```cpp
+int TRAIN_GET_CURVE_NETWORK_POINT(int _Unk0, int _Unk1, int _Unk2);
+```

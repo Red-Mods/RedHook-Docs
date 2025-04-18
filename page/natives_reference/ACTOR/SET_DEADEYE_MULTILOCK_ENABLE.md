@@ -1,0 +1,5 @@
+# SET_DEADEYE_MULTILOCK_ENABLE `0x4E6E5E78`
+
+```cpp
+void SET_DEADEYE_MULTILOCK_ENABLE(Actor _Actor, bool _Value);
+```

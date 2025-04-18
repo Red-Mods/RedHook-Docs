@@ -1,0 +1,5 @@
+# TRAIN_SET_AUTOPILOT_ENABLE `0xADE865AE`
+
+```cpp
+void TRAIN_SET_AUTOPILOT_ENABLE(int _Unk0, int _Unk1);
+```

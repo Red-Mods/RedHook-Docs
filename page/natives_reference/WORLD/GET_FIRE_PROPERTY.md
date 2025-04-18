@@ -1,0 +1,5 @@
+# GET_FIRE_PROPERTY `0x2AC74780`
+
+```cpp
+int* GET_FIRE_PROPERTY(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# HUD_CLEAR_BIG_TEXT `0xD6DFA6FC`
+
+```cpp
+void HUD_CLEAR_BIG_TEXT();
+```

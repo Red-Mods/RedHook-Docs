@@ -1,0 +1,5 @@
+# IS_ATTACHMENT_VALID `0x50305244`
+
+```cpp
+int IS_ATTACHMENT_VALID(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# HUD_CLEAR_COUNTER `0x050EFAAB`
+
+```cpp
+void HUD_CLEAR_COUNTER();
+```

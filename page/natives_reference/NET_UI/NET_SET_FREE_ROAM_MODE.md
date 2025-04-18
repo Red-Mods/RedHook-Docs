@@ -1,0 +1,5 @@
+# NET_SET_FREE_ROAM_MODE `0x41921C98`
+
+```cpp
+void NET_SET_FREE_ROAM_MODE(int _Unk0);
+```

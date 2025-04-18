@@ -1,0 +1,5 @@
+# GRINGO_SET_PROP_COLLISIONS `0x98543454`
+
+```cpp
+void GRINGO_SET_PROP_COLLISIONS(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# SET_ZONE_POPULATION_DENSITY `0x9381D459`
+
+```cpp
+void SET_ZONE_POPULATION_DENSITY(int _Unk0, int _Unk1);
+```

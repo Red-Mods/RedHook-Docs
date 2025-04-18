@@ -1,0 +1,5 @@
+# NET_ACTOR_SET_SCRIPT_INT `0xA6D794FE`
+
+```cpp
+void NET_ACTOR_SET_SCRIPT_INT(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# NET_PLAYER_LIST_RESET `0x67031EDA`
+
+```cpp
+void NET_PLAYER_LIST_RESET();
+```

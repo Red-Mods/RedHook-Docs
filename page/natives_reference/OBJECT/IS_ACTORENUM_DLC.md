@@ -1,0 +1,5 @@
+# IS_ACTORENUM_DLC `0xF2140DEE`
+
+```cpp
+int IS_ACTORENUM_DLC(int _Unk0);
+```

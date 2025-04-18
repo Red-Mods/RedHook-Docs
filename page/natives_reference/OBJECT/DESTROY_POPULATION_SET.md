@@ -1,0 +1,5 @@
+# DESTROY_POPULATION_SET `0xD064878D`
+
+```cpp
+void DESTROY_POPULATION_SET(int _Unk0);
+```

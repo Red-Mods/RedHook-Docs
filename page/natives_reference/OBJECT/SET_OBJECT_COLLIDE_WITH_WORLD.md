@@ -1,0 +1,5 @@
+# SET_OBJECT_COLLIDE_WITH_WORLD `0x601FC9F4`
+
+```cpp
+void SET_OBJECT_COLLIDE_WITH_WORLD(int _Unk0, int _Unk1);
+```

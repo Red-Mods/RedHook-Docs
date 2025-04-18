@@ -1,0 +1,5 @@
+# IS_ACTION_NODE_PLAYING `0x7B19DEC6`
+
+```cpp
+int IS_ACTION_NODE_PLAYING(int _Unk0, int _Unk1);
+```

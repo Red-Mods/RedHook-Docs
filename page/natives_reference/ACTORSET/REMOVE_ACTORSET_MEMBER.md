@@ -1,0 +1,5 @@
+# REMOVE_ACTORSET_MEMBER `0xD637E449`
+
+```cpp
+int REMOVE_ACTORSET_MEMBER(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# MARK_REGION_READY `0x276A420B`
+
+```cpp
+void MARK_REGION_READY(int _Unk0);
+```

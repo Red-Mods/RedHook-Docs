@@ -1,0 +1,5 @@
+# SET_ACTOR_TIME_OF_LAST_CRIME `0xE9D86A7A`
+
+```cpp
+int SET_ACTOR_TIME_OF_LAST_CRIME(int _Unk0, int _Unk1);
+```

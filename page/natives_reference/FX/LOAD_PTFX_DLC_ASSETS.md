@@ -1,0 +1,5 @@
+# LOAD_PTFX_DLC_ASSETS `0x48123591`
+
+```cpp
+void LOAD_PTFX_DLC_ASSETS(int _Unk0);
+```

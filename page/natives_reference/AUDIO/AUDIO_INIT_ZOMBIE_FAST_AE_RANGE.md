@@ -1,0 +1,5 @@
+# AUDIO_INIT_ZOMBIE_FAST_AE_RANGE `0x39F5EF0F`
+
+```cpp
+void AUDIO_INIT_ZOMBIE_FAST_AE_RANGE(int _Unk0, int _Unk1);
+```

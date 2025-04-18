@@ -1,0 +1,5 @@
+# GET_GAME_STATE `0xDD9BD22B`
+
+```cpp
+int GET_GAME_STATE();
+```

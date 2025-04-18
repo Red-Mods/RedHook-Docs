@@ -1,0 +1,5 @@
+# STREAMING_EVICT_ACTOR `0x6661CF89`
+
+```cpp
+void STREAMING_EVICT_ACTOR(int _Unk0, int _Unk1);
+```

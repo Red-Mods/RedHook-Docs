@@ -1,0 +1,5 @@
+# AI_RIDING_SET_ENABLED `0xF8AFEFA1`
+
+```cpp
+int AI_RIDING_SET_ENABLED(int _Unk0, int _Unk1);
+```

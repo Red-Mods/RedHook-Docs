@@ -1,0 +1,5 @@
+# GET_ACTOR_KO_POINTS `0x44787A58`
+
+```cpp
+int GET_ACTOR_KO_POINTS(Actor _Actor);
+```

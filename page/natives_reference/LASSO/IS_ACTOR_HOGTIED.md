@@ -1,0 +1,5 @@
+# IS_ACTOR_HOGTIED `0xA610DC79`
+
+```cpp
+int IS_ACTOR_HOGTIED(int _Unk0);
+```

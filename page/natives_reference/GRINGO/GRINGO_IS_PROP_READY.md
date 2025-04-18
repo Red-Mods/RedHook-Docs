@@ -1,0 +1,5 @@
+# GRINGO_IS_PROP_READY `0x24BAABCA`
+
+```cpp
+int GRINGO_IS_PROP_READY(int _Unk0);
+```

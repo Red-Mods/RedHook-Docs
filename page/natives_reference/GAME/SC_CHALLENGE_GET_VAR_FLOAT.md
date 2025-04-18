@@ -1,0 +1,5 @@
+# SC_CHALLENGE_GET_VAR_FLOAT `0xC322556E`
+
+```cpp
+int SC_CHALLENGE_GET_VAR_FLOAT(int _Unk0, int _Unk1);
+```

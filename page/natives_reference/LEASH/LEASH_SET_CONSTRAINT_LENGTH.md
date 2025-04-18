@@ -1,0 +1,5 @@
+# LEASH_SET_CONSTRAINT_LENGTH `0x7F190CA3`
+
+```cpp
+int LEASH_SET_CONSTRAINT_LENGTH(int _Unk0, int _Unk1);
+```

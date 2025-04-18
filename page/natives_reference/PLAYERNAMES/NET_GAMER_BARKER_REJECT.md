@@ -1,0 +1,5 @@
+# NET_GAMER_BARKER_REJECT `0xAB32D5D9`
+
+```cpp
+void NET_GAMER_BARKER_REJECT(int _Unk0);
+```

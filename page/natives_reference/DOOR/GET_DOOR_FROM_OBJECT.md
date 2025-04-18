@@ -1,0 +1,5 @@
+# GET_DOOR_FROM_OBJECT `0x9CE0AA24`
+
+```cpp
+int GET_DOOR_FROM_OBJECT(int _Unk0);
+```

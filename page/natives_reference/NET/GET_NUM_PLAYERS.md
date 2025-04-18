@@ -1,0 +1,5 @@
+# GET_NUM_PLAYERS `0x0F99A8BC`
+
+```cpp
+int GET_NUM_PLAYERS();
+```

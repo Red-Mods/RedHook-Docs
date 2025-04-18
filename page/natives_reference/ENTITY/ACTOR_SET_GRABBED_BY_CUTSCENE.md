@@ -1,0 +1,5 @@
+# ACTOR_SET_GRABBED_BY_CUTSCENE `0x6D3E430D`
+
+```cpp
+void ACTOR_SET_GRABBED_BY_CUTSCENE(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# IS_ACTOR_WHISTLING `0x3612AC73`
+
+```cpp
+int IS_ACTOR_WHISTLING(int _Unk0);
+```

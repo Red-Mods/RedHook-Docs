@@ -1,0 +1,5 @@
+# MARK_LAYOUT_CONSIDER_WHOLE `0xA936E73B`
+
+```cpp
+int MARK_LAYOUT_CONSIDER_WHOLE(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# REMOVE_JOURNAL_ENTRY `0x01BF35BD`
+
+```cpp
+void REMOVE_JOURNAL_ENTRY(int _Unk0, int _Unk1);
+```

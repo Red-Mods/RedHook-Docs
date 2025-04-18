@@ -1,0 +1,5 @@
+# REQUEST_FIXED_CORPSE `0x0D447878`
+
+```cpp
+int REQUEST_FIXED_CORPSE(int _Unk0, int _Unk1);
+```

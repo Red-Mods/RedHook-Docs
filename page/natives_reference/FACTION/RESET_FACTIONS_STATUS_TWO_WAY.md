@@ -1,0 +1,5 @@
+# RESET_FACTIONS_STATUS_TWO_WAY `0x902781BF`
+
+```cpp
+void RESET_FACTIONS_STATUS_TWO_WAY(int _Unk0, int _Unk1);
+```

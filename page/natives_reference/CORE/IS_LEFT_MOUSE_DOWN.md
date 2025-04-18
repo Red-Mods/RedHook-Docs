@@ -1,0 +1,5 @@
+# IS_LEFT_MOUSE_DOWN `0x5AC5CE22`
+
+```cpp
+bool IS_LEFT_MOUSE_DOWN(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# CAN_PLAYER_DIE `0x90F9555B`
+
+```cpp
+bool CAN_PLAYER_DIE();
+```

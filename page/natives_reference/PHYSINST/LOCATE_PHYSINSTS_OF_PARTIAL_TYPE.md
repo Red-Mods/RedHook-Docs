@@ -1,0 +1,5 @@
+# LOCATE_PHYSINSTS_OF_PARTIAL_TYPE `0xC5E372BC`
+
+```cpp
+int LOCATE_PHYSINSTS_OF_PARTIAL_TYPE(int _Unk0, int _Unk1, int _Unk2, int _Unk3);
+```

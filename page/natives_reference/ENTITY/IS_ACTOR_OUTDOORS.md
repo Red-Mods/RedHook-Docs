@@ -1,0 +1,5 @@
+# IS_ACTOR_OUTDOORS `0xE27EBCBD`
+
+```cpp
+int IS_ACTOR_OUTDOORS(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# SET_PROP_COLLIDE_WITH_MOVABLES `0x418A22D5`
+
+```cpp
+void SET_PROP_COLLIDE_WITH_MOVABLES(int _Unk0, int _Unk1);
+```

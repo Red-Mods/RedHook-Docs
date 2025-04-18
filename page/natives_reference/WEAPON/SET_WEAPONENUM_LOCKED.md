@@ -1,0 +1,5 @@
+# SET_WEAPONENUM_LOCKED `0x0E4B7A33`
+
+```cpp
+void SET_WEAPONENUM_LOCKED(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# START_OBJECT_ITERATOR `0xE96A0318`
+
+```cpp
+Object START_OBJECT_ITERATOR(Iterator Iterator);
+```

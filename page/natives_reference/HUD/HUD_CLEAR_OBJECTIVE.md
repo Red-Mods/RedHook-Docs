@@ -1,0 +1,5 @@
+# HUD_CLEAR_OBJECTIVE `0x160BDC7A`
+
+```cpp
+void HUD_CLEAR_OBJECTIVE();
+```

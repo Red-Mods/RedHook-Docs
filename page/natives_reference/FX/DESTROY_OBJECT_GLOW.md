@@ -1,0 +1,5 @@
+# DESTROY_OBJECT_GLOW `0xFC261530`
+
+```cpp
+void DESTROY_OBJECT_GLOW(int _Unk0);
+```

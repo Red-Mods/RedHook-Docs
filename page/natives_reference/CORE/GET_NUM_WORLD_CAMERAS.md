@@ -1,0 +1,5 @@
+# GET_NUM_WORLD_CAMERAS `0x8BD88B43`
+
+```cpp
+int GET_NUM_WORLD_CAMERAS();
+```

@@ -1,0 +1,5 @@
+# DESTROY_OBJECTSET `0x3A71A589`
+
+```cpp
+void DESTROY_OBJECTSET(int _Unk0);
+```

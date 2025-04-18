@@ -1,0 +1,5 @@
+# END_SCRIPTED_REQUEST `0x1958F478`
+
+```cpp
+void END_SCRIPTED_REQUEST(int _Unk0);
+```

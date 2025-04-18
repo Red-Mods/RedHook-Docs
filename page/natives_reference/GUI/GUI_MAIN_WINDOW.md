@@ -1,0 +1,5 @@
+# GUI_MAIN_WINDOW `0x5405B8AA`
+
+```cpp
+GUIWindow GUI_MAIN_WINDOW();
+```

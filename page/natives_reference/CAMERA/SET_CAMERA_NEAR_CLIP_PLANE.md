@@ -1,0 +1,5 @@
+# SET_CAMERA_NEAR_CLIP_PLANE `0x1D29E72A`
+
+```cpp
+void SET_CAMERA_NEAR_CLIP_PLANE(int _Unk0, int _Unk1);
+```

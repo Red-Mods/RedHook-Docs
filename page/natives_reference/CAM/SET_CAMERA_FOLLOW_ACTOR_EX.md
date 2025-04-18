@@ -1,0 +1,5 @@
+# SET_CAMERA_FOLLOW_ACTOR_EX `0x457A0510`
+
+```cpp
+int SET_CAMERA_FOLLOW_ACTOR_EX(int _Unk0, int _Unk1);
+```

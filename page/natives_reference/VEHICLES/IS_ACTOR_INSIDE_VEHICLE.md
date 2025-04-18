@@ -1,0 +1,5 @@
+# IS_ACTOR_INSIDE_VEHICLE `0x12325AE7`
+
+```cpp
+bool IS_ACTOR_INSIDE_VEHICLE(Actor _Actor);
+```

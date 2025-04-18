@@ -1,0 +1,5 @@
+# SET_CRIME_WORLD_REGION `0x8521A685`
+
+```cpp
+void SET_CRIME_WORLD_REGION(int _Unk0, int _Unk1);
+```

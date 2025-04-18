@@ -1,0 +1,5 @@
+# ZOMBIE_DLC_IS_ACTIVE `0x8CF15FCB`
+
+```cpp
+bool ZOMBIE_DLC_IS_ACTIVE();
+```

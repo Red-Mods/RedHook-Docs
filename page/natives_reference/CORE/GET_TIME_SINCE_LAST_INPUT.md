@@ -1,0 +1,5 @@
+# GET_TIME_SINCE_LAST_INPUT `0xD4DEBC08`
+
+```cpp
+int GET_TIME_SINCE_LAST_INPUT(int _Unk0);
+```

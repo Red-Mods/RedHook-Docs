@@ -1,0 +1,5 @@
+# GET_OBJECT_FROM_ANIMATOR `0x4F10FD5B`
+
+```cpp
+int GET_OBJECT_FROM_ANIMATOR(int _Unk0);
+```

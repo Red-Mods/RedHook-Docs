@@ -1,0 +1,5 @@
+# GET_JOURNAL_ENTRY_IN_LIST `0x49B02E18`
+
+```cpp
+int GET_JOURNAL_ENTRY_IN_LIST(int _Unk0, int _Unk1);
+```

@@ -1,0 +1,5 @@
+# GET_VOLUME_FROM_OBJECT `0x502DAC62`
+
+```cpp
+int GET_VOLUME_FROM_OBJECT(int _Unk0);
+```

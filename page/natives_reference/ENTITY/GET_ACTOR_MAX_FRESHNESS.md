@@ -1,0 +1,5 @@
+# GET_ACTOR_MAX_FRESHNESS `0xF1D2A13E`
+
+```cpp
+int GET_ACTOR_MAX_FRESHNESS(int _Unk0);
+```

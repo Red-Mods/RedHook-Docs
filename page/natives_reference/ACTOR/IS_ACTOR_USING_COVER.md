@@ -1,0 +1,5 @@
+# IS_ACTOR_USING_COVER `0xD39C4A9E`
+
+```cpp
+int IS_ACTOR_USING_COVER(int _Unk0);
+```

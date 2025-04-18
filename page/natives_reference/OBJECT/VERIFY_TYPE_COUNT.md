@@ -1,0 +1,5 @@
+# VERIFY_TYPE_COUNT `0x0B396DFF`
+
+```cpp
+void VERIFY_TYPE_COUNT(int _Unk0);
+```

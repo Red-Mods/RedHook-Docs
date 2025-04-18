@@ -1,0 +1,5 @@
+# SET_CAMERASHOT_FROM_LENS `0x6F483443`
+
+```cpp
+void SET_CAMERASHOT_FROM_LENS(int _Unk0, int _Unk1);
+```

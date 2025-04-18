@@ -1,0 +1,5 @@
+# REFERENCE_OBJECT `0x3EEA78A8`
+
+```cpp
+void REFERENCE_OBJECT(int _Unk0);
+```

@@ -1,0 +1,5 @@
+# GET_OBJECT_FROM_PERS_CHAR `0x35B5587D`
+
+```cpp
+int GET_OBJECT_FROM_PERS_CHAR(int _Unk0);
+```

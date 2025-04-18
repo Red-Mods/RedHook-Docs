@@ -1,0 +1,5 @@
+# NAV_QUERY_CAN_PATH_TO_POINT `0x5A511344`
+
+```cpp
+int NAV_QUERY_CAN_PATH_TO_POINT(int _Unk0);
+```

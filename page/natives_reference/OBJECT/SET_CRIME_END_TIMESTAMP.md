@@ -1,0 +1,5 @@
+# SET_CRIME_END_TIMESTAMP `0x898B00F4`
+
+```cpp
+void SET_CRIME_END_TIMESTAMP(int _Unk0, int _Unk1);
+```

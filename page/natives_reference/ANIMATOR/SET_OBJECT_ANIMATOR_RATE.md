@@ -1,0 +1,5 @@
+# SET_OBJECT_ANIMATOR_RATE `0x0B4D9AFA`
+
+```cpp
+int SET_OBJECT_ANIMATOR_RATE(int _Unk0, int _Unk1);
+```

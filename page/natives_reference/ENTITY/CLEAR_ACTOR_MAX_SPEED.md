@@ -1,0 +1,5 @@
+# CLEAR_ACTOR_MAX_SPEED `0xA9691E66`
+
+```cpp
+void CLEAR_ACTOR_MAX_SPEED(int _Unk0);
+```

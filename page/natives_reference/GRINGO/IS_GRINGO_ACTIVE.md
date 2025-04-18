@@ -1,0 +1,5 @@
+# IS_GRINGO_ACTIVE `0x86F2C24D`
+
+```cpp
+bool IS_GRINGO_ACTIVE();
+```

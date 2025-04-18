@@ -1,0 +1,5 @@
+# IS_PLAYER_IN_COMBAT_WITHIN `0x48B7C279`
+
+```cpp
+int IS_PLAYER_IN_COMBAT_WITHIN(int _Unk0, int _Unk1);
+```

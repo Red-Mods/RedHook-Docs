@@ -1,0 +1,5 @@
+# CREATE_MOBILE_LAYOUT `0x426828CB`
+
+```cpp
+int CREATE_MOBILE_LAYOUT(int _Unk0);
+```
