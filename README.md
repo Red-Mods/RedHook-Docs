@@ -4,10 +4,10 @@
 
 ## Preview
 
-![RedHook Console](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/red_hook_console.png)
+![RedHook Console](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/red_hook_console.jpg)
 
 *RedHook console*
 
-![Red Trainer](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/red_trainer.png)
+![Red Trainer](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/red_trainer.jpg)
 
 *Red Trainer loaded with RedHook*
