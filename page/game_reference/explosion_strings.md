@@ -1,6 +1,6 @@
 # Explosion Strings
 
-All the explosion strings that can be used with [_CREATE_EXPLOSION](https://docs.redmods.com/#/page/natives_reference/EXPLOSION/_CREATE_EXPLOSION). Thanks to [@EvilBlunt](https://github.com/EvilBlunt/RDR-Strings-and-Enums/)
+All the explosion strings that can be used with [_CREATE_EXPLOSION](#/page/natives_reference/EXPLOSION/_CREATE_EXPLOSION). Thanks to [@EvilBlunt](https://github.com/EvilBlunt/RDR-Strings-and-Enums/)
 
 ## Known Natives that use these Explosion Strings
 
