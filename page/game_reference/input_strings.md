@@ -6,129 +6,129 @@ This is the full list of input strings used for both keyboard & controller. Than
 ###### (Keyboard Binds, these will change to the input you set in the keybinds in game settings)
 | Input | XBOX Controller | Keyboard Default Binds |
 | :------------ | :------------: | :------------: |
-| INPUT_UI_ACCEPT | ![A](assets/xbox_button_icons/0MgNhZs.png) | ![ENTER](assets/keyboard_button_icons/mheU3l1.png) |
-| INPUT_UI_CANCEL | ![B](assets/xbox_button_icons/9qlEa0H.png) | ![ESC](assets/keyboard_button_icons/dGSRbDM.png) |
-| INPUT_UI_CANCEL_MINIGAME | ![B](assets/xbox_button_icons/9qlEa0H.png) | ![BACKSPACE](assets/keyboard_button_icons/u4FKal0.png) |
-| INPUT_UI_ACTION_1 | ![Y](assets/xbox_button_icons/ymqhroT.png) | ![F](assets/keyboard_button_icons/iYw7noh.png) |
-| INPUT_UI_ACTION_2 | ![X](assets/xbox_button_icons/jMHzSOK.png) | ![R](assets/keyboard_button_icons/gnZ5UD1.png) |
-| INPUT_UI_ACTION_3 | ![LSTICK](assets/xbox_button_icons/Tyv59XP.png) | ![1](assets/keyboard_button_icons/3yCqG1z.png) |
-| INPUT_UI_ACTION_4 | ![RSTICK](assets/xbox_button_icons/y6XAou1.png) | ![2](assets/keyboard_button_icons/Xh76i5f.png) |
-| INPUT_UI_PREVIOUS_TAB | ![LB](assets/xbox_button_icons/cTjruGm.png) | ![Q](assets/keyboard_button_icons/omQzLq7.png) |
-| INPUT_UI_NEXT_TAB | ![RB](assets/xbox_button_icons/N6tGiDZ.png) | ![E](assets/keyboard_button_icons/51oVmKd.png) |
-| INPUT_UI_ZOOM_OUT | ![LTRIGGER](assets/xbox_button_icons/B32aDhG.png) | ![MOUSE WHEEL DOWN](assets/keyboard_button_icons/VDXrznb.png) |
-| INPUT_UI_ZOOM_IN | ![RTRIGGER](assets/xbox_button_icons/8fBZX5u.png) | ![MOUSE WHEEL UP](assets/keyboard_button_icons/DlESthY.png) |
-| INPUT_UI_ZOOM_CINEMA | ![LTRIGGER](assets/xbox_button_icons/B32aDhG.png) | ![Z](assets/keyboard_button_icons/9WXV6Iw.png) |
-| INPUT_UI_NAVIGATE_UP | ![LSTICK UP](assets/xbox_button_icons/56r5WfQ.png) | ![ARROW KEY UP](assets/keyboard_button_icons/XGZcdO6.png) |
-| INPUT_UI_NAVIGATE_DOWN | ![LSTICK DOWN](assets/xbox_button_icons/OdtXqAz.png) | ![ARROW KEY DOWN](assets/keyboard_button_icons/xQ2pr13.png) |
-| INPUT_UI_NAVIGATE_LEFT | ![LSTICK LEFT](assets/xbox_button_icons/uli3Fjg.png) | ![ARROW KEY LEFT](assets/keyboard_button_icons/wXlc9Q3.png) |
-| INPUT_UI_NAVIGATE_RIGHT | ![LSTICK RIGHT](assets/xbox_button_icons/KGDLRtz.png) | ![ARROW KEY RIGHT](assets/keyboard_button_icons/tyQGf6T.png) |
-| INPUT_UI_MOUSE_CLICK |  | ![MOUSE LEFT BUTTON](assets/keyboard_button_icons/aQ7tPx4.png) |
-| INPUT_UI_VKB_CANCEL | ![B](assets/xbox_button_icons/9qlEa0H.png) | ![ESC](assets/keyboard_button_icons/dGSRbDM.png) |
-| INPUT_CAMERA_UP | ![RSTICK UP](assets/xbox_button_icons/fzedbwG.png) | ![MOUSE UP](assets/keyboard_button_icons/su3k5jY.png) |
-| INPUT_CAMERA_DOWN | ![RSTICK DOWN](assets/xbox_button_icons/tmHxTj9.png) | ![MOUSE DOWN](assets/keyboard_button_icons/vwFvTiW.png) |
-| INPUT_CAMERA_LEFT | ![RSTICK LEFT](assets/xbox_button_icons/Ywf2oqu.png) | ![MOUSE LEFT](assets/keyboard_button_icons/SL3aeo5.png) |
-| INPUT_CAMERA_RIGHT | ![RSTICK RIGHT](assets/xbox_button_icons/AExTLDs.png) | ![MOUSE RIGHT](assets/keyboard_button_icons/mP8gXSY.png) |
-| INPUT_CAMERA_LOOK_BACK | ![RSTICK](assets/xbox_button_icons/y6XAou1.png) | ![C](assets/keyboard_button_icons/AJuEcTa.png) |
-| INPUT_CAMERA_SWITCH_LEFT | ![DPAD LEFT](assets/xbox_button_icons/8KEeiDT.png) | ![X](assets/keyboard_button_icons/lWkYN97.png) |
-| INPUT_CAMERA_SWITCH_RIGHT | ![DPAD RIGHT](assets/xbox_button_icons/EPioFjm.png) |  |
-| INPUT_FOOT_INTERACT | ![B](assets/xbox_button_icons/9qlEa0H.png) | ![R](assets/keyboard_button_icons/gnZ5UD1.png) |
-| INPUT_FOOT_COVER | ![RB](assets/xbox_button_icons/N6tGiDZ.png) | ![Q](assets/keyboard_button_icons/omQzLq7.png) |
-| INPUT_FOOT_CROUCH | ![LSTICK](assets/xbox_button_icons/Tyv59XP.png) | ![LCTRL](assets/keyboard_button_icons/PPkge6g.png) |
-| INPUT_FOOT_JUMP | ![X](assets/xbox_button_icons/jMHzSOK.png) | ![SPACEBAR](assets/keyboard_button_icons/GXImT6Z.png) |
-| INPUT_FOOT_SPRINT | ![A](assets/xbox_button_icons/0MgNhZs.png) | ![LSHIFT](assets/keyboard_button_icons/xaRSH4t.png) |
-| INPUT_FOOT_MELEE_BLOCK | ![RB](assets/xbox_button_icons/N6tGiDZ.png) | ![R](assets/keyboard_button_icons/gnZ5UD1.png) |
-| INPUT_FOOT_MELEE_SPECIAL | ![Y](assets/xbox_button_icons/ymqhroT.png) | ![F](assets/keyboard_button_icons/iYw7noh.png) |
-| INPUT_GENERIC_MOVE_FORWARD | ![LSTICK UP](assets/xbox_button_icons/56r5WfQ.png) | ![W](assets/keyboard_button_icons/nxFGt0O.png) |
-| INPUT_GENERIC_MOVE_LEFT | ![LSTICK LEFT](assets/xbox_button_icons/uli3Fjg.png) | ![A](assets/keyboard_button_icons/VvYaWhc.png) |
-| INPUT_GENERIC_MOVE_BACK | ![LSTICK DOWN](assets/xbox_button_icons/OdtXqAz.png) | ![S](assets/keyboard_button_icons/4VN6vKR.png) |
-| INPUT_GENERIC_MOVE_RIGHT | ![LSTICK RIGHT](assets/xbox_button_icons/KGDLRtz.png) | ![D](assets/keyboard_button_icons/SdwDh03.png) |
-| INPUT_GENERIC_INVENTORY | ![BACK BUTTON](assets/xbox_button_icons/K8MY7XX.png) | ![B](assets/keyboard_button_icons/MxRNA2U.png) |
-| INPUT_GENERIC_BRAKE | ![RB](assets/xbox_button_icons/N6tGiDZ.png) | ![LCTRL](assets/keyboard_button_icons/PPkge6g.png) |
-| INPUT_GENERIC_USE | ![Y](assets/xbox_button_icons/ymqhroT.png) | ![E](assets/keyboard_button_icons/51oVmKd.png) |
-| INPUT_GENERIC_USE2 | ![X](assets/xbox_button_icons/jMHzSOK.png) | ![F](assets/keyboard_button_icons/iYw7noh.png) |
-| INPUT_GENERIC_TARGET | ![LTRIGGER](assets/xbox_button_icons/B32aDhG.png) | ![MOUSE RIGHT BUTTON](assets/keyboard_button_icons/Unt19bP.png) |
-| INPUT_GENERIC_FIRE | ![RTRIGGER](assets/xbox_button_icons/8fBZX5u.png) | ![MOUSE LEFT BUTTON](assets/keyboard_button_icons/aQ7tPx4.png) |
-| INPUT_GENERIC_WHISTLE | ![DPAD UP](assets/xbox_button_icons/g8GVkR6.png) | ![H](assets/keyboard_button_icons/0xKwbI7.png) |
-| INPUT_GENERIC_ZOOM_RADAR | ![DPAD DOWN](assets/xbox_button_icons/Zk4k6Jy.png) | ![T](assets/keyboard_button_icons/v517pTF.png) |
-| INPUT_GENERIC_DEADEYE | ![RSTICK](assets/xbox_button_icons/y6XAou1.png) | ![MOUSE WHEEL CLICK](assets/keyboard_button_icons/knSdcDh.png) |
-| INPUT_GENERIC_DEADEYE_PAINT | ![RB](assets/xbox_button_icons/N6tGiDZ.png) | ![Q](assets/keyboard_button_icons/omQzLq7.png) |
-| INPUT_GENERIC_RELOAD | ![B](assets/xbox_button_icons/9qlEa0H.png) | ![R](assets/keyboard_button_icons/gnZ5UD1.png) |
-| INPUT_GENERIC_LOOK_AT | ![B](assets/xbox_button_icons/9qlEa0H.png) | ![V](assets/keyboard_button_icons/TxV371v.png) |
-| INPUT_HORSE_SPUR | ![A](assets/xbox_button_icons/0MgNhZs.png) | ![LSHIFT](assets/keyboard_button_icons/xaRSH4t.png) |
-| INPUT_HORSE_JUMP | ![X](assets/xbox_button_icons/jMHzSOK.png) | ![SPACEBAR](assets/keyboard_button_icons/GXImT6Z.png) |
-| INPUT_PRESS_START_OPEN_SETTINGS | ![LSTICK](assets/xbox_button_icons/Tyv59XP.png) | ![Z](assets/keyboard_button_icons/9WXV6Iw.png) |
-| INPUT_PRESS_START_PRESS_START | ![A](assets/xbox_button_icons/0MgNhZs.png) | ![ENTER](assets/keyboard_button_icons/mheU3l1.png) |
-| INPUT_PAUSE_PAUSE | ![START](assets/xbox_button_icons/9wTmr5n.png) | ![ESC](assets/keyboard_button_icons/dGSRbDM.png) |
-| INPUT_DETONATOR_DETONATE | ![RTRIGGER](assets/xbox_button_icons/8fBZX5u.png) | ![SPACEBAR](assets/keyboard_button_icons/GXImT6Z.png) |
-| INPUT_DETONATOR_LEAVE | ![Y](assets/xbox_button_icons/ymqhroT.png) | ![E](assets/keyboard_button_icons/51oVmKd.png) |
-| INPUT_DETONATOR_LOOK_AT_TARGET | ![B](assets/xbox_button_icons/9qlEa0H.png) | ![V](assets/keyboard_button_icons/TxV371v.png) |
-| INPUT_DETONATOR_SELECT_LEFT | ![LSTICK LEFT](assets/xbox_button_icons/uli3Fjg.png) | ![A](assets/keyboard_button_icons/VvYaWhc.png) |
-| INPUT_DETONATOR_SELECT_RIGHT | ![LSTICK RIGHT](assets/xbox_button_icons/KGDLRtz.png) | ![D](assets/keyboard_button_icons/SdwDh03.png) |
-| INPUT_KEYBINDINGS_DELETE | ![RSTICK](assets/xbox_button_icons/y6XAou1.png) | ![X](assets/keyboard_button_icons/lWkYN97.png) |
-| INPUT_KEYBINDINGS_RESET | ![Y](assets/xbox_button_icons/ymqhroT.png) | ![LSHIFT](assets/keyboard_button_icons/xaRSH4t.png) |
-| INPUT_KEYBINDINGS_RESTORE | ![X](assets/xbox_button_icons/jMHzSOK.png) | ![SPACEBAR](assets/keyboard_button_icons/GXImT6Z.png) |
-| INPUT_MAP_OPEN | ![START](assets/xbox_button_icons/9wTmr5n.png) | ![M](assets/keyboard_button_icons/GPe4udU.png) |
-| INPUT_MAP_SCROLL_UP | ![LSTICK UP](assets/xbox_button_icons/56r5WfQ.png) | ![MOUSE UP](assets/keyboard_button_icons/su3k5jY.png) |
-| INPUT_MAP_SCROLL_DOWN | ![LSTICK DOWN](assets/xbox_button_icons/OdtXqAz.png) | ![MOUSE DOWN](assets/keyboard_button_icons/vwFvTiW.png) |
-| INPUT_MAP_SCROLL_LEFT | ![LSTICK LEFT](assets/xbox_button_icons/uli3Fjg.png) | ![MOUSE LEFT](assets/keyboard_button_icons/SL3aeo5.png) |
-| INPUT_MAP_SCROLL_RIGHT | ![LSTICK RIGHT](assets/xbox_button_icons/KGDLRtz.png) | ![MOUSE RIGHT](assets/keyboard_button_icons/mP8gXSY.png) |
-| INPUT_MAP_SCROLL_LEGEND_UP | ![RSTICK UP](assets/xbox_button_icons/fzedbwG.png) | ![MOUSE WHEEL UP](assets/keyboard_button_icons/DlESthY.png) |
-| INPUT_MAP_SCROLL_LEGEND_DOWN | ![RSTICK DOWN](assets/xbox_button_icons/tmHxTj9.png) | ![MOUSE WHEEL DOWN](assets/keyboard_button_icons/VDXrznb.png) |
-| INPUT_MAP_PLACE_WAYPOINT | ![A](assets/xbox_button_icons/0MgNhZs.png) | ![ENTER](assets/keyboard_button_icons/mheU3l1.png) |
-| INPUT_RADIAL_MENU_LEFT | ![DPAD LEFT](assets/xbox_button_icons/8KEeiDT.png) |  |
-| INPUT_RADIAL_MENU_RIGHT | ![DPAD RIGHT](assets/xbox_button_icons/EPioFjm.png) |  |
-| INPUT_RADIAL_MENU_SHOW_HIDE | ![RB](assets/xbox_button_icons/N6tGiDZ.png) | ![TAB](assets/keyboard_button_icons/Wm7nhET.png) |
-| INPUT_SHOP_INCREASE_QUANTITY | ![RSTICK UP](assets/xbox_button_icons/fzedbwG.png) | ![I](assets/keyboard_button_icons/TRX0jkE.png) |
-| INPUT_SHOP_DECREASE_QUANTITY | ![RSTICK DOWN](assets/xbox_button_icons/tmHxTj9.png) | ![K](assets/keyboard_button_icons/1Hl2FUK.png) |
-| INPUT_WAGON_SWITCH_SEAT | ![X](assets/xbox_button_icons/jMHzSOK.png) | ![R](assets/keyboard_button_icons/gnZ5UD1.png) |
-| INPUT_ARM_WRESTLING_SKIP_HELP | ![RB](assets/xbox_button_icons/N6tGiDZ.png) | ![Q](assets/keyboard_button_icons/omQzLq7.png) |
-| INPUT_ARM_WRESTLING_CAMERA_TOGGLE | ![Y](assets/xbox_button_icons/ymqhroT.png) | ![C](assets/keyboard_button_icons/AJuEcTa.png) |
-| INPUT_ARM_WRESTLING_WRESTLE | ![A](assets/xbox_button_icons/0MgNhZs.png) | ![MOUSE LEFT BUTTON](assets/keyboard_button_icons/aQ7tPx4.png) |
-| INPUT_ARM_WRESTLING_SLAM | ![X](assets/xbox_button_icons/jMHzSOK.png) | ![S](assets/keyboard_button_icons/4VN6vKR.png) |
-| INPUT_BLACKJACK_SKIP_DEAL | ![LB](assets/xbox_button_icons/cTjruGm.png) | ![RCTRL](assets/keyboard_button_icons/nZc6PrH.png) |
-| INPUT_BLACKJACK_ACCEPT_INSURANCE | ![X](assets/xbox_button_icons/jMHzSOK.png) | ![R](assets/keyboard_button_icons/gnZ5UD1.png) |
-| INPUT_BLACKJACK_REJECT_INSURANCE | ![A](assets/xbox_button_icons/0MgNhZs.png) | ![F](assets/keyboard_button_icons/iYw7noh.png) |
-| INPUT_BLACKJACK_HIT | ![X](assets/xbox_button_icons/jMHzSOK.png) | ![A](assets/keyboard_button_icons/VvYaWhc.png) |
-| INPUT_BLACKJACK_SPLIT | ![RB](assets/xbox_button_icons/N6tGiDZ.png) | ![X](assets/keyboard_button_icons/lWkYN97.png) |
-| INPUT_BLACKJACK_DOUBLE_DOWN | ![Y](assets/xbox_button_icons/ymqhroT.png) | ![D](assets/keyboard_button_icons/SdwDh03.png) |
-| INPUT_BLACKJACK_STAND | ![A](assets/xbox_button_icons/0MgNhZs.png) | ![S](assets/keyboard_button_icons/4VN6vKR.png) |
-| INPUT_POKER_CHEAT | ![Y](assets/xbox_button_icons/ymqhroT.png) | ![Y](assets/keyboard_button_icons/5wZwWlk.png) |
-| INPUT_POKER_FOLD | ![X](assets/xbox_button_icons/jMHzSOK.png) | ![F](assets/keyboard_button_icons/iYw7noh.png) |
-| INPUT_FIVE_FINGER_A_BUTTON | ![A](assets/xbox_button_icons/0MgNhZs.png) | ![1](assets/keyboard_button_icons/3yCqG1z.png) |
-| INPUT_FIVE_FINGER_B_BUTTON | ![B](assets/xbox_button_icons/9qlEa0H.png) | ![2](assets/keyboard_button_icons/Xh76i5f.png) |
-| INPUT_FIVE_FINGER_C_BUTTON | ![Y](assets/xbox_button_icons/ymqhroT.png) | ![3](assets/keyboard_button_icons/aNT1Ej0.png) |
-| INPUT_FIVE_FINGER_D_BUTTON | ![X](assets/xbox_button_icons/jMHzSOK.png) | ![4](assets/keyboard_button_icons/opr6qmR.png) |
-| INPUT_HORSESHOES_ZOOM_AT_STAKE | ![X](assets/xbox_button_icons/jMHzSOK.png) | ![E](assets/keyboard_button_icons/51oVmKd.png) |
-| INPUT_HORSESHOES_SKIP_TO_PLAYER | ![A](assets/xbox_button_icons/0MgNhZs.png) | ![Q](assets/keyboard_button_icons/omQzLq7.png) |
-| INPUT_HORSESHOES_RELEASE | ![RTRIGGER](assets/xbox_button_icons/8fBZX5u.png) | ![SPACEBAR](assets/keyboard_button_icons/GXImT6Z.png) |
-| INPUT_HORSESHOES_AIM | ![LTRIGGER](assets/xbox_button_icons/B32aDhG.png) | ![LCTRL](assets/keyboard_button_icons/PPkge6g.png) |
-| INPUT_HORSESHOES_AIM_LEFT | ![LSTICK LEFT](assets/xbox_button_icons/uli3Fjg.png) | ![A](assets/keyboard_button_icons/VvYaWhc.png) |
-| INPUT_HORSESHOES_AIM_RIGHT | ![LSTICK RIGHT](assets/xbox_button_icons/KGDLRtz.png) | ![D](assets/keyboard_button_icons/SdwDh03.png) |
-| INPUT_HORSESHOES_SWITCH_SIDES | ![A](assets/xbox_button_icons/0MgNhZs.png) | ![R](assets/keyboard_button_icons/gnZ5UD1.png) |
-| INPUT_HORSESHOES_SWING_FORWARD | ![RSTICK UP](assets/xbox_button_icons/fzedbwG.png) | ![W](assets/keyboard_button_icons/nxFGt0O.png) |
-| INPUT_HORSESHOES_SWING_BACKWARD | ![RSTICK DOWN](assets/xbox_button_icons/tmHxTj9.png) | ![S](assets/keyboard_button_icons/4VN6vKR.png) |
-| INPUT_LIARS_DICE_ANTE | ![X](assets/xbox_button_icons/jMHzSOK.png) | ![SPACEBAR](assets/keyboard_button_icons/GXImT6Z.png) |
-| INPUT_LIARS_DICE_CHANGE_DICE_UP | ![RSTICK UP](assets/xbox_button_icons/fzedbwG.png) | ![ARROW KEY UP](assets/keyboard_button_icons/XGZcdO6.png) |
-| INPUT_LIARS_DICE_CHANGE_DICE_DOWN | ![RSTICK DOWN](assets/xbox_button_icons/tmHxTj9.png) | ![ARROW KEY DOWN](assets/keyboard_button_icons/xQ2pr13.png) |
-| INPUT_LIARS_DICE_SPOT_ON | ![Y](assets/xbox_button_icons/ymqhroT.png) | ![D](assets/keyboard_button_icons/SdwDh03.png) |
-| INPUT_MINIGAME_INCREASE_BET | ![DPAD UP](assets/xbox_button_icons/g8GVkR6.png) | ![W](assets/keyboard_button_icons/nxFGt0O.png) |
-| INPUT_MINIGAME_DECREASE_BET | ![DPAD DOWN](assets/xbox_button_icons/Zk4k6Jy.png) | ![S](assets/keyboard_button_icons/4VN6vKR.png) |
-| INPUT_MINIGAME_SKIP_HELP | ![A](assets/xbox_button_icons/0MgNhZs.png) | ![Q](assets/keyboard_button_icons/omQzLq7.png) |
-| INPUT_MINIGAME_SHOW_HELP | ![BACK BUTTON](assets/xbox_button_icons/K8MY7XX.png) | ![TAB](assets/keyboard_button_icons/Wm7nhET.png) |
-| INPUT_MINIGAME_SKIP_TO_PLAYER | ![RB](assets/xbox_button_icons/N6tGiDZ.png) | ![LCTRL](assets/keyboard_button_icons/PPkge6g.png) |
-| INPUT_MINIGAME_LOOK_AROUND |  | ![LALT](assets/keyboard_button_icons/u4YFYb8.png) |
-| INPUT_MINIGAME_LOOK_AT_HAND | ![RTRIGGER](assets/xbox_button_icons/8fBZX5u.png) | ![LSHIFT](assets/keyboard_button_icons/xaRSH4t.png) |
-| INPUT_MINIGAME_LOOK_AT_DEALER | ![LTRIGGER](assets/xbox_button_icons/B32aDhG.png) | ![E](assets/keyboard_button_icons/51oVmKd.png) |
+| INPUT_UI_ACCEPT | ![A](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/0MgNhZs.png) | ![ENTER](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/mheU3l1.png) |
+| INPUT_UI_CANCEL | ![B](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/9qlEa0H.png) | ![ESC](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/dGSRbDM.png) |
+| INPUT_UI_CANCEL_MINIGAME | ![B](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/9qlEa0H.png) | ![BACKSPACE](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/u4FKal0.png) |
+| INPUT_UI_ACTION_1 | ![Y](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/ymqhroT.png) | ![F](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/iYw7noh.png) |
+| INPUT_UI_ACTION_2 | ![X](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/jMHzSOK.png) | ![R](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/gnZ5UD1.png) |
+| INPUT_UI_ACTION_3 | ![LSTICK](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/Tyv59XP.png) | ![1](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/3yCqG1z.png) |
+| INPUT_UI_ACTION_4 | ![RSTICK](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/y6XAou1.png) | ![2](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/Xh76i5f.png) |
+| INPUT_UI_PREVIOUS_TAB | ![LB](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/cTjruGm.png) | ![Q](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/omQzLq7.png) |
+| INPUT_UI_NEXT_TAB | ![RB](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/N6tGiDZ.png) | ![E](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/51oVmKd.png) |
+| INPUT_UI_ZOOM_OUT | ![LTRIGGER](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/B32aDhG.png) | ![MOUSE WHEEL DOWN](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/VDXrznb.png) |
+| INPUT_UI_ZOOM_IN | ![RTRIGGER](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/8fBZX5u.png) | ![MOUSE WHEEL UP](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/DlESthY.png) |
+| INPUT_UI_ZOOM_CINEMA | ![LTRIGGER](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/B32aDhG.png) | ![Z](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/9WXV6Iw.png) |
+| INPUT_UI_NAVIGATE_UP | ![LSTICK UP](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/56r5WfQ.png) | ![ARROW KEY UP](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/XGZcdO6.png) |
+| INPUT_UI_NAVIGATE_DOWN | ![LSTICK DOWN](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/OdtXqAz.png) | ![ARROW KEY DOWN](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/xQ2pr13.png) |
+| INPUT_UI_NAVIGATE_LEFT | ![LSTICK LEFT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/uli3Fjg.png) | ![ARROW KEY LEFT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/wXlc9Q3.png) |
+| INPUT_UI_NAVIGATE_RIGHT | ![LSTICK RIGHT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/KGDLRtz.png) | ![ARROW KEY RIGHT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/tyQGf6T.png) |
+| INPUT_UI_MOUSE_CLICK |  | ![MOUSE LEFT BUTTON](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/aQ7tPx4.png) |
+| INPUT_UI_VKB_CANCEL | ![B](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/9qlEa0H.png) | ![ESC](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/dGSRbDM.png) |
+| INPUT_CAMERA_UP | ![RSTICK UP](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/fzedbwG.png) | ![MOUSE UP](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/su3k5jY.png) |
+| INPUT_CAMERA_DOWN | ![RSTICK DOWN](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/tmHxTj9.png) | ![MOUSE DOWN](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/vwFvTiW.png) |
+| INPUT_CAMERA_LEFT | ![RSTICK LEFT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/Ywf2oqu.png) | ![MOUSE LEFT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/SL3aeo5.png) |
+| INPUT_CAMERA_RIGHT | ![RSTICK RIGHT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/AExTLDs.png) | ![MOUSE RIGHT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/mP8gXSY.png) |
+| INPUT_CAMERA_LOOK_BACK | ![RSTICK](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/y6XAou1.png) | ![C](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/AJuEcTa.png) |
+| INPUT_CAMERA_SWITCH_LEFT | ![DPAD LEFT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/8KEeiDT.png) | ![X](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/lWkYN97.png) |
+| INPUT_CAMERA_SWITCH_RIGHT | ![DPAD RIGHT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/EPioFjm.png) |  |
+| INPUT_FOOT_INTERACT | ![B](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/9qlEa0H.png) | ![R](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/gnZ5UD1.png) |
+| INPUT_FOOT_COVER | ![RB](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/N6tGiDZ.png) | ![Q](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/omQzLq7.png) |
+| INPUT_FOOT_CROUCH | ![LSTICK](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/Tyv59XP.png) | ![LCTRL](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/PPkge6g.png) |
+| INPUT_FOOT_JUMP | ![X](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/jMHzSOK.png) | ![SPACEBAR](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/GXImT6Z.png) |
+| INPUT_FOOT_SPRINT | ![A](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/0MgNhZs.png) | ![LSHIFT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/xaRSH4t.png) |
+| INPUT_FOOT_MELEE_BLOCK | ![RB](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/N6tGiDZ.png) | ![R](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/gnZ5UD1.png) |
+| INPUT_FOOT_MELEE_SPECIAL | ![Y](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/ymqhroT.png) | ![F](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/iYw7noh.png) |
+| INPUT_GENERIC_MOVE_FORWARD | ![LSTICK UP](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/56r5WfQ.png) | ![W](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/nxFGt0O.png) |
+| INPUT_GENERIC_MOVE_LEFT | ![LSTICK LEFT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/uli3Fjg.png) | ![A](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/VvYaWhc.png) |
+| INPUT_GENERIC_MOVE_BACK | ![LSTICK DOWN](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/OdtXqAz.png) | ![S](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/4VN6vKR.png) |
+| INPUT_GENERIC_MOVE_RIGHT | ![LSTICK RIGHT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/KGDLRtz.png) | ![D](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/SdwDh03.png) |
+| INPUT_GENERIC_INVENTORY | ![BACK BUTTON](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/K8MY7XX.png) | ![B](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/MxRNA2U.png) |
+| INPUT_GENERIC_BRAKE | ![RB](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/N6tGiDZ.png) | ![LCTRL](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/PPkge6g.png) |
+| INPUT_GENERIC_USE | ![Y](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/ymqhroT.png) | ![E](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/51oVmKd.png) |
+| INPUT_GENERIC_USE2 | ![X](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/jMHzSOK.png) | ![F](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/iYw7noh.png) |
+| INPUT_GENERIC_TARGET | ![LTRIGGER](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/B32aDhG.png) | ![MOUSE RIGHT BUTTON](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/Unt19bP.png) |
+| INPUT_GENERIC_FIRE | ![RTRIGGER](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/8fBZX5u.png) | ![MOUSE LEFT BUTTON](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/aQ7tPx4.png) |
+| INPUT_GENERIC_WHISTLE | ![DPAD UP](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/g8GVkR6.png) | ![H](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/0xKwbI7.png) |
+| INPUT_GENERIC_ZOOM_RADAR | ![DPAD DOWN](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/Zk4k6Jy.png) | ![T](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/v517pTF.png) |
+| INPUT_GENERIC_DEADEYE | ![RSTICK](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/y6XAou1.png) | ![MOUSE WHEEL CLICK](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/knSdcDh.png) |
+| INPUT_GENERIC_DEADEYE_PAINT | ![RB](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/N6tGiDZ.png) | ![Q](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/omQzLq7.png) |
+| INPUT_GENERIC_RELOAD | ![B](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/9qlEa0H.png) | ![R](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/gnZ5UD1.png) |
+| INPUT_GENERIC_LOOK_AT | ![B](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/9qlEa0H.png) | ![V](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/TxV371v.png) |
+| INPUT_HORSE_SPUR | ![A](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/0MgNhZs.png) | ![LSHIFT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/xaRSH4t.png) |
+| INPUT_HORSE_JUMP | ![X](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/jMHzSOK.png) | ![SPACEBAR](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/GXImT6Z.png) |
+| INPUT_PRESS_START_OPEN_SETTINGS | ![LSTICK](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/Tyv59XP.png) | ![Z](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/9WXV6Iw.png) |
+| INPUT_PRESS_START_PRESS_START | ![A](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/0MgNhZs.png) | ![ENTER](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/mheU3l1.png) |
+| INPUT_PAUSE_PAUSE | ![START](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/9wTmr5n.png) | ![ESC](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/dGSRbDM.png) |
+| INPUT_DETONATOR_DETONATE | ![RTRIGGER](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/8fBZX5u.png) | ![SPACEBAR](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/GXImT6Z.png) |
+| INPUT_DETONATOR_LEAVE | ![Y](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/ymqhroT.png) | ![E](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/51oVmKd.png) |
+| INPUT_DETONATOR_LOOK_AT_TARGET | ![B](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/9qlEa0H.png) | ![V](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/TxV371v.png) |
+| INPUT_DETONATOR_SELECT_LEFT | ![LSTICK LEFT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/uli3Fjg.png) | ![A](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/VvYaWhc.png) |
+| INPUT_DETONATOR_SELECT_RIGHT | ![LSTICK RIGHT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/KGDLRtz.png) | ![D](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/SdwDh03.png) |
+| INPUT_KEYBINDINGS_DELETE | ![RSTICK](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/y6XAou1.png) | ![X](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/lWkYN97.png) |
+| INPUT_KEYBINDINGS_RESET | ![Y](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/ymqhroT.png) | ![LSHIFT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/xaRSH4t.png) |
+| INPUT_KEYBINDINGS_RESTORE | ![X](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/jMHzSOK.png) | ![SPACEBAR](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/GXImT6Z.png) |
+| INPUT_MAP_OPEN | ![START](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/9wTmr5n.png) | ![M](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/GPe4udU.png) |
+| INPUT_MAP_SCROLL_UP | ![LSTICK UP](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/56r5WfQ.png) | ![MOUSE UP](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/su3k5jY.png) |
+| INPUT_MAP_SCROLL_DOWN | ![LSTICK DOWN](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/OdtXqAz.png) | ![MOUSE DOWN](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/vwFvTiW.png) |
+| INPUT_MAP_SCROLL_LEFT | ![LSTICK LEFT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/uli3Fjg.png) | ![MOUSE LEFT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/SL3aeo5.png) |
+| INPUT_MAP_SCROLL_RIGHT | ![LSTICK RIGHT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/KGDLRtz.png) | ![MOUSE RIGHT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/mP8gXSY.png) |
+| INPUT_MAP_SCROLL_LEGEND_UP | ![RSTICK UP](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/fzedbwG.png) | ![MOUSE WHEEL UP](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/DlESthY.png) |
+| INPUT_MAP_SCROLL_LEGEND_DOWN | ![RSTICK DOWN](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/tmHxTj9.png) | ![MOUSE WHEEL DOWN](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/VDXrznb.png) |
+| INPUT_MAP_PLACE_WAYPOINT | ![A](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/0MgNhZs.png) | ![ENTER](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/mheU3l1.png) |
+| INPUT_RADIAL_MENU_LEFT | ![DPAD LEFT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/8KEeiDT.png) |  |
+| INPUT_RADIAL_MENU_RIGHT | ![DPAD RIGHT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/EPioFjm.png) |  |
+| INPUT_RADIAL_MENU_SHOW_HIDE | ![RB](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/N6tGiDZ.png) | ![TAB](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/Wm7nhET.png) |
+| INPUT_SHOP_INCREASE_QUANTITY | ![RSTICK UP](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/fzedbwG.png) | ![I](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/TRX0jkE.png) |
+| INPUT_SHOP_DECREASE_QUANTITY | ![RSTICK DOWN](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/tmHxTj9.png) | ![K](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/1Hl2FUK.png) |
+| INPUT_WAGON_SWITCH_SEAT | ![X](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/jMHzSOK.png) | ![R](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/gnZ5UD1.png) |
+| INPUT_ARM_WRESTLING_SKIP_HELP | ![RB](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/N6tGiDZ.png) | ![Q](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/omQzLq7.png) |
+| INPUT_ARM_WRESTLING_CAMERA_TOGGLE | ![Y](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/ymqhroT.png) | ![C](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/AJuEcTa.png) |
+| INPUT_ARM_WRESTLING_WRESTLE | ![A](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/0MgNhZs.png) | ![MOUSE LEFT BUTTON](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/aQ7tPx4.png) |
+| INPUT_ARM_WRESTLING_SLAM | ![X](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/jMHzSOK.png) | ![S](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/4VN6vKR.png) |
+| INPUT_BLACKJACK_SKIP_DEAL | ![LB](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/cTjruGm.png) | ![RCTRL](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/nZc6PrH.png) |
+| INPUT_BLACKJACK_ACCEPT_INSURANCE | ![X](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/jMHzSOK.png) | ![R](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/gnZ5UD1.png) |
+| INPUT_BLACKJACK_REJECT_INSURANCE | ![A](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/0MgNhZs.png) | ![F](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/iYw7noh.png) |
+| INPUT_BLACKJACK_HIT | ![X](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/jMHzSOK.png) | ![A](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/VvYaWhc.png) |
+| INPUT_BLACKJACK_SPLIT | ![RB](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/N6tGiDZ.png) | ![X](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/lWkYN97.png) |
+| INPUT_BLACKJACK_DOUBLE_DOWN | ![Y](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/ymqhroT.png) | ![D](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/SdwDh03.png) |
+| INPUT_BLACKJACK_STAND | ![A](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/0MgNhZs.png) | ![S](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/4VN6vKR.png) |
+| INPUT_POKER_CHEAT | ![Y](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/ymqhroT.png) | ![Y](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/5wZwWlk.png) |
+| INPUT_POKER_FOLD | ![X](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/jMHzSOK.png) | ![F](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/iYw7noh.png) |
+| INPUT_FIVE_FINGER_A_BUTTON | ![A](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/0MgNhZs.png) | ![1](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/3yCqG1z.png) |
+| INPUT_FIVE_FINGER_B_BUTTON | ![B](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/9qlEa0H.png) | ![2](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/Xh76i5f.png) |
+| INPUT_FIVE_FINGER_C_BUTTON | ![Y](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/ymqhroT.png) | ![3](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/aNT1Ej0.png) |
+| INPUT_FIVE_FINGER_D_BUTTON | ![X](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/jMHzSOK.png) | ![4](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/opr6qmR.png) |
+| INPUT_HORSESHOES_ZOOM_AT_STAKE | ![X](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/jMHzSOK.png) | ![E](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/51oVmKd.png) |
+| INPUT_HORSESHOES_SKIP_TO_PLAYER | ![A](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/0MgNhZs.png) | ![Q](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/omQzLq7.png) |
+| INPUT_HORSESHOES_RELEASE | ![RTRIGGER](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/8fBZX5u.png) | ![SPACEBAR](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/GXImT6Z.png) |
+| INPUT_HORSESHOES_AIM | ![LTRIGGER](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/B32aDhG.png) | ![LCTRL](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/PPkge6g.png) |
+| INPUT_HORSESHOES_AIM_LEFT | ![LSTICK LEFT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/uli3Fjg.png) | ![A](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/VvYaWhc.png) |
+| INPUT_HORSESHOES_AIM_RIGHT | ![LSTICK RIGHT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/KGDLRtz.png) | ![D](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/SdwDh03.png) |
+| INPUT_HORSESHOES_SWITCH_SIDES | ![A](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/0MgNhZs.png) | ![R](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/gnZ5UD1.png) |
+| INPUT_HORSESHOES_SWING_FORWARD | ![RSTICK UP](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/fzedbwG.png) | ![W](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/nxFGt0O.png) |
+| INPUT_HORSESHOES_SWING_BACKWARD | ![RSTICK DOWN](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/tmHxTj9.png) | ![S](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/4VN6vKR.png) |
+| INPUT_LIARS_DICE_ANTE | ![X](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/jMHzSOK.png) | ![SPACEBAR](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/GXImT6Z.png) |
+| INPUT_LIARS_DICE_CHANGE_DICE_UP | ![RSTICK UP](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/fzedbwG.png) | ![ARROW KEY UP](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/XGZcdO6.png) |
+| INPUT_LIARS_DICE_CHANGE_DICE_DOWN | ![RSTICK DOWN](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/tmHxTj9.png) | ![ARROW KEY DOWN](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/xQ2pr13.png) |
+| INPUT_LIARS_DICE_SPOT_ON | ![Y](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/ymqhroT.png) | ![D](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/SdwDh03.png) |
+| INPUT_MINIGAME_INCREASE_BET | ![DPAD UP](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/g8GVkR6.png) | ![W](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/nxFGt0O.png) |
+| INPUT_MINIGAME_DECREASE_BET | ![DPAD DOWN](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/Zk4k6Jy.png) | ![S](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/4VN6vKR.png) |
+| INPUT_MINIGAME_SKIP_HELP | ![A](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/0MgNhZs.png) | ![Q](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/omQzLq7.png) |
+| INPUT_MINIGAME_SHOW_HELP | ![BACK BUTTON](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/K8MY7XX.png) | ![TAB](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/Wm7nhET.png) |
+| INPUT_MINIGAME_SKIP_TO_PLAYER | ![RB](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/N6tGiDZ.png) | ![LCTRL](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/PPkge6g.png) |
+| INPUT_MINIGAME_LOOK_AROUND |  | ![LALT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/u4YFYb8.png) |
+| INPUT_MINIGAME_LOOK_AT_HAND | ![RTRIGGER](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/8fBZX5u.png) | ![LSHIFT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/xaRSH4t.png) |
+| INPUT_MINIGAME_LOOK_AT_DEALER | ![LTRIGGER](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/B32aDhG.png) | ![E](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/51oVmKd.png) |
 
 ## GET_ANALOGUE_ACTION Only
 | Input | XBOX Controller | Keyboard Default Binds |
 | :------------ | :------------: | :------------: |
-| INPUT_CAMERA_MOVE_X | ![RSTICK UD](assets/xbox_button_icons/Vz0Spad.png) |  |
-| INPUT_CAMERA_MOVE_Y | ![RSTICK LR](assets/xbox_button_icons/hgcwY4z.png) |  |
-| INPUT_GENERIC_MOVE_X | ![LSTICK UD](assets/xbox_button_icons/vpHrrc8.png) | ![W](assets/keyboard_button_icons/nxFGt0O.png)![S](assets/keyboard_button_icons/4VN6vKR.png) |
-| INPUT_GENERIC_MOVE_Y | ![LSTICK LR](assets/xbox_button_icons/nt4Wlv7.png) | ![A](assets/keyboard_button_icons/VvYaWhc.png)![D](assets/keyboard_button_icons/SdwDh03.png) |
-| INPUT_HORSESHOES_LOOK_AROUND_X | ![LSTICK UD](assets/xbox_button_icons/vpHrrc8.png) | ![ARROW KEY LEFT](assets/keyboard_button_icons/wXlc9Q3.png)![ARROW KEY RIGHT](assets/keyboard_button_icons/tyQGf6T.png) |
-| INPUT_HORSESHOES_LOOK_AROUND_Y | ![LSTICK LR](assets/xbox_button_icons/nt4Wlv7.png) | ![ARROW KEY UP](assets/keyboard_button_icons/XGZcdO6.png)![ARROW KEY DOWN](assets/keyboard_button_icons/xQ2pr13.png) |
+| INPUT_CAMERA_MOVE_X | ![RSTICK UD](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/Vz0Spad.png) |  |
+| INPUT_CAMERA_MOVE_Y | ![RSTICK LR](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/hgcwY4z.png) |  |
+| INPUT_GENERIC_MOVE_X | ![LSTICK UD](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/vpHrrc8.png) | ![W](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/nxFGt0O.png)![S](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/4VN6vKR.png) |
+| INPUT_GENERIC_MOVE_Y | ![LSTICK LR](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/nt4Wlv7.png) | ![A](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/VvYaWhc.png)![D](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/SdwDh03.png) |
+| INPUT_HORSESHOES_LOOK_AROUND_X | ![LSTICK UD](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/vpHrrc8.png) | ![ARROW KEY LEFT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/wXlc9Q3.png)![ARROW KEY RIGHT](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/tyQGf6T.png) |
+| INPUT_HORSESHOES_LOOK_AROUND_Y | ![LSTICK LR](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/xbox_button_icons/nt4Wlv7.png) | ![ARROW KEY UP](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/XGZcdO6.png)![ARROW KEY DOWN](https://raw.githubusercontent.com/Red-Mods/RedHook-Docs/main/assets/keyboard_button_icons/xQ2pr13.png) |
 
 ## Known Natives that use these Input Strings
 
