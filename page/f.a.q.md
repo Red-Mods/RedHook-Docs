@@ -6,7 +6,7 @@
 
 ## **What unique features does RedHook offer ?**
 
-**RedHook** features a modern looking console UI to easily reload/unload scripts on the fly, and also includes an [extended list of natives](#extended-natives-reference) and a large panel of [exported functions](#exported-functions-reference).
+**RedHook** features a modern looking console UI to easily reload/unload scripts on the fly, and also includes an [extended list of natives](#/page/extended_natives_reference/ALLOW_GAMEPLAY_CAMERA_FOV_OVERRIDE) and a large panel of [exported functions](#/page/exported_functions_reference/Print).
 
 ## What is RedHookSDK ?
 
