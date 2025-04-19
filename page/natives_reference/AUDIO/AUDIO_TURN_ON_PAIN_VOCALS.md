@@ -1,0 +1,5 @@
+# AUDIO_TURN_ON_PAIN_VOCALS `0X2B1B76E8`
+
+```cpp
+void AUDIO::AUDIO_TURN_ON_PAIN_VOCALS(Actor _Actor)
+```
