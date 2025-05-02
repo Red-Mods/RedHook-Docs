@@ -49,7 +49,6 @@
 
 ## 📜 Natives Reference
 
-- [📂 Expand All](#)
 ### actor
 
 - [ACTOR_DISMOUNT_NOW](#/page/natives_reference/ACTOR/ACTOR_DISMOUNT_NOW)
